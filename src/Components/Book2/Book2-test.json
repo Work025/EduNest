@@ -1,0 +1,2583 @@
+{
+    "Lesson-1": [
+        {
+            "question": "Lesson-1 (1) Where is Mr.Priestley's house? ",
+            "options": [
+                "Mr.Priestley's house is about nine miles from London in the countryside",
+                "Mr.Priestley's house is about ten miles from London in the countryside",
+                "Mr.Priestley's house is about eleven miles from London in the countryside"
+            ],
+            "correctAnswer": "Mr.Priestley's house is about ten miles from London in the countryside",
+            "help": "This is answer in the book"
+        },
+        {
+            "question": "What is a 'sideboard' most commonly used for?",
+            "options": [
+                "A piece of furniture used for storing dishes and serving food",
+                "A wooden plank used to build stairs",
+                "A board game played on the floor",
+                "A kitchen appliance for cooking"
+            ],
+            "correctAnswer": "A piece of furniture used for storing dishes and serving food",
+            "help": "A 'sideboard' is a piece of furniture often found in dining rooms, used for storing tableware and sometimes serving food."
+        }
+    ],
+    "Lesson-2": [
+        {
+            "question": "Which word means 'belonging to me'?",
+            "options": [
+                "mine",
+                "yours",
+                "his",
+                "hers"
+            ],
+            "correctAnswer": "mine",
+            "help": "'Mine' means something that belongs to the speaker."
+        },
+        {
+            "question": "Which of the following is the past form of 'buy'?",
+            "options": [
+                "bought",
+                "buys",
+                "buying",
+                "buyed"
+            ],
+            "correctAnswer": "bought",
+            "help": "'Bought' is the correct past tense of 'buy'."
+        },
+        {
+            "question": "Which word means a small house built by birds?",
+            "options": [
+                "nest",
+                "cage",
+                "tree",
+                "hole"
+            ],
+            "correctAnswer": "nest",
+            "help": "Birds build nests to lay eggs and live in."
+        },
+        {
+            "question": "What is the past form of 'go'?",
+            "options": [
+                "went",
+                "gone",
+                "goes",
+                "goed"
+            ],
+            "correctAnswer": "went",
+            "help": "'Went' is the simple past tense of 'go'."
+        },
+        {
+            "question": "Which of the following is used to describe 'not little, not much'?",
+            "options": [
+                "enough",
+                "many",
+                "much",
+                "few"
+            ],
+            "correctAnswer": "enough",
+            "help": "'Enough' means the required amount or satisfactory."
+        },
+        {
+            "question": "What is the opposite of 'first'?",
+            "options": [
+                "last",
+                "second",
+                "before",
+                "end"
+            ],
+            "correctAnswer": "last",
+            "help": "'Last' refers to the final in a sequence, opposite of 'first'."
+        },
+        {
+            "question": "Which word means 'good-looking or attractive'?",
+            "options": [
+                "pretty",
+                "ugly",
+                "angry",
+                "tall"
+            ],
+            "correctAnswer": "pretty",
+            "help": "'Pretty' is often used to describe beauty."
+        },
+        {
+            "question": "Which is a synonym of 'kind' or 'pleasant'?",
+            "options": [
+                "nice",
+                "mean",
+                "rough",
+                "angry"
+            ],
+            "correctAnswer": "nice",
+            "help": "'Nice' describes someone or something that is pleasant or good."
+        },
+        {
+            "question": "Which of the following is a family member by marriage?",
+            "options": [
+                "sister in law",
+                "cousin",
+                "stepmother",
+                "niece"
+            ],
+            "correctAnswer": "sister in law",
+            "help": "'Sister in law' is your spouse's sister or your sibling's wife."
+        },
+        {
+            "question": "Who is someone who writes novels?",
+            "options": [
+                "novelist",
+                "poet",
+                "editor",
+                "reader"
+            ],
+            "correctAnswer": "novelist",
+            "help": "A 'novelist' is a person who writes fictional books."
+        }
+    ],
+    "Lesson-3": [
+        {
+            "question": "How does the speaker get warm on winter mornings?",
+            "options": [
+                "He puts on warm clothes immediately after getting up",
+                "He rubs himself hard with a towel after washing",
+                "He drinks hot tea right after waking up"
+            ],
+            "correctAnswer": "He rubs himself hard with a towel after washing",
+            "help": "The text says: 'I rub myself hard with the towel and soon I feel quite warm.'"
+        },
+        {
+            "question": "Which word refers to a school where students live during the term?",
+            "options": [
+                "boarding-school",
+                "college",
+                "university",
+                "nursery"
+            ],
+            "correctAnswer": "boarding-school",
+            "help": "'Boarding-school' means a school where students live and study during the academic term."
+        }
+    ],
+    "Lesson-4": [
+        {
+            "question": "In the sentence: \"I said 'if you plase?' That wasn't right, was it?\" — what would be the correct phrase to use instead of 'if you plase'?",
+            "options": [
+                "Pardon?",
+                "If you like?",
+                "Please you?",
+                "Excuse it?"
+            ],
+            "correctAnswer": "Pardon?",
+            "help": "The polite way to ask someone to repeat what they said is 'Pardon?' or 'Sorry?'. 'If you please' is old-fashioned and used differently."
+        },
+        {
+            "question": "What does the word 'confused' mean in the sentence: 'I didn’t understand his explanation — it only confused me more'?",
+            "options": [
+                "Made me more unclear or puzzled",
+                "Helped me understand better",
+                "Made me laugh",
+                "Made things easier"
+            ],
+            "correctAnswer": "Made me more unclear or puzzled",
+            "help": "'Confused' means to feel uncertain or unable to understand something clearly."
+        }
+    ],
+    "Lesson-5": [
+        {
+            "question": "In the sentence: 'Some teachers get rather carried away by any new idea...', what does 'carried away' mean?",
+            "options": [
+                "Become too excited or enthusiastic",
+                "Physically taken somewhere",
+                "Ignore the idea completely",
+                "Become angry or upset"
+            ],
+            "correctAnswer": "Become too excited or enthusiastic",
+            "help": "'Carried away' is an idiom that means becoming overly enthusiastic or excited about something."
+        },
+        {
+            "question": "What is an 'interjection' as used in the sentence: 'Words like \"Oh!\", \"Wow!\", and \"Oops!\" are called interjections because they show sudden feelings or reactions'?",
+            "options": [
+                "A word that expresses sudden emotion",
+                "A question word",
+                "A joining word like 'and' or 'but'",
+                "A type of verb"
+            ],
+            "correctAnswer": "A word that expresses sudden emotion",
+            "help": "An interjection is a word or phrase used to express strong emotion or surprise, often standing alone like 'Wow!' or 'Oops!'."
+        }
+    ],
+    "Lesson-6": [
+        {
+            "question": "What does the word 'everlasting' mean in the sentence: 'Aggie was getting tired of this everlasting talk'?",
+            "options": [
+                "That goes on for a very long time",
+                "That is very interesting",
+                "That is about birds",
+                "That is hard to hear"
+            ],
+            "correctAnswer": "That goes on for a very long time",
+            "help": "'Everlasting' means something that seems to never end or goes on for a very long time."
+        },
+        {
+            "question": "What does the word 'astonishment' mean in the sentence: 'She opened the gift and looked at it in complete astonishment'?",
+            "options": [
+                "Great surprise",
+                "Anger",
+                "Sadness",
+                "Confusion"
+            ],
+            "correctAnswer": "Great surprise",
+            "help": "'Astonishment' means a feeling of great surprise or amazement."
+        }
+    ],
+    "Lesson-7": [
+        {
+            "question": "What is a reflexive pronoun in this sentence: 'He looked at himself in the mirror'?",
+            "options": [
+                "himself",
+                "he",
+                "mirror",
+                "looked"
+            ],
+            "correctAnswer": "himself",
+            "help": "Reflexive pronouns like 'himself' are used when the subject and object of the sentence are the same person."
+        },
+        {
+            "question": "What does 'oneself' mean in this sentence: 'It is important to take care of oneself'?",
+            "options": [
+                "your own person",
+                "another person",
+                "everyone",
+                "nobody"
+            ],
+            "correctAnswer": "your own person",
+            "help": "'Oneself' is a reflexive pronoun that means the person who is acting also receives the action."
+        },
+        {
+            "question": "In the sentence 'He hurt himself while playing football', what does 'himself' show?",
+            "options": [
+                "He did it to himself",
+                "He helped someone else",
+                "Someone else hurt him",
+                "He watched the game"
+            ],
+            "correctAnswer": "He did it to himself",
+            "help": "Reflexive pronouns show that the person did something to themselves."
+        },
+        {
+            "question": "What does 'themselves' mean in: 'They built the house by themselves'?",
+            "options": [
+                "Without help",
+                "Together with others",
+                "With a company",
+                "With teachers"
+            ],
+            "correctAnswer": "Without help",
+            "help": "'By themselves' means they did something alone, without any help."
+        },
+        {
+            "question": "Choose the reflexive pronoun in: 'I made this cake myself.'",
+            "options": [
+                "myself",
+                "cake",
+                "this",
+                "made"
+            ],
+            "correctAnswer": "myself",
+            "help": "'Myself' is used when the subject 'I' does something without help."
+        },
+        {
+            "question": "In 'You should clean the room yourselves', what does 'yourselves' show?",
+            "options": [
+                "Do it without help",
+                "Ask someone else",
+                "Call a cleaner",
+                "It is not your job"
+            ],
+            "correctAnswer": "Do it without help",
+            "help": "'Yourselves' is a reflexive pronoun used when 'you' is plural and acting alone."
+        },
+        {
+            "question": "What does 'stole' mean in this sentence: 'He stole a bike from the yard'?",
+            "options": [
+                "Took without permission",
+                "Bought it",
+                "Fixed it",
+                "Painted it"
+            ],
+            "correctAnswer": "Took without permission",
+            "help": "'Stole' is the past tense of 'steal', meaning to take something that is not yours."
+        },
+        {
+            "question": "In 'The cat hurt itself while jumping', what is the function of 'itself'?",
+            "options": [
+                "Reflexive pronoun",
+                "Name of the cat",
+                "A toy",
+                "The ground"
+            ],
+            "correctAnswer": "Reflexive pronoun",
+            "help": "'Itself' shows the subject 'the cat' did the action to itself."
+        },
+        {
+            "question": "What is a 'stamp' used for in: 'I put a stamp on the envelope'?",
+            "options": [
+                "To send a letter",
+                "To write a message",
+                "To close the envelope",
+                "To decorate it"
+            ],
+            "correctAnswer": "To send a letter",
+            "help": "A stamp shows that you paid to send the letter."
+        },
+        {
+            "question": "In the sentence 'I wrote a letter to my friend', what is a 'letter'?",
+            "options": [
+                "A written message",
+                "A phone call",
+                "A number",
+                "A photo"
+            ],
+            "correctAnswer": "A written message",
+            "help": "A letter is a message you write and send, often on paper."
+        }
+    ],
+    "Lesson-8": [
+        {
+            "question": "What does 'glorious' mean in the sentence: 'It was a glorious sunny day at the beach'?",
+            "options": [
+                "very beautiful and enjoyable",
+                "cloudy and cold",
+                "short and boring",
+                "very wet and rainy"
+            ],
+            "correctAnswer": "very beautiful and enjoyable",
+            "help": "'Glorious' means something very beautiful, wonderful, or full of glory."
+        },
+        {
+            "question": "What does 'obedient' mean in the sentence: 'Tom is an obedient child who always follows rules'?",
+            "options": [
+                "follows instructions",
+                "always noisy",
+                "never listens",
+                "very slow"
+            ],
+            "correctAnswer": "follows instructions",
+            "help": "'Obedient' describes someone who listens to and follows rules or instructions."
+        },
+        {
+            "question": "What does 'insurance' mean in the sentence: 'We bought travel insurance before the trip'?",
+            "options": [
+                "protection from loss or risk",
+                "a guidebook",
+                "money for food",
+                "a holiday plan"
+            ],
+            "correctAnswer": "protection from loss or risk",
+            "help": "'Insurance' is something you buy to protect against problems like accidents or theft."
+        },
+        {
+            "question": "In 'He walked past the house quietly', what does 'walk past' mean?",
+            "options": [
+                "go by something while walking",
+                "stand still",
+                "enter a building",
+                "look inside"
+            ],
+            "correctAnswer": "go by something while walking",
+            "help": "'Walk past' means to walk by or next to something without stopping."
+        },
+        {
+            "question": "What does 'knock over' mean in the sentence: 'He knocked over the glass of water'?",
+            "options": [
+                "make it fall",
+                "clean it up",
+                "fill it up",
+                "buy a new one"
+            ],
+            "correctAnswer": "make it fall",
+            "help": "'Knock over' means to hit something so that it falls."
+        },
+        {
+            "question": "What does 'crash' mean in: 'The car crashed into a wall'?",
+            "options": [
+                "hit something suddenly and hard",
+                "drive carefully",
+                "turn around slowly",
+                "stop the engine"
+            ],
+            "correctAnswer": "hit something suddenly and hard",
+            "help": "'Crash' means to hit something hard and suddenly, often with damage."
+        },
+        {
+            "question": "In 'The twins were in separate rooms', what does 'separate' mean?",
+            "options": [
+                "not together",
+                "next to each other",
+                "in the same room",
+                "together"
+            ],
+            "correctAnswer": "not together",
+            "help": "'Separate' means being apart or in different places."
+        },
+        {
+            "question": "What does 'obedience' mean in: 'Obedience is important in the army'?",
+            "options": [
+                "following orders",
+                "asking questions",
+                "talking a lot",
+                "giving commands"
+            ],
+            "correctAnswer": "following orders",
+            "help": "'Obedience' is the act of doing what someone tells you to do."
+        },
+        {
+            "question": "In 'The boy disobeyed his teacher', what does 'disobey' mean?",
+            "options": [
+                "not follow instructions",
+                "listen carefully",
+                "speak politely",
+                "run quickly"
+            ],
+            "correctAnswer": "not follow instructions",
+            "help": "'Disobey' means to not do what you are told."
+        },
+        {
+            "question": "What does 'run into' mean in: 'I ran into an old friend at the market'?",
+            "options": [
+                "meet by chance",
+                "argue with",
+                "drive over",
+                "follow someone"
+            ],
+            "correctAnswer": "meet by chance",
+            "help": "'Run into' can mean to meet someone unexpectedly."
+        }
+    ],
+    "Lesson-9": [
+        {
+            "question": "What does 'nevertheless' mean in: 'It was raining hard; nevertheless, they went for a walk'?",
+            "options": [
+                "because of that",
+                "even so",
+                "as a result",
+                "in the meantime"
+            ],
+            "correctAnswer": "even so",
+            "help": "'Nevertheless' means 'even so' or 'in spite of that'."
+        },
+        {
+            "question": "What does 'existence' mean in the sentence: 'The scientist talked about the existence of other planets'?",
+            "options": [
+                "how something looks",
+                "how long something lasts",
+                "the state of being real",
+                "a kind of object"
+            ],
+            "correctAnswer": "the state of being real",
+            "help": "'Existence' means the fact that something is real or present."
+        },
+        {
+            "question": "What does 'unless' mean in the sentence: 'You won’t pass the exam unless you study'?",
+            "options": [
+                "if not",
+                "even though",
+                "in case",
+                "as if"
+            ],
+            "correctAnswer": "if not",
+            "help": "'Unless' means 'if not'."
+        },
+        {
+            "question": "What does 'regard' mean in: 'He is highly regarded by his team'?",
+            "options": [
+                "look after",
+                "care less",
+                "respected or valued",
+                "disliked"
+            ],
+            "correctAnswer": "respected or valued",
+            "help": "'Regard' in this context means to respect or admire someone."
+        },
+        {
+            "question": "What does 'represent' mean in the sentence: 'The flag represents the country’s freedom'?",
+            "options": [
+                "shows or stands for",
+                "covers completely",
+                "builds something",
+                "destroys"
+            ],
+            "correctAnswer": "shows or stands for",
+            "help": "'Represent' means to stand for or symbolize something."
+        },
+        {
+            "question": "What does 'flock' refer to in: 'A flock of birds flew over the lake'?",
+            "options": [
+                "a group of flying animals",
+                "a place for fishing",
+                "a kind of nest",
+                "a type of tree"
+            ],
+            "correctAnswer": "a group of flying animals",
+            "help": "'Flock' is a group of birds or sheep."
+        },
+        {
+            "question": "What does 'anxious' mean in the sentence: 'She felt anxious before the test'?",
+            "options": [
+                "excited",
+                "nervous or worried",
+                "bored",
+                "happy"
+            ],
+            "correctAnswer": "nervous or worried",
+            "help": "'Anxious' means feeling worried or nervous about something."
+        },
+        {
+            "question": "What does 'presume' mean in: 'I presume he has already left the building'?",
+            "options": [
+                "know for sure",
+                "guess without proof",
+                "ask directly",
+                "deny something"
+            ],
+            "correctAnswer": "guess without proof",
+            "help": "'Presume' means to suppose something is true without proof."
+        },
+        {
+            "question": "What does 'origin' mean in: 'The origin of the tradition is unknown'?",
+            "options": [
+                "place where it happens",
+                "cause of problems",
+                "starting point or source",
+                "final result"
+            ],
+            "correctAnswer": "starting point or source",
+            "help": "'Origin' means the beginning or source of something."
+        },
+        {
+            "question": "What does 'empire' mean in the sentence: 'The Roman Empire was very powerful'?",
+            "options": [
+                "a small group of cities",
+                "a single building",
+                "a large group of countries under one ruler",
+                "a local school"
+            ],
+            "correctAnswer": "a large group of countries under one ruler",
+            "help": "'Empire' means many countries or regions ruled by one government or leader."
+        }
+    ],
+    "Lesson-10": [
+        {
+            "question": "What does 'pretend' mean in: 'The child pretended to be a doctor while playing'?",
+            "options": [
+                "to act like something is true",
+                "to really do something",
+                "to copy someone",
+                "to ask questions"
+            ],
+            "correctAnswer": "to act like something is true",
+            "help": "'Pretend' means to behave as if something is true when it is not."
+        },
+        {
+            "question": "What does 'bad-tempered' mean in: 'He became bad-tempered after waiting so long'?",
+            "options": [
+                "very happy",
+                "easily angry",
+                "very confused",
+                "sleepy"
+            ],
+            "correctAnswer": "easily angry",
+            "help": "'Bad-tempered' means someone gets angry easily or is often in a bad mood."
+        },
+        {
+            "question": "What does 'completely' mean in: 'The room was completely dark'?",
+            "options": [
+                "a little",
+                "not at all",
+                "totally or fully",
+                "somewhat"
+            ],
+            "correctAnswer": "totally or fully",
+            "help": "'Completely' means fully or entirely, with nothing left out."
+        },
+        {
+            "question": "What does 'furnished' mean in the sentence: 'The apartment was fully furnished'?",
+            "options": [
+                "had no furniture",
+                "was painted recently",
+                "had all the furniture inside",
+                "was under construction"
+            ],
+            "correctAnswer": "had all the furniture inside",
+            "help": "'Furnished' means the place already has furniture like a bed, table, chairs, etc."
+        },
+        {
+            "question": "What does 'enormous' mean in: 'They saw an enormous elephant at the zoo'?",
+            "options": [
+                "very fast",
+                "very small",
+                "very large",
+                "very old"
+            ],
+            "correctAnswer": "very large",
+            "help": "'Enormous' means very, very big in size or amount."
+        },
+        {
+            "question": "What does 'parcel' mean in the sentence: 'He received a parcel in the mail'?",
+            "options": [
+                "a letter",
+                "a package or box",
+                "a bag",
+                "a message"
+            ],
+            "correctAnswer": "a package or box",
+            "help": "'Parcel' is something wrapped in paper or packed in a box, usually sent by mail."
+        },
+        {
+            "question": "What does 'wish' mean in: 'I wish I could travel the world someday'?",
+            "options": [
+                "a strong desire",
+                "a rule",
+                "a decision",
+                "a memory"
+            ],
+            "correctAnswer": "a strong desire",
+            "help": "'Wish' means to want something to happen or be true."
+        },
+        {
+            "question": "What does 'candle' mean in: 'She lit a candle during the power cut'?",
+            "options": [
+                "a type of light using wax",
+                "a lamp",
+                "a firework",
+                "a glass of oil"
+            ],
+            "correctAnswer": "a type of light using wax",
+            "help": "'Candle' is a wax stick that gives light when burned."
+        },
+        {
+            "question": "What does 'undress' mean in: 'He told the child to undress before bed'?",
+            "options": [
+                "to put on clothes",
+                "to clean up",
+                "to take off clothes",
+                "to go to sleep"
+            ],
+            "correctAnswer": "to take off clothes",
+            "help": "'Undress' means to remove your clothes."
+        },
+        {
+            "question": "What does 'alive' mean in: 'The rabbit was still alive after the storm'?",
+            "options": [
+                "not moving",
+                "dead",
+                "living or not dead",
+                "cold"
+            ],
+            "correctAnswer": "living or not dead",
+            "help": "'Alive' means living, not dead."
+        }
+    ],
+    "Lesson-11": [
+        {
+            "question": "What does 'toss' mean in: 'He tossed the ball to his friend'?",
+            "options": [
+                "to throw lightly",
+                "to catch",
+                "to hold tightly",
+                "to hide"
+            ],
+            "correctAnswer": "to throw lightly",
+            "help": "'Toss' means to throw something gently or lightly."
+        },
+        {
+            "question": "What does 'beast' mean in: 'The beast roared loudly in the forest'?",
+            "options": [
+                "a friendly animal",
+                "a wild or dangerous animal",
+                "a human",
+                "a ghost"
+            ],
+            "correctAnswer": "a wild or dangerous animal",
+            "help": "'Beast' refers to a wild or dangerous animal, often large."
+        },
+        {
+            "question": "What does 'flickers' mean in: 'The candle's light flickers in the wind'?",
+            "options": [
+                "shines steadily",
+                "goes out completely",
+                "moves unsteadily",
+                "burns brightly"
+            ],
+            "correctAnswer": "moves unsteadily",
+            "help": "'Flickers' means to shine or burn unsteadily, often blinking or fluttering."
+        },
+        {
+            "question": "What does 'coal' mean in: 'They used coal to heat the room'?",
+            "options": [
+                "a type of wood",
+                "black rock used for fuel",
+                "a gas",
+                "a metal"
+            ],
+            "correctAnswer": "black rock used for fuel",
+            "help": "'Coal' is a black rock burned as fuel to produce heat."
+        },
+        {
+            "question": "What does 'gloom' mean in: 'The room was full of gloom'?",
+            "options": [
+                "bright light",
+                "cheerfulness",
+                "partial darkness",
+                "cleanliness"
+            ],
+            "correctAnswer": "partial darkness",
+            "help": "'Gloom' means a state of partial or total darkness, often linked with sadness."
+        },
+        {
+            "question": "What does 'glitter' mean in: 'The stars glittered in the night sky'?",
+            "options": [
+                "shone brightly with little flashes",
+                "made loud sounds",
+                "moved slowly",
+                "disappeared"
+            ],
+            "correctAnswer": "shone brightly with little flashes",
+            "help": "'Glitter' means to shine with small bright flashes of light."
+        },
+        {
+            "question": "What does 'phantom' mean in: 'He thought he saw a phantom in the mirror'?",
+            "options": [
+                "a real person",
+                "a loud noise",
+                "a ghost",
+                "a book"
+            ],
+            "correctAnswer": "a ghost",
+            "help": "'Phantom' means a ghost or something imagined but not real."
+        },
+        {
+            "question": "What does 'marching' mean in: 'The soldiers were marching in line'?",
+            "options": [
+                "running quickly",
+                "walking with regular steps",
+                "standing still",
+                "jumping"
+            ],
+            "correctAnswer": "walking with regular steps",
+            "help": "'Marching' means walking with regular steps like soldiers."
+        },
+        {
+            "question": "What does 'embers' mean in: 'The fire died down to glowing embers'?",
+            "options": [
+                "cold ashes",
+                "small hot pieces of coal or wood",
+                "wet logs",
+                "flames"
+            ],
+            "correctAnswer": "small hot pieces of coal or wood",
+            "help": "'Embers' are small, glowing pieces of wood or coal in a dying fire."
+        },
+        {
+            "question": "What does 'fade' mean in: 'The light began to fade at sunset'?",
+            "options": [
+                "get brighter",
+                "stay the same",
+                "disappear slowly",
+                "move quickly"
+            ],
+            "correctAnswer": "disappear slowly",
+            "help": "'Fade' means to gradually disappear or become less visible."
+        }
+    ],
+    "Lesson-12": [
+        {
+            "question": "What does 'determination' mean in: 'Her determination helped her finish the race'?",
+            "options": [
+                "fear of failing",
+                "strong will to do something",
+                "laziness",
+                "lack of interest"
+            ],
+            "correctAnswer": "strong will to do something",
+            "help": "'Determination' means not giving up and trying hard to succeed."
+        },
+        {
+            "question": "What does 'promise' mean in: 'He made a promise to call her every day'?",
+            "options": [
+                "a secret",
+                "a lie",
+                "a joke",
+                "a strong statement to do something"
+            ],
+            "correctAnswer": "a strong statement to do something",
+            "help": "'Promise' means saying you will do something for sure."
+        },
+        {
+            "question": "What does 'recognise' mean in: 'Do you recognise this song?'",
+            "options": [
+                "to see for the first time",
+                "to understand everything",
+                "to remember and know something",
+                "to make something new"
+            ],
+            "correctAnswer": "to remember and know something",
+            "help": "'Recognise' means to know something or someone because you have seen or heard it before."
+        },
+        {
+            "question": "What does 'probable' mean in: 'It is probable that it will rain tomorrow'?",
+            "options": [
+                "not possible",
+                "very sure",
+                "a little chance",
+                "likely to happen"
+            ],
+            "correctAnswer": "likely to happen",
+            "help": "'Probable' means something is likely but not 100% sure."
+        },
+        {
+            "question": "What does 'cost' mean in: 'How much does this shirt cost?'",
+            "options": [
+                "its size",
+                "its value in money",
+                "its color",
+                "its style"
+            ],
+            "correctAnswer": "its value in money",
+            "help": "'Cost' means how much money you need to buy something."
+        },
+        {
+            "question": "What does 'willingness' mean in: 'Her willingness to help was clear'?",
+            "options": [
+                "not wanting to help",
+                "feeling tired",
+                "wanting to do something",
+                "being afraid"
+            ],
+            "correctAnswer": "wanting to do something",
+            "help": "'Willingness' means being ready or happy to do something."
+        },
+        {
+            "question": "What does 'north' mean in: 'They live in the north of the country'?",
+            "options": [
+                "a place near the sea",
+                "a direction towards the top",
+                "a city name",
+                "a small village"
+            ],
+            "correctAnswer": "a direction towards the top",
+            "help": "'North' is one of the four main directions on a map, opposite of south."
+        },
+        {
+            "question": "What does 'wing' mean in: 'The bird broke its wing'?",
+            "options": [
+                "a foot",
+                "a tail",
+                "a part used for flying",
+                "a beak"
+            ],
+            "correctAnswer": "a part used for flying",
+            "help": "'Wing' is the part of a bird or plane that helps it fly."
+        },
+        {
+            "question": "What does 'poor' mean in: 'They were a poor family with little money'?",
+            "options": [
+                "rich",
+                "unhappy",
+                "having little money",
+                "kind"
+            ],
+            "correctAnswer": "having little money",
+            "help": "'Poor' means not having much money or things."
+        },
+        {
+            "question": "What does 'stay up' mean in: 'We stayed up late to watch the movie'?",
+            "options": [
+                "sleep early",
+                "go outside",
+                "stay awake and not sleep",
+                "wake up early"
+            ],
+            "correctAnswer": "stay awake and not sleep",
+            "help": "'Stay up' means not going to bed and staying awake longer than usual."
+        }
+    ],
+    "Lesson-13": [
+        {
+            "question": "What does 'wholesale' mean in: 'The shop sells clothes at wholesale prices'?",
+            "options": [
+                "expensive prices",
+                "prices for many items",
+                "very low quality",
+                "for one person only"
+            ],
+            "correctAnswer": "prices for many items",
+            "help": "'Wholesale' means selling goods in large amounts at lower prices."
+        },
+        {
+            "question": "What does 'mincepies' refer to in: 'We had mincepies for dessert during Christmas'?",
+            "options": [
+                "chocolate cakes",
+                "fruit-filled pies",
+                "meatballs",
+                "cheese pies"
+            ],
+            "correctAnswer": "fruit-filled pies",
+            "help": "'Mincepies' are sweet pies filled with dried fruits, often eaten at Christmas."
+        },
+        {
+            "question": "What does 'keeping well' mean in: 'I hope you’re keeping well these days'?",
+            "options": [
+                "feeling healthy",
+                "working hard",
+                "saving money",
+                "traveling often"
+            ],
+            "correctAnswer": "feeling healthy",
+            "help": "'Keeping well' is a polite way to ask if someone is staying healthy."
+        },
+        {
+            "question": "What does 'clockwork' mean in: 'The train arrived like clockwork'?",
+            "options": [
+                "very late",
+                "very fast",
+                "very loud",
+                "very regularly"
+            ],
+            "correctAnswer": "very regularly",
+            "help": "'Like clockwork' means something happens on time or regularly."
+        },
+        {
+            "question": "What does 'born' mean in: 'She was born in 2005'?",
+            "options": [
+                "started school",
+                "got a job",
+                "came into life",
+                "moved to a new city"
+            ],
+            "correctAnswer": "came into life",
+            "help": "'Born' means the moment a person comes into the world or life starts."
+        },
+        {
+            "question": "What does 'cause' mean in: 'The storm caused many problems in the city'?",
+            "options": [
+                "solved",
+                "fixed",
+                "brought about",
+                "ignored"
+            ],
+            "correctAnswer": "brought about",
+            "help": "'Cause' means to make something happen, usually something bad."
+        },
+        {
+            "question": "What does 'change' mean in: 'The weather can change quickly in spring'?",
+            "options": [
+                "stay the same",
+                "become worse",
+                "be different",
+                "go away"
+            ],
+            "correctAnswer": "be different",
+            "help": "'Change' means to become different over time."
+        },
+        {
+            "question": "What does 'smell' mean in: 'The kitchen smells like fresh bread'?",
+            "options": [
+                "looks like",
+                "sounds like",
+                "feels like",
+                "has a scent like"
+            ],
+            "correctAnswer": "has a scent like",
+            "help": "'Smell' refers to the scent or odor of something."
+        },
+        {
+            "question": "What does 'talk' mean in: 'They talked for hours about their plans'?",
+            "options": [
+                "wrote messages",
+                "spoke to each other",
+                "ran quickly",
+                "watched a movie"
+            ],
+            "correctAnswer": "spoke to each other",
+            "help": "'Talk' means to speak or have a conversation with someone."
+        },
+        {
+            "question": "What does 'lagguage' mean in: 'Her luggage was too heavy to carry'?",
+            "options": [
+                "small bag",
+                "books",
+                "suitcases and bags",
+                "camera"
+            ],
+            "correctAnswer": "suitcases and bags",
+            "help": "'Luggage' means the bags or suitcases you take with you when you travel."
+        }
+    ],
+    "Lesson-14": [
+        {
+            "question": "What does 'truly' mean in: 'I truly believe she is right'?",
+            "options": [
+                "a little",
+                "not really",
+                "honestly",
+                "possibly"
+            ],
+            "correctAnswer": "honestly",
+            "help": "'Truly' means honestly or really, showing you strongly believe something."
+        },
+        {
+            "question": "What does 'sincerely' mean in: 'Sincerely, John'?",
+            "options": [
+                "quickly",
+                "honestly",
+                "sadly",
+                "loudly"
+            ],
+            "correctAnswer": "honestly",
+            "help": "'Sincerely' is used to end a letter in a polite and honest way."
+        },
+        {
+            "question": "What does 'remain' mean in: 'Only one cookie remains on the plate'?",
+            "options": [
+                "is finished",
+                "is broken",
+                "is left",
+                "is gone"
+            ],
+            "correctAnswer": "is left",
+            "help": "'Remain' means to stay or be left after others are gone."
+        },
+        {
+            "question": "What does 'best' mean in: 'He is the best player on the team'?",
+            "options": [
+                "the worst",
+                "the most skilled",
+                "the newest",
+                "the tallest"
+            ],
+            "correctAnswer": "the most skilled",
+            "help": "'Best' means better than all the others."
+        },
+        {
+            "question": "What does 'wishes' mean in: 'Best wishes for your future'?",
+            "options": [
+                "hopes or kind thoughts",
+                "big gifts",
+                "bad ideas",
+                "letters"
+            ],
+            "correctAnswer": "hopes or kind thoughts",
+            "help": "'Wishes' means kind hopes or positive thoughts for someone."
+        },
+        {
+            "question": "What does 'kindest' mean in: 'Kindest regards, Sarah'?",
+            "options": [
+                "funniest",
+                "most polite",
+                "most kind",
+                "most late"
+            ],
+            "correctAnswer": "most kind",
+            "help": "'Kindest' is the superlative form of 'kind', meaning very kind or most kind."
+        },
+        {
+            "question": "What does 'regards' mean in: 'With warm regards, Alex'?",
+            "options": [
+                "goodbye",
+                "feelings of respect",
+                "shouting",
+                "questions"
+            ],
+            "correctAnswer": "feelings of respect",
+            "help": "'Regards' is a polite way to close a message and show respect or kindness."
+        },
+        {
+            "question": "What does 'esquire' mean in: 'John Smith, Esquire'?",
+            "options": [
+                "a job title",
+                "a greeting",
+                "a lawyer or respected man",
+                "a book title"
+            ],
+            "correctAnswer": "a lawyer or respected man",
+            "help": "'Esquire' is a formal title used for a lawyer or respected male in letters."
+        }
+    ],
+    "Lesson-15": [
+        {
+            "question": "What does 'packing' mean in: 'She is packing her clothes for the trip'?",
+            "options": [
+                "washing clothes",
+                "putting clothes in a bag",
+                "buying clothes",
+                "wearing clothes"
+            ],
+            "correctAnswer": "putting clothes in a bag",
+            "help": "'Packing' means putting things like clothes into a bag or suitcase."
+        },
+        {
+            "question": "What does 'wait' mean in: 'Please wait here until I come back'?",
+            "options": [
+                "run fast",
+                "stay in one place until something happens",
+                "talk to someone",
+                "go to sleep"
+            ],
+            "correctAnswer": "stay in one place until something happens",
+            "help": "'Wait' means to stay where you are until someone or something arrives."
+        },
+        {
+            "question": "What does 'looking forward' mean in: 'I’m looking forward to the holidays'?",
+            "options": [
+                "being afraid of",
+                "waiting with excitement",
+                "forgetting something",
+                "leaving soon"
+            ],
+            "correctAnswer": "waiting with excitement",
+            "help": "'Looking forward' means you are excited about something that will happen."
+        },
+        {
+            "question": "What does 'gathering' mean in: 'There is a gathering at my house tonight'?",
+            "options": [
+                "cleaning the house",
+                "a meeting of people",
+                "buying gifts",
+                "watching TV"
+            ],
+            "correctAnswer": "a meeting of people",
+            "help": "'Gathering' means a group of people meeting for a purpose."
+        },
+        {
+            "question": "What are 'braces' used for?",
+            "options": [
+                "to cover the head",
+                "to fix teeth",
+                "to help see better",
+                "to clean ears"
+            ],
+            "correctAnswer": "to fix teeth",
+            "help": "'Braces' are devices used to straighten teeth."
+        },
+        {
+            "question": "What does 'belt' mean in: 'He wore a belt to keep his pants up'?",
+            "options": [
+                "a kind of shirt",
+                "a rope for shoes",
+                "a band around the waist",
+                "a piece of jewelry"
+            ],
+            "correctAnswer": "a band around the waist",
+            "help": "'Belt' is a strip worn around the waist to hold clothes in place."
+        },
+        {
+            "question": "What does 'see you off' mean in: 'They came to the station to see me off'?",
+            "options": [
+                "help you get on the train",
+                "say goodbye before a trip",
+                "travel with you",
+                "give you food"
+            ],
+            "correctAnswer": "say goodbye before a trip",
+            "help": "'See someone off' means to say goodbye when they are leaving."
+        },
+        {
+            "question": "What does 'upon this earth' mean in: 'He is the kindest man upon this earth'?",
+            "options": [
+                "in this country",
+                "in this area",
+                "in the whole world",
+                "in a small village"
+            ],
+            "correctAnswer": "in the whole world",
+            "help": "'Upon this earth' is another way to say 'in the whole world'."
+        }
+    ],
+    "Lesson-16": [
+        {
+            "question": "What does 'to keep (something)' mean in: 'Try to keep the room clean'?",
+            "options": [
+                "to leave it messy",
+                "to make it bigger",
+                "to maintain it in good condition",
+                "to break it"
+            ],
+            "correctAnswer": "to maintain it in good condition",
+            "help": "'Keep' in this context means to maintain or continue something in a state."
+        },
+        {
+            "question": "What does 'excitement' mean in: 'The children were full of excitement before the trip'?",
+            "options": [
+                "anger",
+                "sadness",
+                "strong happy feeling",
+                "quietness"
+            ],
+            "correctAnswer": "strong happy feeling",
+            "help": "'Excitement' means a strong feeling of happiness and energy about something."
+        },
+        {
+            "question": "What does 'for a long time' mean in: 'He lived there for a long time'?",
+            "options": [
+                "for one day",
+                "for a short visit",
+                "for many years or months",
+                "only during summer"
+            ],
+            "correctAnswer": "for many years or months",
+            "help": "'For a long time' means something continued for many months or years."
+        },
+        {
+            "question": "What does 'spent time' mean in: 'She spent time reading books'?",
+            "options": [
+                "wasted time",
+                "used time doing something",
+                "lost time",
+                "forgot the time"
+            ],
+            "correctAnswer": "used time doing something",
+            "help": "'Spent time' means using your time to do an activity."
+        },
+        {
+            "question": "What does 'all the time' mean in: 'He watches TV all the time'?",
+            "options": [
+                "once a week",
+                "every day",
+                "very rarely",
+                "only in the evening"
+            ],
+            "correctAnswer": "every day",
+            "help": "'All the time' means very often or always."
+        },
+        {
+            "question": "What does 'pass time' mean in: 'We played cards to pass the time'?",
+            "options": [
+                "to wait and do nothing",
+                "to waste time",
+                "to make time go by in an enjoyable way",
+                "to stop time"
+            ],
+            "correctAnswer": "to make time go by in an enjoyable way",
+            "help": "'Pass time' means to do something while waiting so the time goes quickly."
+        },
+        {
+            "question": "What does 'in time' mean in: 'He arrived just in time for the movie'?",
+            "options": [
+                "after the movie",
+                "a little late",
+                "exactly before something starts",
+                "before buying the ticket"
+            ],
+            "correctAnswer": "exactly before something starts",
+            "help": "'In time' means arriving before something begins, often just before."
+        },
+        {
+            "question": "What does 'on time' mean in: 'The train arrived on time'?",
+            "options": [
+                "too late",
+                "too early",
+                "at the scheduled time",
+                "after everyone left"
+            ],
+            "correctAnswer": "at the scheduled time",
+            "help": "'On time' means not late, exactly as planned or scheduled."
+        },
+        {
+            "question": "What is a 'time-table'?",
+            "options": [
+                "a list of games",
+                "a food menu",
+                "a schedule showing times for events or transport",
+                "a map of the school"
+            ],
+            "correctAnswer": "a schedule showing times for events or transport",
+            "help": "'Time-table' means a schedule that shows when things happen, like trains or classes."
+        },
+        {
+            "question": "What does 'from time to time' mean in: 'We go to the cinema from time to time'?",
+            "options": [
+                "very often",
+                "rarely",
+                "sometimes but not regularly",
+                "every day"
+            ],
+            "correctAnswer": "sometimes but not regularly",
+            "help": "'From time to time' means occasionally, not regularly."
+        }
+    ],
+    "Lesson-17": [
+        {
+            "question": "Where would you find a 'platform' in: 'The train is waiting at the platform'?",
+            "options": [
+                "in a shop",
+                "at a train station",
+                "in a hotel",
+                "on a bus"
+            ],
+            "correctAnswer": "at a train station",
+            "help": "'Platform' is the place at a train station where passengers get on and off the train."
+        },
+        {
+            "question": "What is the meaning of 'booking office' in: 'She bought her ticket at the booking office'?",
+            "options": [
+                "a food store",
+                "a room to read books",
+                "a place to buy travel tickets",
+                "a place to meet friends"
+            ],
+            "correctAnswer": "a place to buy travel tickets",
+            "help": "'Booking office' is where you buy tickets for trains or buses."
+        },
+        {
+            "question": "What does 'single' mean in: 'I’d like a single ticket to London'?",
+            "options": [
+                "only one person can ride",
+                "a ticket for one-way travel",
+                "a ticket for two people",
+                "a free ticket"
+            ],
+            "correctAnswer": "a ticket for one-way travel",
+            "help": "'Single' means a one-way ticket to your destination."
+        },
+        {
+            "question": "What does 'return' mean in: 'He bought a return ticket to Paris'?",
+            "options": [
+                "a ticket for one person",
+                "a ticket for going only",
+                "a ticket for going and coming back",
+                "a free pass"
+            ],
+            "correctAnswer": "a ticket for going and coming back",
+            "help": "'Return' ticket includes both going and coming back."
+        },
+        {
+            "question": "What does 'suitcases' mean in: 'She packed two large suitcases'?",
+            "options": [
+                "books",
+                "travel bags",
+                "shoes",
+                "chairs"
+            ],
+            "correctAnswer": "travel bags",
+            "help": "'Suitcases' are large bags used for carrying clothes when travelling."
+        },
+        {
+            "question": "What are 'porters' in: 'The porters helped with our luggage'?",
+            "options": [
+                "people who drive buses",
+                "people who sell tickets",
+                "people who carry bags at stations",
+                "people who serve food"
+            ],
+            "correctAnswer": "people who carry bags at stations",
+            "help": "'Porters' are workers who help carry luggage at stations or hotels."
+        },
+        {
+            "question": "What does 'bookstall' mean in: 'I bought a magazine at the bookstall'?",
+            "options": [
+                "a chair",
+                "a book shelf",
+                "a small shop selling books and magazines",
+                "a post office"
+            ],
+            "correctAnswer": "a small shop selling books and magazines",
+            "help": "'Bookstall' is a small store at a station that sells reading materials."
+        },
+        {
+            "question": "What does 'abroad' mean in: 'He is going abroad for his studies'?",
+            "options": [
+                "to another city",
+                "to the countryside",
+                "to another country",
+                "to school"
+            ],
+            "correctAnswer": "to another country",
+            "help": "'Abroad' means going to a foreign country."
+        },
+        {
+            "question": "Who is a 'ticket collector'?",
+            "options": [
+                "a person who gives directions",
+                "a person who sells newspapers",
+                "a person who checks your travel ticket",
+                "a person who carries your luggage"
+            ],
+            "correctAnswer": "a person who checks your travel ticket",
+            "help": "'Ticket collector' is someone who checks tickets during travel."
+        },
+        {
+            "question": "What does 'mention' mean in: 'She didn’t mention the problem at all'?",
+            "options": [
+                "to speak about something",
+                "to write a story",
+                "to draw a picture",
+                "to clean something"
+            ],
+            "correctAnswer": "to speak about something",
+            "help": "'Mention' means to say something briefly or talk about it."
+        }
+    ],
+    "Lesson-18": [
+        {
+            "question": "What does 'several' mean in: 'He brought several books to the class'?",
+            "options": [
+                "only one",
+                "two or three",
+                "more than two but not many",
+                "too many to count"
+            ],
+            "correctAnswer": "more than two but not many",
+            "help": "'Several' means more than a few, but not a large number."
+        },
+        {
+            "question": "What are 'scissors' used for?",
+            "options": [
+                "writing",
+                "cutting",
+                "drawing",
+                "painting"
+            ],
+            "correctAnswer": "cutting",
+            "help": "'Scissors' are a tool used for cutting paper, cloth, etc."
+        },
+        {
+            "question": "What does 'sharp' mean in: 'Be careful, this knife is sharp'?",
+            "options": [
+                "not clean",
+                "easy to bend",
+                "able to cut easily",
+                "very old"
+            ],
+            "correctAnswer": "able to cut easily",
+            "help": "'Sharp' means having an edge or point that can cut things easily."
+        },
+        {
+            "question": "What is a 'valley'?",
+            "options": [
+                "a tall mountain",
+                "a flat area between hills",
+                "a kind of flower",
+                "a type of weather"
+            ],
+            "correctAnswer": "a flat area between hills",
+            "help": "'Valley' is a low land between hills or mountains."
+        },
+        {
+            "question": "What does 'torn' mean in: 'His shirt was torn during the game'?",
+            "options": [
+                "dirty",
+                "broken or ripped",
+                "clean and new",
+                "wet"
+            ],
+            "correctAnswer": "broken or ripped",
+            "help": "'Torn' means something is damaged by being pulled apart."
+        },
+        {
+            "question": "What is a 'matchbox' used for?",
+            "options": [
+                "to store food",
+                "to hold matches",
+                "to keep money",
+                "to play music"
+            ],
+            "correctAnswer": "to hold matches",
+            "help": "'Matchbox' is a small box that holds matches for making fire."
+        },
+        {
+            "question": "What is a 'toothbrush' used for?",
+            "options": [
+                "cleaning your hands",
+                "combing your hair",
+                "brushing your teeth",
+                "washing your face"
+            ],
+            "correctAnswer": "brushing your teeth",
+            "help": "'Toothbrush' is a small brush used to clean your teeth."
+        },
+        {
+            "question": "What is a 'railway carriage'?",
+            "options": [
+                "a car that carries mail",
+                "a room for sleeping",
+                "a part of a train for passengers",
+                "a bicycle"
+            ],
+            "correctAnswer": "a part of a train for passengers",
+            "help": "'Railway carriage' is a section of a train where people sit."
+        },
+        {
+            "question": "Who is a 'housemaid'?",
+            "options": [
+                "a person who repairs cars",
+                "a woman who helps clean the house",
+                "a girl who studies in school",
+                "a person who sells food"
+            ],
+            "correctAnswer": "a woman who helps clean the house",
+            "help": "'Housemaid' is a woman who works in a house doing cleaning and other tasks."
+        }
+    ],
+    "Lesson-19": [
+        {
+            "question": "What does 'seeing off' mean in the sentence: 'Talking about seeing off, do you know the story of the three men who came to Dover station?'",
+            "options": [
+                "watching a movie",
+                "meeting someone",
+                "saying goodbye at a station",
+                "traveling together"
+            ],
+            "correctAnswer": "saying goodbye at a station",
+            "help": "'Seeing off' means going to say goodbye to someone who is leaving, usually at a station or airport."
+        },
+        {
+            "question": "What does 'at last' mean in the sentence: 'At last, the train arrived'?",
+            "options": [
+                "Suddenly",
+                "Eventually",
+                "Quickly",
+                "Recently"
+            ],
+            "correctAnswer": "Eventually",
+            "help": "'At last' means something finally happened after waiting."
+        },
+        {
+            "question": "What are 'corner-seats' in a train?",
+            "options": [
+                "Seats near the toilet",
+                "Seats near the windows in the corners",
+                "Seats for children only",
+                "Standing area only"
+            ],
+            "correctAnswer": "Seats near the windows in the corners",
+            "help": "'Corner-seats' are usually the ones by the window, in the corners of the compartment."
+        },
+        {
+            "question": "Which of these best describes a 'crowded' train?",
+            "options": [
+                "Empty",
+                "Very full with people",
+                "Moving fast",
+                "Very clean"
+            ],
+            "correctAnswer": "Very full with people",
+            "help": "'Crowded' means there are a lot of people, no space left."
+        },
+        {
+            "question": "What does a 'guard' do on a train?",
+            "options": [
+                "Drives the train",
+                "Collects tickets",
+                "Takes care of safety and signals",
+                "Sells snacks"
+            ],
+            "correctAnswer": "Takes care of safety and signals",
+            "help": "The 'guard' helps with the safety of the train and checks signals."
+        },
+        {
+            "question": "What is the 'engine' of a train?",
+            "options": [
+                "The back part",
+                "The sleeping area",
+                "The part that pulls the train",
+                "A small room"
+            ],
+            "correctAnswer": "The part that pulls the train",
+            "help": "The 'engine' is the front part that moves the train."
+        },
+        {
+            "question": "What is a 'carriage' in a train?",
+            "options": [
+                "The station platform",
+                "The place where passengers sit",
+                "A restaurant",
+                "A machine"
+            ],
+            "correctAnswer": "The place where passengers sit",
+            "help": "A 'carriage' is a section of a train for people or goods."
+        },
+        {
+            "question": "What does a 'porter' do?",
+            "options": [
+                "Checks your passport",
+                "Cleans the train",
+                "Carries bags at the station",
+                "Sells newspapers"
+            ],
+            "correctAnswer": "Carries bags at the station",
+            "help": "A 'porter' helps carry luggage for passengers at the station."
+        },
+        {
+            "question": "What does 'customs' refer to at a station or airport?",
+            "options": [
+                "Buying tickets",
+                "Food service",
+                "Checking luggage for illegal items",
+                "Getting on the train"
+            ],
+            "correctAnswer": "Checking luggage for illegal items",
+            "help": "'Customs' is where officials check your bags for restricted items."
+        },
+        {
+            "question": "What does the 'whistle' mean when heard at the station?",
+            "options": [
+                "Train is delayed",
+                "Train is about to leave",
+                "Food is ready",
+                "There is a problem"
+            ],
+            "correctAnswer": "Train is about to leave",
+            "help": "The 'whistle' is a signal that the train is leaving."
+        },
+        {
+            "question": "What does 'tear' mean in this sentence: 'There were tears in her eyes as the train left'?",
+            "options": [
+                "A small piece of paper",
+                "Liquid from the eyes",
+                "A cut in the seat",
+                "Wind on her face"
+            ],
+            "correctAnswer": "Liquid from the eyes",
+            "help": "'Tears' are the water that comes from your eyes when you cry."
+        }
+    ],
+    "Lesson-20": [
+        {
+            "question": "What is the opposite gender of 'nephew'?",
+            "options": [
+                "cousin",
+                "niece",
+                "aunt",
+                "mother"
+            ],
+            "correctAnswer": "niece",
+            "help": "'Nephew' is a boy. The female version is 'niece'."
+        },
+        {
+            "question": "What does 'bridegroom' mean?",
+            "options": [
+                "A man who gets married",
+                "A woman who gets married",
+                "A guest at the wedding",
+                "A family member"
+            ],
+            "correctAnswer": "A man who gets married",
+            "help": "A 'bridegroom' is the man who is getting married."
+        },
+        {
+            "question": "Which word refers to a female duck?",
+            "options": [
+                "drake",
+                "hen",
+                "duck",
+                "gander"
+            ],
+            "correctAnswer": "duck",
+            "help": "A 'duck' is a female, while a 'drake' is a male duck."
+        },
+        {
+            "question": "Who is a 'widow'?",
+            "options": [
+                "A married woman",
+                "A woman whose husband has died",
+                "A young girl",
+                "A bride"
+            ],
+            "correctAnswer": "A woman whose husband has died",
+            "help": "A 'widow' is a woman whose husband is dead."
+        },
+        {
+            "question": "Which of these words is used for a male goose?",
+            "options": [
+                "duck",
+                "gander",
+                "drake",
+                "cock"
+            ],
+            "correctAnswer": "gander",
+            "help": "A 'gander' is the male of a goose."
+        },
+        {
+            "question": "What does 'gender' refer to?",
+            "options": [
+                "Color of clothes",
+                "Type of job",
+                "Male or female category",
+                "Age group"
+            ],
+            "correctAnswer": "Male or female category",
+            "help": "'Gender' refers to whether someone or something is male, female, or neutral."
+        },
+        {
+            "question": "What is the feminine form of 'cock'?",
+            "options": [
+                "drake",
+                "duck",
+                "hen",
+                "goose"
+            ],
+            "correctAnswer": "hen",
+            "help": "'Hen' is the female form of 'cock'."
+        },
+        {
+            "question": "Who is a 'father-in-law'?",
+            "options": [
+                "Your wife's or husband's father",
+                "Your father",
+                "Your son",
+                "Your teacher"
+            ],
+            "correctAnswer": "Your wife's or husband's father",
+            "help": "'Father-in-law' means the father of your husband or wife."
+        },
+        {
+            "question": "What does 'countess' mean?",
+            "options": [
+                "A king's daughter",
+                "A female count",
+                "A male noble",
+                "A princess"
+            ],
+            "correctAnswer": "A female count",
+            "help": "'Countess' is the title for a female count."
+        },
+        {
+            "question": "What is the feminine of 'bridegroom'?",
+            "options": [
+                "bride",
+                "lady",
+                "niece",
+                "girl"
+            ],
+            "correctAnswer": "bride",
+            "help": "'Bride' is the female who is getting married."
+        }
+    ],
+    "Lesson-21": [
+        {
+            "question": "What does 'refreshment' usually refer to?",
+            "options": [
+                "Heavy meal",
+                "Light food or drink",
+                "Exercise",
+                "Sleep"
+            ],
+            "correctAnswer": "Light food or drink",
+            "help": "'Refreshment' refers to snacks or drinks served to make someone feel refreshed."
+        },
+        {
+            "question": "What does the phrase 'came along' mean in most contexts?",
+            "options": [
+                "Arrived or joined",
+                "Fell down",
+                "Stayed behind",
+                "Disappeared suddenly"
+            ],
+            "correctAnswer": "Arrived or joined",
+            "help": "'Came along' usually means someone joined or arrived."
+        },
+        {
+            "question": "Which word best describes a feeling of deep satisfaction from your own achievements?",
+            "options": [
+                "Polish",
+                "Pride",
+                "Duty",
+                "Amount"
+            ],
+            "correctAnswer": "Pride",
+            "help": "'Pride' is the feeling of satisfaction in something you've done well."
+        },
+        {
+            "question": "What is the function of a 'polisher'?",
+            "options": [
+                "To clean windows",
+                "To weigh materials",
+                "To break things",
+                "To shine or smooth surfaces"
+            ],
+            "correctAnswer": "To shine or smooth surfaces",
+            "help": "A 'polisher' is a tool or person that makes surfaces shiny or smooth."
+        },
+        {
+            "question": "What does a 'clerk' usually do?",
+            "options": [
+                "Drive vehicles",
+                "Manage farms",
+                "Work with records and documents",
+                "Cook meals"
+            ],
+            "correctAnswer": "Work with records and documents",
+            "help": "A 'clerk' is an office worker who handles records, documents, and administrative tasks."
+        },
+        {
+            "question": "What does 'strict' mean when used to describe a person?",
+            "options": [
+                "Easy-going",
+                "Forgiving",
+                "Very disciplined and serious about rules",
+                "Funny and cheerful"
+            ],
+            "correctAnswer": "Very disciplined and serious about rules",
+            "help": "A 'strict' person enforces rules and expects discipline."
+        },
+        {
+            "question": "If someone 'dares' to do something, what are they doing?",
+            "options": [
+                "Ignoring danger",
+                "Showing fear",
+                "Avoiding action",
+                "Laughing"
+            ],
+            "correctAnswer": "Ignoring danger",
+            "help": "To 'dare' means to have the courage to do something risky or bold."
+        },
+        {
+            "question": "What is the role of a 'head office'?",
+            "options": [
+                "Sell products",
+                "Hire drivers",
+                "Control and manage the company",
+                "Deliver mail"
+            ],
+            "correctAnswer": "Control and manage the company",
+            "help": "A 'head office' is the main office responsible for managing a company."
+        },
+        {
+            "question": "What does 'retire' mean?",
+            "options": [
+                "Start a business",
+                "Join the army",
+                "Stop working due to age",
+                "Go on vacation"
+            ],
+            "correctAnswer": "Stop working due to age",
+            "help": "To 'retire' means to leave your job permanently, often because of age."
+        },
+        {
+            "question": "What does the word 'repair' mean?",
+            "options": [
+                "To destroy something",
+                "To break it again",
+                "To fix or restore something",
+                "To buy a new one"
+            ],
+            "correctAnswer": "To fix or restore something",
+            "help": "'Repair' means to fix something that is broken or damaged."
+        }
+    ],
+    "Lesson-22": [
+        {
+            "question": "What does 'active' mean in grammar?",
+            "options": [
+                "The subject receives the action",
+                "The subject performs the action",
+                "The sentence is incomplete",
+                "The verb is missing"
+            ],
+            "correctAnswer": "The subject performs the action",
+            "help": "In the active voice, the subject of the sentence does the action."
+        },
+        {
+            "question": "What is the opposite of 'active' voice?",
+            "options": [
+                "Command",
+                "Passive",
+                "Tense",
+                "Negative"
+            ],
+            "correctAnswer": "Passive",
+            "help": "In passive voice, the subject receives the action instead of doing it."
+        },
+        {
+            "question": "Who is the 'doer' in a sentence?",
+            "options": [
+                "The person affected by the action",
+                "The place where action happens",
+                "The one who performs the action",
+                "The object in the sentence"
+            ],
+            "correctAnswer": "The one who performs the action",
+            "help": "The 'doer' is the person or thing that carries out the action."
+        },
+        {
+            "question": "Which of the following refers to something being done?",
+            "options": [
+                "Doer",
+                "Subject",
+                "Predicate",
+                "Action"
+            ],
+            "correctAnswer": "Action",
+            "help": "'Action' is what is happening in the sentence—what the subject is doing."
+        },
+        {
+            "question": "What is usually the 'subject' in a sentence?",
+            "options": [
+                "The place mentioned",
+                "The object affected",
+                "The person or thing doing the action",
+                "The last word in the sentence"
+            ],
+            "correctAnswer": "The person or thing doing the action",
+            "help": "The subject is typically the one doing the action in a sentence."
+        },
+        {
+            "question": "Which part of a sentence includes the verb and tells what the subject does?",
+            "options": [
+                "Object",
+                "Subject",
+                "Predicate",
+                "Phrase"
+            ],
+            "correctAnswer": "Predicate",
+            "help": "The predicate contains the verb and tells what the subject is or does."
+        },
+        {
+            "question": "What does 'all over' mean in a sentence like 'The paint is all over the floor'?",
+            "options": [
+                "Neatly arranged",
+                "Everywhere",
+                "Only in one place",
+                "In the middle"
+            ],
+            "correctAnswer": "Everywhere",
+            "help": "'All over' means something is spread widely or everywhere across a surface."
+        }
+    ],
+    "Lesson-23": [
+        {
+            "question": "What does 'grand' mean when describing something?",
+            "options": [
+                "Very small",
+                "Ordinary",
+                "Large and impressive",
+                "Unusual"
+            ],
+            "correctAnswer": "Large and impressive",
+            "help": "'Grand' refers to something that is big, magnificent, or impressive."
+        },
+        {
+            "question": "What does 'whole' mean in this sentence: 'He ate the whole cake'?",
+            "options": [
+                "Only a piece",
+                "Half of it",
+                "All of it",
+                "None of it"
+            ],
+            "correctAnswer": "All of it",
+            "help": "'Whole' means complete or entire."
+        },
+        {
+            "question": "What does it mean to 'regret' something?",
+            "options": [
+                "Feel happy about it",
+                "Forget it completely",
+                "Feel sorry or disappointed about it",
+                "Talk proudly about it"
+            ],
+            "correctAnswer": "Feel sorry or disappointed about it",
+            "help": "'Regret' is the feeling of sadness or disappointment about something you did or didn’t do."
+        },
+        {
+            "question": "What is an 'impression' in this context: 'She made a good impression at the interview'?",
+            "options": [
+                "A physical stamp",
+                "A strong opinion or feeling formed",
+                "A written application",
+                "A mistake"
+            ],
+            "correctAnswer": "A strong opinion or feeling formed",
+            "help": "'Impression' refers to the effect or feeling you give others when they first meet you."
+        },
+        {
+            "question": "What does 'afraid' mean?",
+            "options": [
+                "Excited",
+                "Angry",
+                "Happy",
+                "Scared"
+            ],
+            "correctAnswer": "Scared",
+            "help": "'Afraid' means feeling fear or being scared of something."
+        },
+        {
+            "question": "What does 'expensive' mean?",
+            "options": [
+                "Cheap",
+                "Costs a lot of money",
+                "Free",
+                "Not for sale"
+            ],
+            "correctAnswer": "Costs a lot of money",
+            "help": "'Expensive' means something has a high price or costs a lot."
+        },
+        {
+            "question": "What is a 'turkey'?",
+            "options": [
+                "A kind of fish",
+                "A large bird often eaten during holidays",
+                "A dessert",
+                "A drink"
+            ],
+            "correctAnswer": "A large bird often eaten during holidays",
+            "help": "A 'turkey' is a bird commonly served on holidays like Thanksgiving and Christmas."
+        },
+        {
+            "question": "What is a 'mince pie'?",
+            "options": [
+                "A meat sandwich",
+                "A type of sweet pie with fruit and spices",
+                "A chocolate bar",
+                "A vegetable tart"
+            ],
+            "correctAnswer": "A type of sweet pie with fruit and spices",
+            "help": "'Mince pie' is a traditional sweet pie often eaten during Christmas in the UK."
+        },
+        {
+            "question": "How is 'since' used in time expressions?",
+            "options": [
+                "To show repetition",
+                "To describe a future event",
+                "To refer to a point in the past",
+                "To give instructions"
+            ],
+            "correctAnswer": "To refer to a point in the past",
+            "help": "'Since' is used with the starting point of an action that continues into the present."
+        },
+        {
+            "question": "How is 'for' used in time expressions?",
+            "options": [
+                "To describe a reason",
+                "To name an object",
+                "To show a duration of time",
+                "To give a place"
+            ],
+            "correctAnswer": "To show a duration of time",
+            "help": "'For' is used to describe how long something has happened, e.g., 'for three years'."
+        }
+    ],
+    "Lesson-24": [
+        {
+            "question": "What is a 'conversation'?",
+            "options": [
+                "A book of instructions",
+                "A silent moment",
+                "A spoken exchange between people",
+                "A written report"
+            ],
+            "correctAnswer": "A spoken exchange between people",
+            "help": "'Conversation' means talking between two or more people."
+        },
+        {
+            "question": "What does 'iron' mean when talking about clothes?",
+            "options": [
+                "To wash them",
+                "To fold them",
+                "To smooth them using heat",
+                "To dye them"
+            ],
+            "correctAnswer": "To smooth them using heat",
+            "help": "'Iron' as a verb means to remove wrinkles from clothes using a heated device."
+        },
+        {
+            "question": "Who is a 'niece'?",
+            "options": [
+                "Your cousin’s daughter",
+                "Your brother’s or sister’s daughter",
+                "Your father’s sister",
+                "Your daughter’s friend"
+            ],
+            "correctAnswer": "Your brother’s or sister’s daughter",
+            "help": "'Niece' is the daughter of your brother or sister."
+        },
+        {
+            "question": "What does a 'baker' do?",
+            "options": [
+                "Drives a taxi",
+                "Builds houses",
+                "Bakes and sells bread or cakes",
+                "Fixes pipes"
+            ],
+            "correctAnswer": "Bakes and sells bread or cakes",
+            "help": "A 'baker' is a person who makes bread, cakes, and pastries."
+        }
+    ],
+    "Lesson-25": [
+        {
+            "question": "What does 'dozens' mean?",
+            "options": [
+                "A few",
+                "Exactly ten",
+                "Groups of twelve",
+                "Thousands"
+            ],
+            "correctAnswer": "Groups of twelve",
+            "help": "'Dozen' means twelve, so 'dozens' refers to multiple groups of twelve."
+        },
+        {
+            "question": "What does it mean to 'provide' something?",
+            "options": [
+                "To hide it",
+                "To offer or supply it",
+                "To take it away",
+                "To break it"
+            ],
+            "correctAnswer": "To offer or supply it",
+            "help": "'Provide' means to give or supply something that is needed."
+        },
+        {
+            "question": "What is one meaning of 'pound'?",
+            "options": [
+                "A small object",
+                "To hit heavily",
+                "To whisper quietly",
+                "To draw slowly"
+            ],
+            "correctAnswer": "To hit heavily",
+            "help": "'Pound' as a verb means to hit something with force."
+        },
+        {
+            "question": "What does it mean to 'lean'?",
+            "options": [
+                "To sit down",
+                "To stand straight",
+                "To bend or rest against something",
+                "To lie flat"
+            ],
+            "correctAnswer": "To bend or rest against something",
+            "help": "'Lean' means to rest your body against something for support or balance."
+        },
+        {
+            "question": "What are 'beans'?",
+            "options": [
+                "Type of fruit",
+                "Small edible seeds from certain plants",
+                "A kind of meat",
+                "Pieces of bread"
+            ],
+            "correctAnswer": "Small edible seeds from certain plants",
+            "help": "Beans are seeds used as food and come from legume plants."
+        },
+        {
+            "question": "What is a 'coffee mill' used for?",
+            "options": [
+                "Boiling coffee",
+                "Storing coffee",
+                "Grinding coffee beans",
+                "Drinking coffee"
+            ],
+            "correctAnswer": "Grinding coffee beans",
+            "help": "A 'coffee mill' is a device used to grind coffee beans into powder."
+        },
+        {
+            "question": "What does 'grind' mean in this context?",
+            "options": [
+                "To stir something",
+                "To cook it slowly",
+                "To crush it into smaller pieces or powder",
+                "To mix it with water"
+            ],
+            "correctAnswer": "To crush it into smaller pieces or powder",
+            "help": "'Grind' means to reduce something to small particles, often using a machine."
+        },
+        {
+            "question": "What is the meaning of 'ground' as in 'ground coffee'?",
+            "options": [
+                "Coffee grown underground",
+                "Coffee that is ready to drink",
+                "Coffee that has been crushed into powder",
+                "Coffee beans on the floor"
+            ],
+            "correctAnswer": "Coffee that has been crushed into powder",
+            "help": "'Ground' in this context is the past participle of 'grind'—it means crushed into powder."
+        }
+    ],
+    "Lesson-26": [
+        {
+            "question": "What does 'flavour' refer to?",
+            "options": [
+                "Sound of food",
+                "Temperature of a dish",
+                "Taste of food or drink",
+                "Shape of a meal"
+            ],
+            "correctAnswer": "Taste of food or drink",
+            "help": "'Flavour' means the taste of something you eat or drink."
+        },
+        {
+            "question": "What does 'kindly' mean?",
+            "options": [
+                "Rudely",
+                "In a gentle or nice way",
+                "Strictly",
+                "Quickly"
+            ],
+            "correctAnswer": "In a gentle or nice way",
+            "help": "'Kindly' describes doing something in a kind or caring manner."
+        },
+        {
+            "question": "To 'get rid of' something means to:",
+            "options": [
+                "Buy it",
+                "Fix it",
+                "Keep it safe",
+                "Throw it away or remove it"
+            ],
+            "correctAnswer": "Throw it away or remove it",
+            "help": "'Get rid of' means to remove or eliminate something."
+        },
+        {
+            "question": "What is a 'cough'?",
+            "options": [
+                "A shout",
+                "A type of food",
+                "A sudden sound made when you're sick",
+                "A dance move"
+            ],
+            "correctAnswer": "A sudden sound made when you're sick",
+            "help": "A 'cough' is a sound you make when your throat or lungs are irritated."
+        },
+        {
+            "question": "What does 'thorough' mean?",
+            "options": [
+                "Incomplete",
+                "Careful and complete",
+                "Quick and messy",
+                "Unimportant"
+            ],
+            "correctAnswer": "Careful and complete",
+            "help": "'Thorough' means doing something carefully and with attention to detail."
+        },
+        {
+            "question": "What is an 'examination'?",
+            "options": [
+                "A party",
+                "A test or check-up",
+                "A vacation",
+                "A mistake"
+            ],
+            "correctAnswer": "A test or check-up",
+            "help": "'Examination' often means a medical check-up or a formal test."
+        },
+        {
+            "question": "To 'unfasten' means to:",
+            "options": [
+                "Fix something",
+                "Tie it up",
+                "Loosen or open",
+                "Stretch it"
+            ],
+            "correctAnswer": "Loosen or open",
+            "help": "'Unfasten' means to open something like a button or belt."
+        },
+        {
+            "question": "What is a 'waistcoat'?",
+            "options": [
+                "A kind of shirt",
+                "A long dress",
+                "A sleeveless garment worn over a shirt",
+                "A scarf"
+            ],
+            "correctAnswer": "A sleeveless garment worn over a shirt",
+            "help": "'Waistcoat' is a sleeveless vest worn as part of formal clothing."
+        },
+        {
+            "question": "What is one meaning of 'stone'?",
+            "options": [
+                "A kind of fish",
+                "A small rock or hard mineral",
+                "A metal box",
+                "A type of paper"
+            ],
+            "correctAnswer": "A small rock or hard mineral",
+            "help": "'Stone' refers to a hard, natural mineral material."
+        },
+        {
+            "question": "What does 'run down' mean in health?",
+            "options": [
+                "Feeling full of energy",
+                "Feeling tired or weak",
+                "Jumping up and down",
+                "Getting stronger"
+            ],
+            "correctAnswer": "Feeling tired or weak",
+            "help": "'Run down' can mean feeling low in energy or unwell."
+        }
+    ],
+    "Lesson-27": [
+        {
+            "question": "What does 'table-spoonful' mean?",
+            "options": [
+                "A pinch of salt",
+                "As much as a teaspoon can hold",
+                "An amount that fills a tablespoon",
+                "Half a cup"
+            ],
+            "correctAnswer": "An amount that fills a tablespoon",
+            "help": "'Table-spoonful' is the amount a tablespoon holds."
+        },
+        {
+            "question": "What does 'plain' mean in appearance?",
+            "options": [
+                "Fancy and bright",
+                "Ordinary and simple",
+                "Colorful",
+                "Messy"
+            ],
+            "correctAnswer": "Ordinary and simple",
+            "help": "'Plain' means something simple, not decorated or fancy."
+        },
+        {
+            "question": "What does 'so one way or another' suggest?",
+            "options": [
+                "Something will happen somehow",
+                "It will not happen at all",
+                "A straight solution",
+                "No options"
+            ],
+            "correctAnswer": "Something will happen somehow",
+            "help": "It means something will be done, no matter how."
+        },
+        {
+            "question": "What does 'as a matter of fact' mean?",
+            "options": [
+                "A made-up story",
+                "A fact or truth",
+                "A dream",
+                "A question"
+            ],
+            "correctAnswer": "A fact or truth",
+            "help": "'As a matter of fact' is used to emphasize that something is true."
+        },
+        {
+            "question": "What does 'that’s just the thing' mean?",
+            "options": [
+                "Not useful",
+                "Not what I wanted",
+                "Exactly what is needed",
+                "Something broken"
+            ],
+            "correctAnswer": "Exactly what is needed",
+            "help": "It means it is perfect for the situation."
+        },
+        {
+            "question": "What does 'take it easy' mean?",
+            "options": [
+                "Get angry",
+                "Relax and not worry",
+                "Hurry up",
+                "Work hard"
+            ],
+            "correctAnswer": "Relax and not worry",
+            "help": "'Take it easy' means to relax or calm down."
+        },
+        {
+            "question": "What does 'at least' mean?",
+            "options": [
+                "None at all",
+                "Possibly more but not less",
+                "Exactly this much",
+                "Less than needed"
+            ],
+            "correctAnswer": "Possibly more but not less",
+            "help": "'At least' means the smallest possible amount or number."
+        },
+        {
+            "question": "Where is 'along the cliffs'?",
+            "options": [
+                "Inside a house",
+                "Next to mountains",
+                "Near high rocky sea edges",
+                "Underwater"
+            ],
+            "correctAnswer": "Near high rocky sea edges",
+            "help": "'Cliffs' are steep, high rocks near the sea."
+        },
+        {
+            "question": "What does 'as fit as a fiddle' mean?",
+            "options": [
+                "Sick",
+                "Very healthy",
+                "Lazy",
+                "Old"
+            ],
+            "correctAnswer": "Very healthy",
+            "help": "'As fit as a fiddle' is an idiom meaning very healthy."
+        },
+        {
+            "question": "What does 'cure' mean?",
+            "options": [
+                "To cause illness",
+                "To treat a person badly",
+                "To heal or fix an illness",
+                "To make worse"
+            ],
+            "correctAnswer": "To heal or fix an illness",
+            "help": "'Cure' means to get rid of a disease or illness."
+        }
+    ],
+    "Lesson-28": [
+        {
+            "question": "Where is the man from in the sentence: 'He's a Lancashire man, and nearly everyone in Lancashire likes high tea'?",
+            "options": [
+                "London",
+                "Lancashire",
+                "Manchester",
+                "Scotland"
+            ],
+            "correctAnswer": "Lancashire",
+            "help": "The sentence says 'He's a Lancashire man', so he is from Lancashire."
+        },
+        {
+            "question": "What do most people in Lancashire like according to the sentence?",
+            "options": [
+                "Coffee",
+                "Light breakfast",
+                "High tea",
+                "Juice"
+            ],
+            "correctAnswer": "High tea",
+            "help": "The sentence says 'nearly everyone in Lancashire likes high tea'."
+        }
+    ],
+    "Lesson-29": [
+        {
+            "question": "Where did Mary go in the sentence: 'Mary went to the fishmonger's to get some herrings for our supper'?",
+            "options": [
+                "The bakery",
+                "The butcher's",
+                "The fishmonger's",
+                "The greengrocer's"
+            ],
+            "correctAnswer": "The fishmonger's",
+            "help": "The sentence clearly states that Mary went to the fishmonger's."
+        },
+        {
+            "question": "What did Mary go to buy?",
+            "options": [
+                "Bread",
+                "Chicken",
+                "Herrings",
+                "Milk"
+            ],
+            "correctAnswer": "Herrings",
+            "help": "The sentence says she went to get some herrings."
+        },
+        {
+            "question": "Why did Mary buy herrings?",
+            "options": [
+                "For lunch",
+                "To cook later",
+                "For our supper",
+                "To sell"
+            ],
+            "correctAnswer": "For our supper",
+            "help": "It says she bought herrings 'for our supper'."
+        }
+    ],
+    "Lesson-30": [
+        {
+            "question": "Who was the man showing something to?",
+            "options": [
+                "A small child",
+                "An old friend",
+                "A charming young lady",
+                "A group of hunters"
+            ],
+            "correctAnswer": "A charming young lady",
+            "help": "The sentence clearly mentions 'a charming young lady'."
+        },
+        {
+            "question": "What was the man showing the lady?",
+            "options": [
+                "A map",
+                "The skin of a lion",
+                "A gun",
+                "Some jewelry"
+            ],
+            "correctAnswer": "The skin of a lion",
+            "help": "He was showing 'the skin of a lion that he had shot'."
+        },
+        {
+            "question": "What did the man do to the lion?",
+            "options": [
+                "He tamed it",
+                "He bought it",
+                "He found it dead",
+                "He shot it"
+            ],
+            "correctAnswer": "He shot it",
+            "help": "The sentence says he had shot the lion."
+        }
+    ],
+    "Lesson-31": [
+        {
+            "question": "What does the sentence suggest about the speaker's experience?",
+            "options": [
+                "They often see such things",
+                "They have seen it many times",
+                "They had never seen such a thing before",
+                "They were expecting it"
+            ],
+            "correctAnswer": "They had never seen such a thing before",
+            "help": "The sentence says 'I had never seen such a thing before', meaning it was a new and surprising experience."
+        },
+        {
+            "question": "Which tense is used in the sentence?",
+            "options": [
+                "Present Simple",
+                "Past Perfect",
+                "Future Simple",
+                "Past Continuous"
+            ],
+            "correctAnswer": "Past Perfect",
+            "help": "'Had never seen' is the Past Perfect tense, used to describe something that happened before another event in the past."
+        },
+        {
+            "question": "What does 'such a thing' imply?",
+            "options": [
+                "A specific and unusual object or event",
+                "A very common item",
+                "A boring event",
+                "Something well known"
+            ],
+            "correctAnswer": "A specific and unusual object or event",
+            "help": "'Such a thing' often refers to something surprising, remarkable, or unusual."
+        }
+    ],
+    "Lesson-32": [
+        {
+            "question": "Which phrase best describes someone who is very healthy?",
+            "options": [
+                "Take it easy",
+                "As fit as a fiddle",
+                "Run down",
+                "Cough syrup"
+            ],
+            "correctAnswer": "As fit as a fiddle",
+            "help": "The idiom 'as fit as a fiddle' means someone is in very good health."
+        },
+        {
+            "question": "Which of the following is used to measure medicine?",
+            "options": [
+                "Waistcoat",
+                "Stone",
+                "Table-spoonful",
+                "Sore throat"
+            ],
+            "correctAnswer": "Table-spoonful",
+            "help": "'Table-spoonful' is a unit of measure, especially for liquids like medicine."
+        },
+        {
+            "question": "What would a doctor most likely do if you had influenza?",
+            "options": [
+                "Pull your tooth",
+                "Give you a prescription",
+                "Make you grind coffee",
+                "Send you to a fishmonger"
+            ],
+            "correctAnswer": "Give you a prescription",
+            "help": "If you are sick with something like influenza, a doctor would write you a prescription for medicine."
+        }
+    ]
+}

@@ -1,0 +1,2061 @@
+{
+    "Lesson-1": [
+        {
+            "question": "Lesson-1 (1) Son / число",
+            "options": [
+                "number",
+                "answer",
+                "question"
+            ],
+            "correctAnswer": "number"
+        },
+        {
+            "question": "Lesson-1 (2) Ayol / женщина",
+            "options": [
+                "Men",
+                "Women",
+                "Boy",
+                "Girl"
+            ],
+            "correctAnswer": "Women"
+        },
+        {
+            "question": "Lesson-1 (3) Tog' / ",
+            "options": [
+                "Clock",
+                "Question",
+                "Mountain",
+                "Horse"
+            ],
+            "correctAnswer": "Mountain"
+        },
+        {
+            "question": "Lesson-1 (4) Bolg'a / молоток",
+            "options": [
+                "Clock",
+                "Hammer",
+                "Window",
+                "Table"
+            ],
+            "correctAnswer": "Hammer"
+        },
+        {
+            "question": "Lesson-1 (5) Nima / что",
+            "options": [
+                "What",
+                "Ship",
+                "This"
+            ],
+            "correctAnswer": "What"
+        }
+    ],
+    "Lesson-2": [
+        {
+            "question": "Lesson-2 (1)Where / где",
+            "options": [
+                "Where",
+                "When",
+                "What",
+                "Who"
+            ],
+            "correctAnswer": "Where"
+        },
+        {
+            "question": "Lesson-2 (2) Siyoxdon / чернила",
+            "options": [
+                "pen",
+                "inkpot",
+                "under"
+            ],
+            "correctAnswer": "inkpot"
+        },
+        {
+            "question": "Lesson-2 (3) Unli / гласный",
+            "options": [
+                "bed",
+                "apple",
+                "under",
+                "vowel"
+            ],
+            "correctAnswer": "vowel"
+        },
+        {
+            "question": "Lesson-2 (4) Devor / стена",
+            "options": [
+                "door",
+                "window",
+                "wall",
+                "table"
+            ],
+            "correctAnswer": "wall"
+        },
+        {
+            "question": "Lesson-2 (5) Sichqon / мышь",
+            "options": [
+                "good",
+                "mouse",
+                "plate",
+                "umbrella"
+            ],
+            "correctAnswer": "mouse"
+        }
+    ],
+    "Lesson-3": [
+        {
+            "question": "Lesson-3 (1) Birlik / единство",
+            "options": [
+                "far",
+                "plural",
+                "sun",
+                "singular"
+            ],
+            "correctAnswer": "singular"
+        },
+        {
+            "question": "Lesson-3 (2) Buyer / здесь",
+            "russian": "лошадь",
+            "options": [
+                "there",
+                "them",
+                "they",
+                "those"
+            ],
+            "correctAnswer": "there"
+        },
+        {
+            "question": "Lesson-3 (3) Gul / цветок",
+            "options": [
+                "plate",
+                "near",
+                "flower",
+                "moon"
+            ]
+        },
+        {
+            "question": "Lesson-3 (4) Yopiq / закрытый",
+            "options": [
+                "open",
+                "clock",
+                "close",
+                "door"
+            ],
+            "correctAnswer": "close"
+        },
+        {
+            "question": "Lesson-3 (5) Afnsant / афинсан",
+            "options": [
+                "waiter",
+                "earth",
+                "star",
+                "saucer"
+            ],
+            "correctAnswer": "waiter"
+        }
+    ],
+    "Lesson-4": [
+        {
+            "question": "Lesson-4 (1) Kim / кто",
+            "options": [
+                "who",
+                "When",
+                "why",
+                "where"
+            ],
+            "correctAnswer": "who"
+        },
+        {
+            "question": "Lesson-4 (2) Stul / стул",
+            "options": [
+                "son",
+                "pen",
+                "wife",
+                "chair"
+            ],
+            "correctAnswer": "chair"
+        },
+        {
+            "question": "Lesson-4 (3) Ona / мать",
+            "options": [
+                "father",
+                "mother",
+                "sister",
+                "brother"
+            ],
+            "correctAnswer": "mother"
+        },
+        {
+            "question": "Lesson-4 (4) Qizim / дочь",
+            "options": [
+                "son",
+                "daughter",
+                "uncle",
+                "husband"
+            ],
+            "correctAnswer": "daughter"
+        }
+    ],
+    "Lesson-5": [
+        {
+            "question": "Lesson-5 (1) Qanday / как",
+            "options": [
+                "horse",
+                "all",
+                "house",
+                "how"
+            ],
+            "correctAnswer": "how"
+        },
+        {
+            "question": "Lesson-5 (2) Xato / ошибка",
+            "russian": "лошадь",
+            "options": [
+                "wrong",
+                "right",
+                "where",
+                "book"
+            ],
+            "correctAnswer": "wrong"
+        },
+        {
+            "question": "Lesson-5 (3) olib kelish / принести",
+            "options": [
+                "lot",
+                "bed",
+                "bring",
+                "big"
+            ],
+            "correctAnswer": "bring"
+        },
+        {
+            "question": "Lesson-5 (4) Boshqa / другой ",
+            "options": [
+                "other",
+                "another",
+                "lot",
+                "many"
+            ],
+            "correctAnswer": "other"
+        },
+        {
+            "question": "Lesson-5 (5) Faqat / только",
+            "options": [
+                "only",
+                "great",
+                "altogether",
+                "people"
+            ],
+            "russian": "only"
+        }
+    ],
+    "Lesson-6": [
+        {
+            "question": "Lesson-6 (1) Hozir / сейчас",
+            "options": [
+                "day",
+                "now",
+                "all",
+                "pig"
+            ],
+            "correctAnswer": "now"
+        },
+        {
+            "question": "Lesson-6 (2) Qazimoq / копать ",
+            "options": [
+                "gate",
+                "dig",
+                "read",
+                "cow"
+            ],
+            "correctAnswer": "dig"
+        },
+        {
+            "question": "Lesson-6 (3) Keyingisi / следующий",
+            "options": [
+                "farmer",
+                "chicken",
+                "dog",
+                "next"
+            ],
+            "correctAnswer": "next"
+        },
+        {
+            "question": "Lesson-6 (4) Orqada / позади",
+            "options": [
+                "field",
+                "house",
+                "behind",
+                "sheep"
+            ],
+            "correctAnswer": "behind"
+        },
+        {
+            "question": "Lesson-6 (5) Hayvon / животное",
+            "options": [
+                "animal",
+                "some",
+                "very",
+                "farm"
+            ],
+            "correctAnswer": "animal"
+        }
+    ],
+    "Lesson-7": [
+        {
+            "question": "Lesson-7 (1) Fe'l / глагол",
+            "options": [
+                "noun",
+                "verb",
+                "lesson",
+                "girl"
+            ],
+            "correctAnswer": "verb"
+        },
+        {
+            "question": "Lesson-7 (2) Gapirmoq / говорить",
+            "options": [
+                "read",
+                "teach",
+                "speak",
+                "hotel"
+            ],
+            "correctAnswer": "speak"
+        },
+        {
+            "question": "Lesson-7 (3) Misr / Египет",
+            "options": [
+                "Poland",
+                "Egypt",
+                "Norway",
+                "Turkey"
+            ],
+            "correctAnswer": "Egypt"
+        },
+        {
+            "question": "Lesson-7 (4) Shaxs / человек",
+            "options": [
+                "person",
+                "book",
+                "animal",
+                "cat"
+            ],
+            "correctAnswer": "person"
+        },
+        {
+            "question": "Lesson-7 (5) til / язык",
+            "options": [
+                "both",
+                "language",
+                "cloud",
+                "gate"
+            ],
+            "correctAnswer": "language"
+        }
+    ],
+    "Lesson-8": [
+        {
+            "question": "Lesson-8 (1) Ichkarida / внутри",
+            "options": [
+                "inside",
+                "outside",
+                "with",
+                "pig"
+            ],
+            "correctAnswer": "inside"
+        },
+        {
+            "question": "Lesson-8 (2) Choy / чай",
+            "options": [
+                "coffee",
+                "smoking",
+                "tea",
+                "sand"
+            ],
+            "correctAnswer": "tea"
+        },
+        {
+            "question": "Lesson-8 (3) Uchmoq / летать",
+            "options": [
+                "walk",
+                "fly",
+                "drink",
+                "hotel"
+            ],
+            "correctAnswer": "fly"
+        },
+        {
+            "question": "Lesson-8 (4) pastdga / вниз",
+            "options": [
+                "up",
+                "eating",
+                "friend",
+                "down"
+            ],
+            "correctAnswer": "down"
+        },
+        {
+            "question": "Lesson-8 (5) Sohil / морской",
+            "options": [
+                "field",
+                "seaside",
+                "mountain",
+                "desk"
+            ],
+            "correctAnswer": "seaside"
+        }
+    ],
+    "Lesson-9": [
+        {
+            "question": "Lesson-9 (1) Uxlamoq / спать (do you like this..?)",
+            "options": [
+                "sleep",
+                "read",
+                "them",
+                "blue"
+            ],
+            "correctAnswer": "sleep"
+        },
+        {
+            "question": "Lesson-9 (2) Do‘st / друг (Who is your best friend)",
+            "options": [
+                "exercise",
+                "friend",
+                "wear",
+                "dress"
+            ],
+            "correctAnswer": "friend"
+        },
+        {
+            "question": "Lesson-9 (3) Tushunmoq / понимать",
+            "options": [
+                "read",
+                "understand",
+                "play",
+                "read"
+            ],
+            "correctAnswer": "understand"
+        },
+        {
+            "question": "Lesson-9 (4) Ma’no / значение",
+            "options": [
+                "lesson",
+                "meaning",
+                "book",
+                "outside"
+            ],
+            "correctAnswer": "meaning"
+        },
+        {
+            "question": "Lesson-9 (5) Mashq / упражнение",
+            "options": [
+                "exercise",
+                "adverb",
+                "day",
+                "blue"
+            ],
+            "correctAnswer": "exercise"
+        }
+    ],
+    "Lesson-10": [
+        {
+            "question": "Lesson-10 (1) Sifatlar / прилагательные",
+            "options": [
+                "pronoun",
+                "adjectives",
+                "possessive",
+                "noun"
+            ],
+            "correctAnswer": "adjectives"
+        },
+        {
+            "question": "Lesson-10 (2) Kiyim / одеваться",
+            "options": [
+                "dress",
+                "green",
+                "chicken",
+                "tea"
+            ],
+            "correctAnswer": "dress"
+        },
+        {
+            "question": "Lesson-10 (3) Tezda / быстро",
+            "options": [
+                "quickly",
+                "slowly",
+                "wear",
+                "walk"
+            ],
+            "correctAnswer": "quickly"
+        },
+        {
+            "question": "Lesson-10 (4) Yorqin / яркий",
+            "options": [
+                "bright",
+                "dark",
+                "black",
+                "blue"
+            ],
+            "correctAnswer": "bright"
+        },
+        {
+            "question": "Lesson-10 (5) Nega / почему (Why ,Why ,Why ,Why  )",
+            "options": [
+                "because",
+                "why",
+                "below",
+                "then"
+            ],
+            "correctAnswer": "why"
+        }
+    ],
+    "Lesson-11": [
+        {
+            "question": "Lesson-11 (1) Chorshanba / среда",
+            "options": [
+                "Monday",
+                "Sunday",
+                "Wednesday",
+                "Friday"
+            ],
+            "correctAnswer": "Wednesday"
+        },
+        {
+            "question": "Lesson-11 (2) Sentyabr / сентябрь",
+            "options": [
+                "May",
+                "July",
+                "September",
+                "April"
+            ],
+            "correctAnswer": "September"
+        },
+        {
+            "question": "Lesson-11 (3) Yil / год",
+            "options": [
+                "month",
+                "week",
+                "year",
+                "day"
+            ],
+            "correctAnswer": "year"
+        },
+        {
+            "question": "Lesson-11 (4) Maktab / школа",
+            "options": [
+                "teacher",
+                "study",
+                "school",
+                "lesson"
+            ],
+            "correctAnswer": "school"
+        },
+        {
+            "question": "Lesson-11 (5) Yana / снова",
+            "options": [
+                "again",
+                "after",
+                "ago",
+                "before"
+            ],
+            "correctAnswer": "again"
+        },
+        {
+            "question": "Lesson-11 (6) To‘g‘ri / правильно",
+            "options": [
+                "wrong",
+                "false",
+                "correct",
+                "fix"
+            ],
+            "correctAnswer": "correct"
+        },
+        {
+            "question": "Lesson-11 (7) Soat 12 da tunda / полночь",
+            "options": [
+                "midnight",
+                "noon",
+                "night",
+                "evening"
+            ],
+            "correctAnswer": "midnight"
+        },
+        {
+            "question": "Lesson-11 (8) Qachonlardir avval / назад",
+            "options": [
+                "then",
+                "after",
+                "ago",
+                "before"
+            ],
+            "correctAnswer": "ago"
+        }
+    ],
+    "Lesson-12": [
+        {
+            "question": "Lesson-12 (1) O‘rniga / вместо",
+            "options": [
+                "say",
+                "instead",
+                "give",
+                "have"
+            ],
+            "correctAnswer": "instead"
+        },
+        {
+            "question": "Lesson-12 (2) Bilmoq / знать",
+            "options": [
+                "show",
+                "give",
+                "know",
+                "say"
+            ],
+            "correctAnswer": "know"
+        },
+        {
+            "question": "Lesson-12 (3) Kecha yarim tunda / полночь",
+            "options": [
+                "noon",
+                "night",
+                "midnight",
+                "evening"
+            ],
+            "correctAnswer": "midnight"
+        },
+        {
+            "question": "Lesson-12 (4) Soat 12 / двенадцать",
+            "options": [
+                "twelve",
+                "hour",
+                "second",
+                "minute"
+            ],
+            "correctAnswer": "twelve"
+        },
+        {
+            "question": "Lesson-12 (5) Ko‘rsatmoq / показывать",
+            "options": [
+                "give",
+                "know",
+                "show",
+                "use"
+            ],
+            "correctAnswer": "show"
+        },
+        {
+            "question": "Lesson-12 (6) Bo‘lgan / был",
+            "options": [
+                "were",
+                "have",
+                "has",
+                "was"
+            ],
+            "correctAnswer": "was"
+        },
+        {
+            "question": "Lesson-12 (7) Qilmoq (o‘tgan zamon) / сделал",
+            "options": [
+                "do",
+                "did",
+                "done",
+                "make"
+            ],
+            "correctAnswer": "did"
+        },
+        {
+            "question": "Lesson-12 (8) O‘rnak / пример",
+            "options": [
+                "example",
+                "sentence",
+                "letter",
+                "word"
+            ],
+            "correctAnswer": "example"
+        }
+    ],
+    "Lesson-13": [
+        {
+            "question": "Lesson-13 (1) Do‘stlik / дружба",
+            "options": [
+                "friendship",
+                "friendly",
+                "friend",
+                "freedom"
+            ],
+            "correctAnswer": "friendship"
+        },
+        {
+            "question": "Lesson-13 (2) Qiyin / трудный",
+            "options": [
+                "strong",
+                "long",
+                "difficult",
+                "free"
+            ],
+            "correctAnswer": "difficult"
+        },
+        {
+            "question": "Lesson-13 (3) Baxtli / счастливый",
+            "options": [
+                "happy",
+                "glad",
+                "hard",
+                "nice"
+            ],
+            "correctAnswer": "happy"
+        },
+        {
+            "question": "Lesson-13 (4) Zaiflik / слабость",
+            "options": [
+                "weak",
+                "weakness",
+                "darkness",
+                "length"
+            ],
+            "correctAnswer": "weakness"
+        },
+        {
+            "question": "Lesson-13 (5) Yolg‘iz / один",
+            "options": [
+                "tall",
+                "away",
+                "fond",
+                "alone"
+            ],
+            "correctAnswer": "alone"
+        },
+        {
+            "question": "Lesson-13 (6) Qorong‘i / темный",
+            "options": [
+                "dark",
+                "black",
+                "gray",
+                "blue"
+            ],
+            "correctAnswer": "dark"
+        },
+        {
+            "question": "Lesson-13 (7) Ko‘rmoq / видеть",
+            "options": [
+                "see",
+                "look",
+                "watch",
+                "view"
+            ],
+            "correctAnswer": "see"
+        },
+        {
+            "question": "Lesson-13 (8) G‘amginlik / одиночество",
+            "options": [
+                "sleepiness",
+                "loneliness",
+                "happiness",
+                "kindness"
+            ],
+            "correctAnswer": "loneliness"
+        }
+    ],
+    "Lesson-14": [
+        {
+            "question": "Lesson-14 (1) Qachon / когда",
+            "options": [
+                "what",
+                "where",
+                "why",
+                "when"
+            ],
+            "correctAnswer": "when"
+        },
+        {
+            "question": "Lesson-14 (2) Farq / разница",
+            "options": [
+                "difference",
+                "example",
+                "correctness",
+                "explanation"
+            ],
+            "correctAnswer": "difference"
+        },
+        {
+            "question": "Lesson-14 (3) Mehmonxona stuli / кресло",
+            "options": [
+                "chair",
+                "armchair",
+                "sofa",
+                "bench"
+            ],
+            "correctAnswer": "armchair"
+        },
+        {
+            "question": "Lesson-14 (4) Yonayotgan / горящий",
+            "options": [
+                "burning",
+                "hot",
+                "warm",
+                "fire"
+            ],
+            "correctAnswer": "burning"
+        },
+        {
+            "question": "Lesson-14 (5) Qarama-qarshi / противоположный",
+            "options": [
+                "opposite",
+                "side",
+                "different",
+                "other"
+            ],
+            "correctAnswer": "opposite"
+        },
+        {
+            "question": "Lesson-14 (6) Tamaki / табак",
+            "options": [
+                "smoke",
+                "pipe",
+                "cigarette",
+                "tobacco"
+            ],
+            "correctAnswer": ""
+        },
+        {
+            "question": "Lesson-14 (7) Soat / часы",
+            "options": [
+                "clock",
+                "watches",
+                "timers",
+                "hours"
+            ],
+            "correctAnswer": "clock"
+        },
+        {
+            "question": "Lesson-14 (8) Pol / пол",
+            "options": [
+                "floor",
+                "ground",
+                "bottom",
+                "base"
+            ],
+            "correctAnswer": "floor"
+        }
+    ],
+    "Lesson-15": [
+        {
+            "question": "Lesson-15 (1) Zamon / время (грамматическое)",
+            "options": [
+                "clock",
+                "time",
+                "tense",
+                "moment"
+            ],
+            "correctAnswer": "tense"
+        },
+        {
+            "question": "Lesson-15 (2) Qarama-qarshi / противоположный",
+            "options": [
+                "opposite",
+                "other",
+                "around",
+                "next"
+            ],
+            "correctAnswer": "opposite"
+        },
+        {
+            "question": "Lesson-15 (3) Ehtimol / возможно",
+            "options": [
+                "sure",
+                "perhaps",
+                "certainly",
+                "rarely"
+            ],
+            "correctAnswer": "perhaps"
+        },
+        {
+            "question": "Lesson-15 (4) Ko‘tarilmoq / подниматься",
+            "options": [
+                "grow",
+                "stand",
+                "lift",
+                "rise"
+            ],
+            "correctAnswer": "rise"
+        },
+        {
+            "question": "Lesson-15 (5) Sog‘lom / здоровый",
+            "options": [
+                "happy",
+                "healthy",
+                "strong",
+                "wealthy"
+            ],
+            "correctAnswer": "healthy"
+        },
+        {
+            "question": "Lesson-15 (6) Boy / богатый",
+            "options": [
+                "wealthy",
+                "rich",
+                "healthy",
+                "money"
+            ],
+            "correctAnswer": "wealthy"
+        },
+        {
+            "question": "Lesson-15 (7) Sovg‘a / подарок",
+            "options": [
+                "offer",
+                "gift",
+                "surprise",
+                "present"
+            ],
+            "correctAnswer": "present"
+        },
+        {
+            "question": "Lesson-15 (8) Yangi boshlovchi / новичок",
+            "options": [
+                "newcomer",
+                "starter",
+                "beginner",
+                "student"
+            ],
+            "correctAnswer": "beginner"
+        }
+    ],
+    "Lesson-16": [
+        {
+            "question": "Lesson-16 (1) Ta’riflamoq / описывать",
+            "options": [
+                "write",
+                "describe",
+                "paint",
+                "show"
+            ],
+            "correctAnswer": "describe"
+        },
+        {
+            "question": "Lesson-16 (2) Ta’rif / описание",
+            "options": [
+                "expression",
+                "definition",
+                "information",
+                "description"
+            ],
+            "correctAnswer": "description"
+        },
+        {
+            "question": "Lesson-16 (3) Devor / стена",
+            "options": [
+                "wall",
+                "corner",
+                "side",
+                "floor"
+            ],
+            "correctAnswer": "wall"
+        },
+        {
+            "question": "Lesson-16 (4) Juda / слишком",
+            "options": [
+                "much",
+                "too",
+                "very",
+                "more"
+            ],
+            "correctAnswer": "too"
+        },
+        {
+            "question": "Lesson-16 (5) Ishton / штанина",
+            "options": [
+                "leg",
+                "trouser",
+                "pant",
+                "stick"
+            ],
+            "correctAnswer": "stick"
+        },
+        {
+            "question": "Lesson-16 (6) Yengil / простой",
+            "options": [
+                "simple",
+                "easy",
+                "light",
+                "clear"
+            ],
+            "correctAnswer": "simple"
+        },
+        {
+            "question": "Lesson-16 (7) Sog‘lom / здоровый",
+            "options": [
+                "healthy",
+                "strong",
+                "fit",
+                "wealthy"
+            ],
+            "correctAnswer": "healthy"
+        },
+        {
+            "question": "Lesson-16 (8) Yozmoq / писать",
+            "options": [
+                "write",
+                "type",
+                "print",
+                "record"
+            ],
+            "correctAnswer": "type"
+        }
+    ],
+    "Lesson-17": [
+        {
+            "question": "Lesson-17 (1) Deyarli / почти",
+            "options": [
+                "about",
+                "always",
+                "mostly",
+                "nearly"
+            ],
+            "correctAnswer": "nearly"
+        },
+        {
+            "question": "Lesson-17 (2) Ishonmoq / верить",
+            "options": [
+                "hope",
+                "trust",
+                "know",
+                "believe"
+            ],
+            "correctAnswer": "believe"
+        },
+        {
+            "question": "Lesson-17 (3) Noto‘g‘ri ishonish / не верить",
+            "options": [
+                "forget",
+                "doubt",
+                "deny",
+                "disbelieve"
+            ],
+            "correctAnswer": "disbelieve"
+        },
+        {
+            "question": "Lesson-17 (4) Kerak / нуждаться",
+            "options": [
+                "like",
+                "want",
+                "need",
+                "take"
+            ],
+            "correctAnswer": "need"
+        },
+        {
+            "question": "Lesson-17 (5) Rahmat / благодарность",
+            "options": [
+                "thanks",
+                "hello",
+                "please",
+                "bye"
+            ],
+            "correctAnswer": "thanks"
+        },
+        {
+            "question": "Lesson-17 (6) Pul / деньги",
+            "options": [
+                "note",
+                "price",
+                "money",
+                "cost"
+            ],
+            "correctAnswer": "money"
+        },
+        {
+            "question": "Lesson-17 (7) Amaliy / практичный",
+            "options": [
+                "clever",
+                "useful",
+                "logical",
+                "practical"
+            ],
+            "correctAnswer": "practical"
+        },
+        {
+            "question": "Lesson-17 (8) Oltin / золотой",
+            "options": [
+                "golden",
+                "yellow",
+                "bright",
+                "rich"
+            ],
+            "correctAnswer": "golden"
+        }
+    ],
+    "Lesson-18": [
+        {
+            "question": "Lesson-18 (1) Kelajak / будущее",
+            "options": [
+                "present",
+                "future",
+                "past",
+                "now"
+            ],
+            "correctAnswer": "future"
+        },
+        {
+            "question": "Lesson-18 (2) Xursand / доволен",
+            "options": [
+                "pleasant",
+                "pleased",
+                "happy",
+                "proud"
+            ],
+            "correctAnswer": "pleased"
+        },
+        {
+            "question": "Lesson-18 (3) Yoqimli / приятный",
+            "options": [
+                "pleased",
+                "pleasant",
+                "pretty",
+                "polite"
+            ],
+            "correctAnswer": "pleasant"
+        },
+        {
+            "question": "Lesson-18 (4) Oltin / золото",
+            "options": [
+                "golden",
+                "rich",
+                "metal",
+                "gold"
+            ],
+            "correctAnswer": "gold"
+        },
+        {
+            "question": "Lesson-18 (5) Faxr / гордость",
+            "options": [
+                "proud",
+                "pride",
+                "pleasure",
+                "happy"
+            ],
+            "correctAnswer": "pride"
+        },
+        {
+            "question": "Lesson-18 (6) Odam / человек",
+            "options": [
+                "man",
+                "boy",
+                "human",
+                "person"
+            ],
+            "correctAnswer": "man"
+        },
+        {
+            "question": "Lesson-18 (7) Har kim / каждый",
+            "options": [
+                "everybody",
+                "each",
+                "every",
+                "someone"
+            ],
+            "correctAnswer": "every"
+        },
+        {
+            "question": "Lesson-18 (8) Oltinrang / золотой",
+            "options": [
+                "gold",
+                "yellow",
+                "golden",
+                "bright"
+            ],
+            "correctAnswer": "golden"
+        }
+    ],
+    "Lesson-19": [
+        {
+            "question": "Lesson-19 (1) Baxtli / счастливый",
+            "options": [
+                "happy",
+                "glad",
+                "joy",
+                "cheerful"
+            ],
+            "correctAnswer": "happy"
+        },
+        {
+            "question": "Lesson-19 (2) Baxtsiz / несчастный",
+            "options": [
+                "sad",
+                "angry",
+                "unhappy",
+                "tired"
+            ],
+            "correctAnswer": "unhappy"
+        },
+        {
+            "question": "Lesson-19 (3) To‘g‘ri / правильный",
+            "options": [
+                "true",
+                "polite",
+                "correct",
+                "clear"
+            ],
+            "correctAnswer": "correct"
+        },
+        {
+            "question": "Lesson-19 (4) Noto‘g‘ri / неправильный",
+            "options": [
+                "wrong",
+                "incorrect",
+                "false",
+                "unright"
+            ],
+            "correctAnswer": "incorrect"
+        },
+        {
+            "question": "Lesson-19 (5) Yaxshi tarbiyalangan / вежливый",
+            "options": [
+                "kind",
+                "good",
+                "polite",
+                "quiet"
+            ],
+            "correctAnswer": "polite"
+        },
+        {
+            "question": "Lesson-19 (6) Qo‘pol / грубый",
+            "options": [
+                "rough",
+                "bad",
+                "impolite",
+                "angry"
+            ],
+            "correctAnswer": "impolite"
+        },
+        {
+            "question": "Lesson-19 (7) Yoqqan / нравится",
+            "options": [
+                "like",
+                "love",
+                "wish",
+                "prefer"
+            ],
+            "correctAnswer": "like"
+        },
+        {
+            "question": "Lesson-19 (8) Umid / надежда",
+            "options": [
+                "hope",
+                "wish",
+                "plan",
+                "dream"
+            ],
+            "correctAnswer": "hope"
+        }
+    ],
+    "Lesson-20": [
+        {
+            "question": "Lesson-20 (1) Taqqoslash / сравнение",
+            "options": [
+                "comparison",
+                "degree",
+                "match",
+                "level"
+            ],
+            "correctAnswer": "comparison"
+        },
+        {
+            "question": "Lesson-20 (2) Daraja / степень",
+            "options": [
+                "comparison",
+                "degree",
+                "range",
+                "grade"
+            ],
+            "correctAnswer": "degree"
+        },
+        {
+            "question": "Lesson-20 (3) Solishtirma daraja / сравнительная степень",
+            "options": [
+                "comparative",
+                "superlative",
+                "positive",
+                "relative"
+            ],
+            "correctAnswer": "comparative"
+        },
+        {
+            "question": "Lesson-20 (4) Ortirma daraja / превосходная степень",
+            "options": [
+                "comparative",
+                "superlative",
+                "highest",
+                "ultimate"
+            ],
+            "correctAnswer": "superlative"
+        },
+        {
+            "question": "Lesson-20 (5) Fe’lga oid / глагольный",
+            "options": [
+                "adjective",
+                "noun",
+                "gerund",
+                "verbal"
+            ],
+            "correctAnswer": "verbal"
+        },
+        {
+            "question": "Lesson-20 (6) Gerundiy / герундий",
+            "options": [
+                "infinitive",
+                "verbal",
+                "participle",
+                "gerund"
+            ],
+            "correctAnswer": "gerund"
+        },
+        {
+            "question": "Lesson-20 (7) So‘rash / спрашивать",
+            "options": [
+                "tell",
+                "say",
+                "ask",
+                "speak"
+            ],
+            "correctAnswer": "ask"
+        },
+        {
+            "question": "Lesson-20 (8) Uchrashmoq / встречаться",
+            "options": [
+                "go",
+                "see",
+                "find",
+                "meet"
+            ],
+            "correctAnswer": "meet"
+        }
+    ],
+    "Lesson-21": [
+        {
+            "question": "Lesson-21 (1) Iltimos qilmoq / пожалуйста",
+            "options": [
+                "ask",
+                "please",
+                "wish",
+                "want"
+            ],
+            "correctAnswer": "please"
+        },
+        {
+            "question": "Lesson-21 (2) O‘rniga / вместо",
+            "options": [
+                "under",
+                "beside",
+                "after",
+                "instead"
+            ],
+            "correctAnswer": "instead"
+        },
+        {
+            "question": "Lesson-21 (3) Band / занятой",
+            "options": [
+                "lazy",
+                "busy",
+                "tired",
+                "sleepy"
+            ],
+            "correctAnswer": "busy"
+        },
+        {
+            "question": "Lesson-21 (4) Keltirmoq / приносить",
+            "options": [
+                "bring",
+                "take",
+                "give",
+                "send"
+            ],
+            "correctAnswer": "bring"
+        },
+        {
+            "question": "Lesson-21 (5) Ishonch hosil qilmoq / быть уверенным",
+            "options": [
+                "afraid",
+                "maybe",
+                "sure",
+                "wrong"
+            ],
+            "correctAnswer": "sure"
+        },
+        {
+            "question": "Lesson-21 (6) Har qanday / какой-нибудь",
+            "options": [
+                "any",
+                "some",
+                "none",
+                "no"
+            ],
+            "correctAnswer": "any"
+        },
+        {
+            "question": "Lesson-21 (7) Yo‘q / ни один",
+            "options": [
+                "none",
+                "either",
+                "neither",
+                "never"
+            ],
+            "correctAnswer": "neither"
+        },
+        {
+            "question": "Lesson-21 (8) Omadli / удачливый",
+            "options": [
+                "happy",
+                "lucky",
+                "sure",
+                "hopeful"
+            ],
+            "correctAnswer": "lucky"
+        }
+    ],
+    "Lesson-22": [
+        {
+            "question": "Lesson-22 (1) Ko‘proq / больше",
+            "options": [
+                "more",
+                "less",
+                "much",
+                "few"
+            ],
+            "correctAnswer": "more"
+        },
+        {
+            "question": "Lesson-22 (2) Eng ko‘p / самый",
+            "options": [
+                "lot",
+                "much",
+                "many",
+                "most"
+            ],
+            "correctAnswer": "most"
+        },
+        {
+            "question": "Lesson-22 (3) Hakam / судья",
+            "options": [
+                "lawyer",
+                "judge",
+                "policeman",
+                "king"
+            ],
+            "correctAnswer": "judge"
+        },
+        {
+            "question": "Lesson-22 (4) Olish / брать",
+            "options": [
+                "bring",
+                "get",
+                "catch",
+                "take"
+            ],
+            "correctAnswer": "take"
+        },
+        {
+            "question": "Lesson-22 (5) Yubormoq / отправить",
+            "options": [
+                "take",
+                "send",
+                "leave",
+                "bring"
+            ],
+            "correctAnswer": "send"
+        },
+        {
+            "question": "Lesson-22 (6) Hozirgi / настоящий",
+            "options": [
+                "gift",
+                "future",
+                "past",
+                "present"
+            ],
+            "correctAnswer": "present"
+        },
+        {
+            "question": "Lesson-22 (7) Dahshatli / ужасный",
+            "options": [
+                "terrible",
+                "boring",
+                "strange",
+                "nice"
+            ],
+            "correctAnswer": "terrible"
+        },
+        {
+            "question": "Lesson-22 (8) Halol / честный",
+            "options": [
+                "nicely",
+                "honestly",
+                "clearly",
+                "loudly"
+            ],
+            "correctAnswer": "honestly"
+        }
+    ],
+    "Lesson-23": [
+        {
+            "question": "Lesson-23 (1) Yomonroq / хуже",
+            "options": [
+                "low",
+                "bad",
+                "worst",
+                "worse"
+            ],
+            "correctAnswer": "worse"
+        },
+        {
+            "question": "Lesson-23 (2) Eng yomon / самый плохой",
+            "options": [
+                "worst",
+                "worse",
+                "bad",
+                "terrible"
+            ],
+            "correctAnswer": "worst"
+        },
+        {
+            "question": "Lesson-23 (3) Eng yaxshi / лучший",
+            "options": [
+                "better",
+                "best",
+                "nice",
+                "fine"
+            ],
+            "correctAnswer": "best"
+        },
+        {
+            "question": "Lesson-23 (4) Sotib oldi / купил",
+            "options": [
+                "bring",
+                "bought",
+                "paid",
+                "cost"
+            ],
+            "correctAnswer": "bought"
+        },
+        {
+            "question": "Lesson-23 (5) Yaxshiroq / лучше",
+            "options": [
+                "beautiful",
+                "best",
+                "nice",
+                "better"
+            ],
+            "correctAnswer": "better"
+        },
+        {
+            "question": "Lesson-23 (6) Qimmat / дорогой",
+            "options": [
+                "hard",
+                "rich",
+                "expensive",
+                "rare"
+            ],
+            "correctAnswer": "expensive"
+        },
+        {
+            "question": "Lesson-23 (7) Har ikkisi / либо один",
+            "options": [
+                "either",
+                "neither",
+                "both",
+                "some"
+            ],
+            "correctAnswer": "either"
+        },
+        {
+            "question": "Lesson-23 (8) Chipta / билет",
+            "options": [
+                "card",
+                "ticket",
+                "note",
+                "coin"
+            ],
+            "correctAnswer": "ticket"
+        }
+    ],
+    "Lesson-24": [
+        {
+            "question": "Lesson-24 (1) Taxmin qilmoq / предполагать",
+            "options": [
+                "suppose",
+                "expect",
+                "guess",
+                "hope"
+            ],
+            "correctAnswer": "suppose"
+        },
+        {
+            "question": "Lesson-24 (2) Kutmoq / ожидать",
+            "options": [
+                "believe",
+                "wait",
+                "expect",
+                "receive"
+            ],
+            "correctAnswer": "expect"
+        },
+        {
+            "question": "Lesson-24 (3) Shovqin / шум",
+            "options": [
+                "cry",
+                "voice",
+                "sound",
+                "noise"
+            ],
+            "correctAnswer": "noise"
+        },
+        {
+            "question": "Lesson-24 (4) Urishmoq / драться",
+            "options": [
+                "fight",
+                "hit",
+                "argue",
+                "beat"
+            ],
+            "correctAnswer": "fight"
+        },
+        {
+            "question": "Lesson-24 (5) Maslahat / совет",
+            "options": [
+                "order",
+                "advice",
+                "idea",
+                "command"
+            ],
+            "correctAnswer": "advice"
+        },
+        {
+            "question": "Lesson-24 (6) Urdi / ударил",
+            "options": [
+                "broke",
+                "beat",
+                "push",
+                "hit"
+            ],
+            "correctAnswer": "hit"
+        },
+        {
+            "question": "Lesson-24 (7) Do‘st / товарищ",
+            "options": [
+                "friend",
+                "fellow",
+                "partner",
+                "man"
+            ],
+            "correctAnswer": "fellow"
+        },
+        {
+            "question": "Lesson-24 (8) Mumkin / можно",
+            "options": [
+                "should",
+                "can",
+                "must",
+                "may"
+            ],
+            "correctAnswer": "may"
+        }
+    ],
+    "Lesson-25": [
+        {
+            "question": "Lesson-25 (1) O‘girildi / повернулся",
+            "options": [
+                "moved",
+                "rotated",
+                "turned",
+                "flipped"
+            ],
+            "correctAnswer": "turned"
+        },
+        {
+            "question": "Lesson-25 (2) Nam / мокрый",
+            "options": [
+                "rainy",
+                "wet",
+                "damp",
+                "cold"
+            ],
+            "correctAnswer": "wet"
+        },
+        {
+            "question": "Lesson-25 (3) Nuqta / точка",
+            "options": [
+                "point",
+                "dot",
+                "spot",
+                "mark"
+            ],
+            "correctAnswer": "point"
+        },
+        {
+            "question": "Lesson-25 (4) Olib kelmoq / приносить",
+            "options": [
+                "move",
+                "take",
+                "carry",
+                "bring"
+            ],
+            "correctAnswer": "bring"
+        },
+        {
+            "question": "Lesson-25 (5) Ishonch hosil qilmoq / уверен",
+            "options": [
+                "certain",
+                "sure",
+                "confident",
+                "decided"
+            ],
+            "correctAnswer": "sure"
+        },
+        {
+            "question": "Lesson-25 (6) Hech qanday / никакой",
+            "options": [
+                "any",
+                "no",
+                "none",
+                "nothing"
+            ],
+            "correctAnswer": "any"
+        },
+        {
+            "question": "Lesson-25 (7) Na bu, na u / ни один",
+            "options": [
+                "nothing",
+                "either",
+                "none",
+                "neither"
+            ],
+            "correctAnswer": "neither"
+        },
+        {
+            "question": "Lesson-25 (8) Omadli / удачливый",
+            "options": [
+                "hopeful",
+                "happy",
+                "lucky",
+                "cheerful"
+            ],
+            "correctAnswer": "lucky"
+        }
+    ],
+    "Lesson-26": [
+        {
+            "question": "Lesson-26 (1) Keldi / пришёл",
+            "options": [
+                "came",
+                "go",
+                "arrive",
+                "enter"
+            ],
+            "correctAnswer": "came"
+        },
+        {
+            "question": "Lesson-26 (2) O‘yladi / подумал",
+            "options": [
+                "thought",
+                "think",
+                "guess",
+                "imagine"
+            ],
+            "correctAnswer": "thought"
+        },
+        {
+            "question": "Lesson-26 (3) To‘ladi / заплатил",
+            "options": [
+                "paid",
+                "give",
+                "cost",
+                "buy"
+            ],
+            "correctAnswer": "paid"
+        },
+        {
+            "question": "Lesson-26 (4) Olib keldi / принес",
+            "options": [
+                "take",
+                "brought ",
+                "deliver",
+                "got"
+            ],
+            "correctAnswer": "brought"
+        },
+        {
+            "question": "Lesson-26 (5) Yozdi / написал",
+            "options": [
+                "scribble",
+                "write",
+                "written",
+                "wrote"
+            ],
+            "correctAnswer": "wrote"
+        },
+        {
+            "question": "Lesson-26 (6) Yangi / новый",
+            "options": [
+                "recent",
+                "fresh",
+                "young",
+                "new"
+            ],
+            "correctAnswer": "new"
+        },
+        {
+            "question": "Lesson-26 (7) Oldi / взял",
+            "options": [
+                "get",
+                "took",
+                "buy",
+                "hold"
+            ],
+            "correctAnswer": "took"
+        },
+        {
+            "question": "Lesson-26 (8) Ketdi / ушёл",
+            "options": [
+                "exit",
+                "go",
+                "gone",
+                "left"
+            ],
+            "correctAnswer": "left"
+        }
+    ],
+    "Lesson-27": [
+        {
+            "question": "Lesson-27 (1) Aytib berdi / рассказал",
+            "options": [
+                "say",
+                "told",
+                "speak",
+                "explain"
+            ],
+            "correctAnswer": "told"
+        },
+        {
+            "question": "Lesson-27 (2) Ichdi / выпил",
+            "options": [
+                "sip",
+                "drink",
+                "drank",
+                "gulp"
+            ],
+            "correctAnswer": "drank"
+        },
+        {
+            "question": "Lesson-27 (3) Birga / вместе",
+            "options": [
+                "both",
+                "together",
+                "each",
+                "side"
+            ],
+            "correctAnswer": "together"
+        },
+        {
+            "question": "Lesson-27 (4) Fan / предмет",
+            "options": [
+                "topic",
+                "science",
+                "lesson",
+                "subject"
+            ],
+            "correctAnswer": "subject"
+        },
+        {
+            "question": "Lesson-27 (5) Qovurilgan non / тост",
+            "options": [
+                "bun",
+                "bread",
+                "toast",
+                "cake"
+            ],
+            "correctAnswer": "toast"
+        },
+        {
+            "question": "Lesson-27 (6) Non / хлеб",
+            "options": [
+                "loaf",
+                "toast",
+                "butter",
+                "bread"
+            ],
+            "correctAnswer": "bread"
+        },
+        {
+            "question": "Lesson-27 (7) Sariyog‘ / сливочное масло",
+            "options": [
+                "butter",
+                "cream",
+                "oil",
+                "cheese"
+            ],
+            "correctAnswer": "butter"
+        },
+        {
+            "question": "Lesson-27 (8) Bekon / бекон",
+            "options": [
+                "bacon",
+                "meat",
+                "ham",
+                "beef"
+            ],
+            "correctAnswer": "bacon"
+        }
+    ],
+    "Lesson-28": [
+        {
+            "question": "Lesson-28 (1) Dumaloq non / булочка",
+            "options": [
+                "loaf",
+                "toast",
+                "bun",
+                "roll"
+            ],
+            "correctAnswer": "roll"
+        },
+        {
+            "question": "Lesson-28 (2) To‘g‘ri / правда",
+            "options": [
+                "right",
+                "true", 
+                "correct",
+                "sure"
+            ],
+            "correctAnswer": "true"
+        },
+        {
+            "question": "Lesson-28 (3) Hech kim / никто",
+            "options": [
+                "nobody",
+                "nothing",
+                "none",
+                "neither"
+            ],
+            "correctAnswer": "none"
+        },
+        {
+            "question": "Lesson-28 (4) Qovurilgan go‘sht / жаркое",
+            "options": [
+                "bacon",
+                "meat",
+                "fried",
+                "roast"
+            ],
+            "correctAnswer": "roast"
+        },
+        {
+            "question": "Lesson-28 (5) Mol go‘shti / говядина",
+            "options": [
+                "mutton",
+                "beef",
+                "bacon",
+                "veal"
+            ],
+            "correctAnswer": "beef"
+        },
+        {
+            "question": "Lesson-28 (6) Yetarli / достаточно",
+            "options": [
+                "enough",
+                "much",
+                "more",
+                "many"
+            ],
+            "correctAnswer": "enough"
+        },
+        {
+            "question": "Lesson-28 (7) Qo‘y go‘shti / баранина",
+            "options": [
+                "lamb",
+                "beef",
+                "pork",
+                "mutton"
+            ],
+            "correctAnswer": "mutton"
+        },
+        {
+            "question": "Lesson-28 (8) Jannat / рай",
+            "options": [
+                "paradise",
+                "heaven",
+                "sky",
+                "above"
+            ],
+            "correctAnswer": "heaven"
+        }
+    ],
+    "Lesson-29": [
+        {
+            "question": "Lesson-29 (1) she'r / стих (This is not leon)",
+            "options": [
+                "left",
+                "poem",
+                "leon",
+                "bake"
+            ],
+            "correctAnswer": "poem"
+        },
+        {
+            "question": "Lesson-29 (2) Zavonaviy / современный",
+            "options": [
+                "modern",
+                "cook",
+                "fry",
+                "roast"
+            ],
+            "correctAnswer": "modern"
+        },
+        {
+            "question": "Lesson-29 (3) Xato / ошибка",
+            "options": [
+                "boil",
+                "written",
+                "irish",
+                "mistake"
+            ],
+            "correctAnswer": "mistake"
+        },
+        {
+            "question": "Lesson-29 (4) Qovurilgan tuxum / яичница",
+            "options": [
+                "omelet",
+                "egg",
+                "scrambled egg",
+                "boiled egg"
+            ],
+            "correctAnswer": "omelet"
+        },
+        {
+            "question": "Lesson-29 (5) porter / портер",
+            "options": [
+                "egg",
+                "omelet",
+                "porter",
+                "since"
+            ],
+            "correctAnswer": "porter"
+        }
+    ],
+    "Lesson-31": [
+        {
+            "question": "Lesson-31 (1) Tirik / живой",
+            "options": [
+                "easy",
+                "fresh",
+                "alive",
+                "marmalade",
+                "wet"
+            ],
+            "correctAnswer": "alive"
+        },
+        {
+            "question": "Lesson-31 (2) tumanli / туманный",
+            "options": [
+                "especially",
+                "else",
+                "foggy",
+                "feet"
+            ],
+            "correctAnswer": "foggy"
+        }
+    ]
+}

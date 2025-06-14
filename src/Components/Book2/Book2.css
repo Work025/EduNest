@@ -1,0 +1,167 @@
+.book2 {
+    width: 100%;
+    height: auto;
+    padding: 10px 100px;
+    transition: all 1s;
+}
+
+.book2-text {
+    width: 100%;
+    background-color: #f1f5f9;
+    padding: 15px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+}
+
+.book2-h1 h1 {
+    font-size: 30px;
+    color: #0084ff;
+    margin-bottom: 10px;
+}
+
+.book2-title {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.book2-title h2 {
+    height: 100%;
+    border: 2px solid #0084ff;
+    border-radius: 10px 0 0 10px;
+    padding: 5px 10px;
+    color: #0084ff;
+    font-size: 17px;
+}
+
+.book2-select {
+    height: 100%;
+    border: 2px solid #0084ff;
+    border-radius: 0 10px 10px 0;
+    color: #0084ff;
+    font-size: 17px;
+    border-left: none;
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.book2-lsn {
+    width: 100%;
+    height: auto;
+    padding: 15px 20px;
+    border: 2px solid #0084ff;
+    border-radius: 10px;
+}
+
+.lesson-card {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: self-start;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.lesson-card h3 {
+    font-size: 22px;
+    color: #0084ff;
+    letter-spacing: 1px;
+
+    i {
+        opacity: 0.6;
+    }
+}
+
+.lesson-card button {
+    background-color: #0084ff;
+    color: #f1f5f9;
+    border: 2px solid #006ed5;
+    border-radius: 10px;
+    padding: 5px 15px;
+    font-size: 15px;
+}
+
+.lesson-details {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    p {
+        font-size: 15px;
+        text-decoration: underline;
+    }
+}
+
+@media(max-width:901px) {
+    .book2 {
+        padding: 10px 30px;
+        transition: all 1s;
+    }
+
+    .book2-text {
+        width: 100%;
+    }
+
+    .book2-select {
+        height: 100%;
+    }
+
+    .book2-title {
+        height: 40px;
+    }
+
+    .book2-title h2 {
+        height: 100%;
+
+        span {
+            display: none;
+        }
+    }
+}
+
+@media(max-width:565px) {
+    .book2 {
+        padding: 10px;
+        transition: all 1s;
+    }
+
+    .book2-text {
+        padding: 10px;
+    }
+
+    .book2-title {
+        height: 30px;
+    }
+
+    .book2-title h2 {
+        height: 100%;
+        font-size: 15px;
+    }
+
+    .book2-select {
+        font-size: 15px;
+    }
+
+    .lesson-details {
+        flex-direction: column;
+        align-items: self-start;
+    }
+
+    .lesson-details button {
+        width: 100%;
+    }
+
+    .lesson-details p {
+        width: 100%;
+        height: auto;
+    }
+}

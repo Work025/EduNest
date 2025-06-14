@@ -1,0 +1,1288 @@
+{
+  "A": [
+    {
+      "question": "e.g.",
+      "options": [
+        "например / masalan",
+        "в случае / holatda",
+        "и так далее / va hokazo",
+        "то есть / ya'ni"
+      ],
+      "correctAnswer": "например / masalan"
+    },
+    {
+      "question": "ability",
+      "options": [
+        "Время / Vaqt",
+        "Навык / Ko'nikma",
+        "Шанс / Imkon",
+        "Разрешение / Ruxsat"
+      ],
+      "correctAnswer": "Навык / Ko'nikma"
+    },
+    {
+      "question": "accept",
+      "options": [
+        "Игнорировать / E'tibor bermaslik",
+        "Атаковать / Hujum qilmoq",
+        "Принять / Qabul qilmoq",
+        "Отказаться / Rad etmoq"
+      ],
+      "correctAnswer": "Принять / Qabul qilmoq"
+    },
+    {
+      "question": "accuse",
+      "options": [
+        "Бежать / Qochmoq",
+        "Соглашаться / Rozilik bildirmoq",
+        "Обвинять / Ayblamoq",
+        "Признаться / Tan olmoq"
+      ],
+      "correctAnswer": "Обвинять / Ayblamoq"
+    },
+    {
+      "question": "admire",
+      "options": [
+        "Избегать / Qochmoq",
+        "Атаковать / Hujum qilmoq",
+        "Любоваться / Qoyil qolmoq",
+        "Спорить / Tortishmoq"
+      ],
+      "correctAnswer": "Любоваться / Qoyil qolmoq"
+    },
+    {
+      "question": "admit",
+      "options": [
+        "Принять / Qabul qilmoq",
+        "Обвинять / Ayblamoq",
+        "Советовать / Maslahat bermoq",
+        "Признаться / Tan olmoq"
+      ],
+      "correctAnswer": "Признаться / Tan olmoq"
+    },
+    {
+      "question": "adopt",
+      "options": [
+        "Избегать / Qochmoq",
+        "Адаптироваться / Moslashmoq",
+        "Признаться / Tan olmoq",
+        "Усыновить / Asrab olmoq"
+      ],
+      "correctAnswer": "Усыновить / Asrab olmoq"
+    },
+    {
+      "question": "actually",
+      "options": [
+        "В конце концов / Oxirida",
+        "На самом деле / Aslida",
+        "Ясно / Ravshan",
+        "Наконец / Nihoyat"
+      ],
+      "correctAnswer": "На самом деле / Aslida"
+    },
+    {
+      "question": "administrative",
+      "options": [
+        "Административный / Ma'muriy",
+        "Креативный / Ijodiy",
+        "Привлекательный / Jozibali",
+        "Традиционный / An'anaviy"
+      ],
+      "correctAnswer": "Административный / Ma'muriy"
+    },
+    {
+      "question": "advanced",
+      "options": [
+        "Простой / Oddiy",
+        "Продвинутый / Ilg‘or",
+        "Лёгкий / Yengil",
+        "Общий / Umumiy"
+      ],
+      "correctAnswer": "Продвинутый / Ilg‘or"
+    }
+  ],
+  "B": [
+    {
+      "question": "bald",
+      "options": [
+        "Волосатый / Sochli",
+        "Лысый / Tolsiz",
+        "Сильный / Kuchli",
+        "Больной / Kasal"
+      ],
+      "correctAnswer": "Лысый / Tolsiz"
+    },
+    {
+      "question": "balcony",
+      "options": [
+        "Балкон / Boshqa qavatdagi veranda",
+        "Подвал / Podval",
+        "Крыша / Tom",
+        "Гараж / Garaj"
+      ],
+      "correctAnswer": "Балкон / Boshqa qavatdagi veranda"
+    },
+    {
+      "question": "barber",
+      "options": [
+        "Парикмахер / Sartarosh",
+        "Повар / Oshpaz",
+        "Учитель / O'qituvchi",
+        "Плотник / Duradgor"
+      ],
+      "correctAnswer": "Парикмахер / Sartarosh"
+    },
+    {
+      "question": "bare",
+      "options": [
+        "Голый / Yalang'och",
+        "Мокрый / Hoz",
+        "Толстый / Qalin",
+        "Одетый / Ki-yilgan"
+      ],
+      "correctAnswer": "Голый / Yalang'och"
+    },
+    {
+      "question": "bargain",
+      "options": [
+        "Сделка / Kelishuv",
+        "Обман / Aldash",
+        "Долг / Qarzdorlik",
+        "Драка / Urush"
+      ],
+      "correctAnswer": "Сделка / Kelishuv"
+    },
+    {
+      "question": "battle",
+      "options": [
+        "Битва / Jang",
+        "Праздник / Bayram",
+        "Поход / Sayohat",
+        "Песня / Qo‘shiq"
+      ],
+      "correctAnswer": "Битва / Jang"
+    },
+    {
+      "question": "beam",
+      "options": [
+        "Луч / Nur yoki shina",
+        "Скала / Qoya",
+        "Звезда / Yulduz",
+        "Труба / Truba"
+      ],
+      "correctAnswer": "Луч / Nur yoki shina"
+    },
+    {
+      "question": "bench",
+      "options": [
+        "Скамейка / Skameyka",
+        "Кровать / Karavot",
+        "Стол / Stol",
+        "Дверь / Eshik"
+      ],
+      "correctAnswer": "Скамейка / Skameyka"
+    },
+    {
+      "question": "bakery",
+      "options": [
+        "Булочная / Nonvoyxona",
+        "Аптека / Dorixona",
+        "Школа / Maktab",
+        "Кафе / Kafe"
+      ],
+      "correctAnswer": "Булочная / Nonvoyxona"
+    },
+    {
+      "question": "blood",
+      "options": [
+        "Кровь / Qon",
+        "Пот / Ter",
+        "Слёзы / Ko‘z yoshi",
+        "Слюна / So‘lak"
+      ],
+      "correctAnswer": "Кровь / Qon"
+    }
+  ],
+  "C": [
+    {
+      "question": "calculate",
+      "options": [
+        "Забывать / Unutmoq",
+        "Пропускать / O‘tkazib yubormoq",
+        "Рассчитывать / Hisoblamoq",
+        "Путать / Aralashtirmoq"
+      ],
+      "correctAnswer": "Рассчитывать / Hisoblamoq"
+    },
+    {
+      "question": "calm",
+      "options": [
+        "Спокойный / Tinch",
+        "Злой / G‘azablangan",
+        "Шумный / Shovqinli",
+        "Грустный / Xafa"
+      ],
+      "correctAnswer": "Спокойный / Tinch"
+    },
+    {
+      "question": "cancel",
+      "options": [
+        "Отменить / Bekor qilmoq",
+        "Одобрить / Maqbullashtirmoq",
+        "Начать / Boshlamoq",
+        "Продлить / Uzaytirmoq"
+      ],
+      "correctAnswer": "Отменить / Bekor qilmoq"
+    },
+    {
+      "question": "capture",
+      "options": [
+        "Захватить / Qo‘lga olmoq",
+        "Убежать / Qochib ketmoq",
+        "Потерять / Yo‘qotmoq",
+        "Подарить / Sovg‘a qilmoq"
+      ],
+      "correctAnswer": "Захватить / Qo‘lga olmoq"
+    },
+    {
+      "question": "careful",
+      "options": [
+        "Осторожный / Ehtiyotkor",
+        "Ленивый / Dangasa",
+        "Смелый / Jasur",
+        "Шумный / Shovqinli"
+      ],
+      "correctAnswer": "Осторожный / Ehtiyotkor"
+    },
+    {
+      "question": "carriage",
+      "options": [
+        "Карета / Eshkakli arava",
+        "Самолёт / Samolyot",
+        "Лестница / Zina",
+        "Дом / Uy"
+      ],
+      "correctAnswer": "Карета / Eshkakli arava"
+    },
+    {
+      "question": "celebrate",
+      "options": [
+        "Праздновать / Bayram qilmoq",
+        "Забыть / Unutmoq",
+        "Сожалеть / Afsuslanmoq",
+        "Бояться / Qo‘rqmoq"
+      ],
+      "correctAnswer": "Праздновать / Bayram qilmoq"
+    },
+    {
+      "question": "certain",
+      "options": [
+        "Определённый / Ma'lum",
+        "Случайный / Tasodifiy",
+        "Фальшивый / Soxta",
+        "Неясный / Noaniq"
+      ],
+      "correctAnswer": "Определённый / Ma'lum"
+    },
+    {
+      "question": "challenge",
+      "options": [
+        "Вызов / Qiyinchilik",
+        "Помощь / Yordam",
+        "Успех / Muvaffaqiyat",
+        "Отдых / Dam olish"
+      ],
+      "correctAnswer": "Вызов / Qiyinchilik"
+    },
+    {
+      "question": "chase",
+      "options": [
+        "Преследовать / Quvmoq",
+        "Прятаться / Yashirinmoq",
+        "Сидеть / O‘tirib turmoq",
+        "Игнорировать / E’tibor bermaslik"
+      ],
+      "correctAnswer": "Преследовать / Quvmoq"
+    }
+  ],
+  "D": [
+    {
+      "question": "daffodil",
+      "options": [
+        "Роза / Atirgul",
+        "Ромашка / Moychechak",
+        "Лилия / Liliya",
+        "Нарцисс / Narsis"
+      ],
+      "correctAnswer": "Нарцисс / Narsis"
+    },
+    {
+      "question": "daresay",
+      "options": [
+        "Полагаю / O‘ylayman",
+        "Обвиняю / Ayblayman",
+        "Отрицаю / Rad etaman",
+        "Сравниваю / Taqqoslayman"
+      ],
+      "correctAnswer": "Полагаю / O‘ylayman"
+    },
+    {
+      "question": "dash",
+      "options": [
+        "Бежать быстро / Tez yugurmoq",
+        "Споткнуться / Qoqilmoq",
+        "Упасть / Yiqilmoq",
+        "Ползти / Sudralmoq"
+      ],
+      "correctAnswer": "Бежать быстро / Tez yugurmoq"
+    },
+    {
+      "question": "debate",
+      "options": [
+        "Дискуссия / Munozara",
+        "Защита / Himoya",
+        "Объявление / E’lon",
+        "Праздник / Bayram"
+      ],
+      "correctAnswer": "Дискуссия / Munozara"
+    },
+    {
+      "question": "decision",
+      "options": [
+        "Решение / Qaror",
+        "Проигрыш / Yutqazish",
+        "Сомнение / Shubha",
+        "Призыв / Chaqaruv"
+      ],
+      "correctAnswer": "Решение / Qaror"
+    },
+    {
+      "question": "declare",
+      "options": [
+        "Заявить / E’lon qilmoq",
+        "Скрыть / Yashirmoq",
+        "Забыть / Unutmoq",
+        "Запретить / Taqiqlamoq"
+      ],
+      "correctAnswer": "Заявить / E’lon qilmoq"
+    },
+    {
+      "question": "deed",
+      "options": [
+        "Поступок / Harakat",
+        "Обещание / Vada",
+        "Речь / Nutq",
+        "Мечта / Orzu"
+      ],
+      "correctAnswer": "Поступок / Harakat"
+    },
+    {
+      "question": "defeat",
+      "options": [
+        "Поражение / Mag‘lubiyat",
+        "Победа / G‘alaba",
+        "Нападение / Hujum",
+        "Мир / Tinchlik"
+      ],
+      "correctAnswer": "Поражение / Mag‘lubiyat"
+    },
+    {
+      "question": "defend",
+      "options": [
+        "Защищать / Himoya qilmoq",
+        "Атаковать / Hujum qilmoq",
+        "Игнорировать / E’tibor bermaslik",
+        "Изучать / O‘rganmoq"
+      ],
+      "correctAnswer": "Защищать / Himoya qilmoq"
+    },
+    {
+      "question": "degree",
+      "options": [
+        "Степень / Daraja",
+        "Форма / Ko‘rinish",
+        "Линия / Chiziq",
+        "Шум / Shovqin"
+      ],
+      "correctAnswer": "Степень / Daraja"
+    }
+  ],
+  "E": [
+    {
+      "question": "eagerly",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "educated",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "education",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "effect",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "element",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "eloquently",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "emphhasis",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "escape",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "event",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "evil",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "F": [
+    {
+      "question": "fair",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "faith",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "fame",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "feast",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "feather",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "feeling",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "fertile",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "film",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "fine",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "fix",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "G": [
+    {
+      "question": "gap",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "garage",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "generation",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "generous",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "genuine",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "geography",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "gift",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "gigantic",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "glance",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "govern",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "H": [
+    {
+      "question": "habituel",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "hairbreath",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "handful",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "hare",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "harm",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "harp",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "hastily",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "heal",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "heathen",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "helmet",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "I": [
+    {
+      "question": "idiomatic",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "imagination",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "imply",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "impress",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "incline",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "include",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "indirect",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "informal",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "inhabit",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "inner",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "J": [
+    {
+      "question": "jealous",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "jelly",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "jolly",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "justify",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "K": [
+    {
+      "question": "kneel",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "knighthood",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "L": [
+    {
+      "question": "labourer",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "ladder",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "lame",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "lark",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "law",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "lawyer",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "lazy",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "leader",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "leather",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "lecture",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "M": [
+    {
+      "question": "magnificent",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "maiden",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "main",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "majesty",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "major",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "majority",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "map",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "martyr",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "master",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "mathematics",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "N": [
+    {
+      "question": "napkin",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "narrow",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "native",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "nature",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "navy",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "neat",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "necessity",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "needle",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "neighbourhood",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "nest",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "O": [
+    {
+      "question": "oak",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "objection",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "obligation",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "observation",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "observe",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "obstacle",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "occupation",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "odd",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "offer",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "omit",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "P": [
+    {
+      "question": "palace",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "pale",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "parson",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "partnership",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "passage",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "pause",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "pea",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "peak",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "peculiar",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "permanent",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "Q": [
+    {
+      "question": "quarrel",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "queer",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "R": [
+    {
+      "question": "rage",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "rank",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "rare",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "rebel",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "reduce",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "regular",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "reign",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "relative",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "remove",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "request",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "S": [
+    {
+      "question": "sacrifice",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "saint",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "sauce",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "scarcely",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "scatter",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "scholarship",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "screw",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "scrub",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "search",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "seize",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "T": [
+    {
+      "question": "tax",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "telegraph",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "tent",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "term",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "thatched",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "theory",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "thistle",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "thread",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "threaten",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "thrifty",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "U": [
+    {
+      "question": "ugly",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "undergraduate",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "underneath",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "undoubtedly",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "uneasy",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "ungrateful",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "unite",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "unknown",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "unlike",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "unspoken",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "V": [
+    {
+      "question": "vacation",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "valuable",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "variety",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "various",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "vein",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "verse",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "view",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "villain",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "vision",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "volume",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ],
+  "W": [
+    {
+      "question": "wagon",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "war",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "weave",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "whisky",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "whisper",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "wholehearted",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "widespread",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "wing",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "wipe",
+      "opinions": [],
+      "correctAnswer": ""
+    },
+    {
+      "question": "witty",
+      "opinions": [],
+      "correctAnswer": ""
+    }
+  ]
+}

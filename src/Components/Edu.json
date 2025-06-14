@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "password": "1200061",
+        "name": "Fozilxon",
+        "sorename": "Otaxonov",
+        "group": "5",
+        "time": "8 : 30",
+        "class": "21",
+        "teacher": "Shakhnoza"
+    },
+    {
+        "id": "3",
+        "password": "1200062",
+        "name": "Fozilxon",
+        "sorename": "Otaxonov",
+        "group": "1",
+        "time": "8 : 40",
+        "class": "21",
+        "teacher": "Shakhnoza"
+    },
+    {
+        "id": "4",
+        "password": "1200011",
+        "name": "Fariza",
+        "sorename": "Otaxonov",
+        "group": "1",
+        "time": "9 : 40",
+        "class": "21",
+        "teacher": "Shakhnoza"
+    }
+]
