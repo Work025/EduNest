@@ -3,31 +3,31 @@ import './Book1.css';
 import bookData from './Book1.json';
 import lessonData from './Book1-test.json';
 
-const Book1 = () => {
+const Book1 = ({ user }) => {
   const [activeLesson, setActiveLesson] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
   const [score, setScore] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
   const [filter, setFilter] = useState("All");
-
+  const currentBook = "Book1";
 
   useEffect(() => {
-    const result = localStorage.getItem(`${activeLesson}Result`);
-    if (result) {
-      const saved = JSON.parse(result);
-      setScore(saved.score || 0);
+    if (activeLesson && currentQuestionIndex !== null) {
+      localStorage.setItem(`${activeLesson}_index-${user.id}`, currentQuestionIndex.toString());
     }
-  }, [activeLesson]);
+  }, [currentQuestionIndex, activeLesson, user]);
 
   const handleClick = (title) => {
-    const result = localStorage.getItem(`${title}Result`);
+    const result = localStorage.getItem(`${currentBook}_${title}Result-${user.id}`);
     if (result) {
       alert("Bu darsni allaqachon o'tgansiz!");
       return;
     }
+
+    const savedIndex = localStorage.getItem(`${title}_index-${user.id}`);
     setActiveLesson(title);
-    setCurrentQuestionIndex(0);
+    setCurrentQuestionIndex(savedIndex ? Number(savedIndex) : 0);
     setSelectedOption(null);
     setShowAnswer(false);
     setScore(0);
@@ -46,7 +46,7 @@ const Book1 = () => {
   };
 
   const filteredLessons = bookData.filter((item) => {
-    const result = localStorage.getItem(`${item.title}Result`);
+    const result = localStorage.getItem(`${currentBook}_${item.title}Result-${user.id}`);
     if (filter === "All") return true;
     if (filter === "Past") return result !== null;
     if (filter === "To do") return result === null;
@@ -61,7 +61,8 @@ const Book1 = () => {
       setShowAnswer(false);
     } else {
       const result = { score, total: questions.length };
-      localStorage.setItem(`${activeLesson}Result`, JSON.stringify(result));
+      localStorage.setItem(`${currentBook}_${activeLesson}Result-${user.id}`, JSON.stringify(result));
+      localStorage.removeItem(`${activeLesson}_index-${user.id}`);
       setActiveLesson("done");
     }
   };
@@ -85,7 +86,7 @@ const Book1 = () => {
 
       <div className='book1-lsn'>
         {filteredLessons.map((item, index) => {
-          const result = localStorage.getItem(`${item.title}Result`);
+          const result = localStorage.getItem(`${currentBook}_${item.title}Result-${user.id}`);
           const isCompleted = result !== null;
           const scoreData = isCompleted ? JSON.parse(result) : null;
           const btnText = isCompleted ? "Answer" : item.btn;
@@ -150,7 +151,7 @@ const Book1 = () => {
                   </p>
                 )}
                 <div>
-                  <button onClick={() => setShowAnswer(true)}>Answer </button>
+                  <button onClick={() => setShowAnswer(true)}>Answer</button>
                   <button onClick={nextQuestion} style={{ marginLeft: '10px' }}>
                     <i className='fa-solid fa-angle-right'></i>
                   </button>
@@ -172,7 +173,6 @@ const Book1 = () => {
           </div>
         )}
       </div>
-
     </div>
   );
 };

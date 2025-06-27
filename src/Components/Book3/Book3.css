@@ -26,7 +26,6 @@
 .book3-name-title h1 {
     font-size: 30px;
     color: #0084ff;
-    margin-bottom: 10px;
 }
 
 .book3-input {
@@ -134,7 +133,7 @@
 .book3-filters button {
     padding: 5px 12px;
     border: 2px solid #0084ff;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0);
     color: #0084ff;
     font-weight: 600;
     border-radius: 8px;

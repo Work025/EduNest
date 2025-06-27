@@ -53,7 +53,7 @@
     }
 }
 
-.my-work{
+.my-work {
     width: 100%;
     height: auto;
     display: flex;
@@ -62,9 +62,46 @@
     justify-content: space-between;
 }
 
-.my-work h1{
+.my-work h1 {
     font-size: 20px;
-    q{
+
+    q {
         color: #000;
+    }
+}
+
+@media(max-width: 900px) {
+    .footer-about,.my-work {
+        padding: 20px;
+    }
+}
+
+
+@media(max-width: 565px) {
+    .footer-about {
+        padding: 10px;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .footer-name h1 {
+        font-size: 25px;
+    }
+
+    .tel {
+        font-size: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .my-work {
+        padding: 10px;
+    }
+
+    .my-work h1 {
+        display: flex;
+        font-size: 17px;
+        flex-direction: column;
     }
 }

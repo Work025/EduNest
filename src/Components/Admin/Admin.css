@@ -1,0 +1,98 @@
+.admin {
+    padding: 20px;
+    background: #f2f2f2;
+}
+
+.admin h1 {
+    margin-bottom: 20px;
+}
+
+.admin-filters {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.admin-filters select {
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.admin-user {
+    margin-bottom: 40px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.admin-user h2 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 5px;
+}
+
+.online-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: red;
+    border-radius: 50%;
+}
+
+.admin-user table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.admin-user th,
+.admin-user td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.admin-user th {
+    background-color: #0084f0;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+
+    .admin-user table,
+    .admin-user thead,
+    .admin-user tbody,
+    .admin-user th,
+    .admin-user td,
+    .admin-user tr {
+        display: block;
+    }
+
+    .admin-user tr {
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .admin-user td {
+        padding-left: 50%;
+        position: relative;
+    }
+
+    .admin-user td::before {
+        position: absolute;
+        left: 10px;
+        top: 8px;
+        white-space: nowrap;
+        font-weight: bold;
+        content: attr(data-label);
+    }
+
+    .admin-user th {
+        display: none;
+    }
+}

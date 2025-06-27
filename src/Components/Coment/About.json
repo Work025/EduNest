@@ -1,0 +1,50 @@
+{
+    "uz": {
+        "title": "Edu/Nest",
+        "user": "Foydalanuvchi",
+        "languages": "Tillar:",
+        "all": "Hammasi",
+        "book1": "Kitob-1",
+        "book2": "Kitob-2",
+        "book3": "Kitob-3",
+        "book4": "Kitob-4",
+        "about": "Edu/Nest — Onlayn ta’lim tizimi",
+        "text": "Ushbu platformada ingliz tili testlar orqali o‘rganiladi. Har bir test maxsus darslarga asoslangan. Umumiy hisobda 4 ta kitob mavjud. Siz ushbu kitoblarni o‘rganib, ingliz tilini mukammal darajada o‘zlashtirishingiz mumkin. Agar IELTS testlariga tayyorlanayotgan bo‘lsangiz, bu platforma aynan siz uchun.",
+        "kitob1": "Boshlang‘ich darajadagi so‘zlar va iboralar asosida tuzilgan. Siz bu testlarni yechib borib, darajangizni bosqichma-bosqich oshirib borasiz. Har bir testdan so‘ng navbatdagisiga o‘tishingiz mumkin.",
+        "kitob2": "O‘rta darajadagi grammatikani chuqurroq tushunishga yordam beradi. Deyarli sizni IELTS testlariga tayyorlaydi. Ushbu kitobdagi so‘zlar va iboralar ingliz tilini mukammal o‘zlashtirishingizga yordam beradi. Kitobda murakkab va qiyin testlar mavjud.",
+        "kitob3": "Murakkab gap tuzilmalari va akademik lug‘at asosida tuzilgan. Bu kitobdagi ibora va so‘zlar sizga akademik ingliz tilini o‘rganishda yordam beradi. Har bir test hikoyaga asoslangan bo‘lib, ularni ketma-ket bajarasiz.",
+        "kitob4": "Ushbu kitob alifbo tartibida tuzilgan va eng oson darajaga ega. Chunki undagi testlar ichida siz ilgari uchratgan tanish so‘zlar mavjud."
+    },
+    "ru": {
+        "title": "Edu/Nest",
+        "user": "Пользователь",
+        "languages": "Языки:",
+        "all": "Все",
+        "book1": "Книга-1",
+        "book2": "Книга-2",
+        "book3": "Книга-3",
+        "book4": "Книга-4",
+        "about": "Edu/Nest — Онлайн образовательная платформа",
+        "text": "На этой платформе вы можете изучать английский язык через тесты. Каждый тест основан на специальных уроках. Всего доступно 4 книги. Изучая их, вы сможете в совершенстве овладеть английским языком. Если вы готовитесь к экзаменам IELTS, эта платформа создана именно для вас.",
+        "kitob1": "Составлена на основе слов и выражений начального уровня. Выполняя тесты, вы постепенно повышаете свой уровень. После каждого теста вы можете перейти к следующему.",
+        "kitob2": "Помогает лучше понять грамматику среднего уровня. Почти полностью подготавливает к тестам IELTS. Слова и выражения в этой книге помогут вам глубже освоить английский язык. В книге имеются сложные и трудные тесты.",
+        "kitob3": "Основана на сложных структурах предложений и академической лексике. Слова и выражения из этой книги помогут вам овладеть академическим английским. Каждый тест связан с рассказом и выполняется последовательно.",
+        "kitob4": "Эта книга составлена в алфавитном порядке и является самой лёгкой. Внутри тестов встречаются знакомые слова, которые вы уже ранее изучали."
+    },
+    "en": {
+        "title": "Edu/Nest",
+        "user": "User",
+        "languages": "Languages:",
+        "all": "All",
+        "book1": "Book-1",
+        "book2": "Book-2",
+        "book3": "Book-3",
+        "book4": "Book-4",
+        "about": "Edu/Nest — Online Education System",
+        "text": "This platform allows you to learn English through tests. Each test is based on dedicated lessons. There are a total of 4 books available. By studying these books, you can master English. If you're preparing for the IELTS exam, this platform is just for you.",
+        "kitob1": "Structured based on basic words and expressions. By solving the tests, you gradually improve your level. After completing each test, you can move on to the next.",
+        "kitob2": "Helps to understand intermediate grammar more deeply. It nearly prepares you for IELTS exams. The words and expressions in this book help you master English even more effectively. It contains complex and challenging tests.",
+        "kitob3": "Built upon complex sentence structures and academic vocabulary. The content will help you learn academic English. Each test is story-based and should be completed in sequence.",
+        "kitob4": "This book is organized alphabetically and is the easiest. It contains tests with familiar words you have likely seen before."
+    }
+}

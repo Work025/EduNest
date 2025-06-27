@@ -3,26 +3,31 @@ import './Book3.css';
 import bookData from './Book3.json';
 import testData from './Book3-test.json';
 
-const Book3 = () => {
+const Book3 = ({ user }) => {
     const [activeLetter, setActiveLetter] = useState(null);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [selectedOption, setSelectedOption] = useState(null);
     const [score, setScore] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
-    const [filter, setFilter] = useState("A-Z");
+    const [sortOrder, setSortOrder] = useState("A-W");
+    const [statusFilter, setStatusFilter] = useState("All");
+
+    const getStorageKey = (title) => `${title}_book3_result_${user.id}`;
 
     useEffect(() => {
-        const saved = localStorage.getItem(`${activeLetter}_book3_result`);
-        if (saved) {
-            const parsed = JSON.parse(saved);
-            setScore(parsed.score || 0);
+        if (activeLetter) {
+            const saved = localStorage.getItem(getStorageKey(activeLetter));
+            if (saved) {
+                const parsed = JSON.parse(saved);
+                setScore(parsed.score || 0);
+            }
         }
     }, [activeLetter]);
 
     const handleClick = (title) => {
-        const result = localStorage.getItem(`${title}_book3_result`);
+        const result = localStorage.getItem(getStorageKey(title));
         if (result) {
-            alert("No found!");
+            alert("Bu test allaqachon tugatilgan.");
             return;
         }
         setActiveLetter(title);
@@ -51,42 +56,59 @@ const Book3 = () => {
             setShowAnswer(false);
         } else {
             const result = { score, total: questions.length };
-            localStorage.setItem(`${activeLetter}_book3_result`, JSON.stringify(result));
+            localStorage.setItem(getStorageKey(activeLetter), JSON.stringify(result));
             setActiveLetter("done");
         }
     };
 
-    const filteredData = [...bookData].sort((a, b) => {
-        if (filter === "A-Z") return a.title.localeCompare(b.title);
-        if (filter === "Z-A") return b.title.localeCompare(a.title);
-        return 0;
-    }).filter(item => {
-        const result = localStorage.getItem(`${item.title}_book3_result`);
-        if (filter === "Past") return result !== null;
-        if (filter === "To-do") return result === null;
-        return true;
-    });
+    const filteredData = [...bookData]
+        .filter(item => {
+            const result = localStorage.getItem(getStorageKey(item.title));
+            if (statusFilter === "Past") return result !== null;
+            if (statusFilter === "To-do") return result === null;
+            return true; // All
+        })
+        .sort((a, b) => {
+            return sortOrder === "A-W"
+                ? a.title.localeCompare(b.title)
+                : b.title.localeCompare(a.title);
+        });
 
     return (
         <div className="book1">
             <div className="filter-menu">
                 <div className='filter-menu-h1'><h1>Book-3</h1></div>
                 <div className="filter-buttons">
-                    {["A-W", "W-A", "To-do", "Past"].map(type => (
-                        <button
-                            key={type}
-                            onClick={() => setFilter(type)}
-                            className={filter === type ? "active" : ""}
-                        >
-                            {type}
-                        </button>
-                    ))}
+                    <button
+                        onClick={() => setSortOrder("A-W")}
+                        className={sortOrder === "A-W" ? "active" : ""}
+                    >
+                        A–W
+                    </button>
+                    <button
+                        onClick={() => setSortOrder("W-A")}
+                        className={sortOrder === "W-A" ? "active" : ""}
+                    >
+                        W–A
+                    </button>
+                    <button
+                        onClick={() => setStatusFilter("To-do")}
+                        className={statusFilter === "To-do" ? "active" : ""}
+                    >
+                        To-do
+                    </button>
+                    <button
+                        onClick={() => setStatusFilter("Past")}
+                        className={statusFilter === "Past" ? "active" : ""}
+                    >
+                        Past
+                    </button>
                 </div>
             </div>
 
             <div className="book1-lsn">
                 {filteredData.map((item, idx) => {
-                    const result = localStorage.getItem(`${item.title}_book3_result`);
+                    const result = localStorage.getItem(getStorageKey(item.title));
                     const isCompleted = result !== null;
                     const scoreData = isCompleted ? JSON.parse(result) : null;
 
@@ -105,7 +127,9 @@ const Book3 = () => {
                             }}
                             onClick={() => handleClick(item.title)}
                         >
-                            <h3>{item.title} <i class='fa-solid fa-book'></i></h3>
+                            <h3>
+                                <i className={item.icoin}></i> <i className="fa-solid fa-book"></i>
+                            </h3>
                             {isCompleted && (
                                 <span style={{
                                     position: "absolute",
@@ -117,7 +141,7 @@ const Book3 = () => {
                                     fontSize: "12px",
                                     color: "#333",
                                 }}>
-                                    <i class='fa-solid fa-cloud' style={{color:"#0084f0"}}></i> {scoreData.score} / {scoreData.total}
+                                    <i className='fa-solid fa-cloud' style={{ color: "#0084f0" }}></i> {scoreData.score} / {scoreData.total}
                                 </span>
                             )}
                         </div>
@@ -179,9 +203,9 @@ const Book3 = () => {
                             <i className="fa-solid fa-xmark"></i>
                         </button>
                         <h3>
-                            <i class='fa-solid fa-check' style={{ color: "green" }}>
-                            </i> {score} / {questions.length}
-                            <i class='fa-solid fa-xmark' style={{ color: "red" }}></i>
+                            <i className='fa-solid fa-check' style={{ color: "green" }}></i>
+                            {score} / {questions.length}
+                            <i className='fa-solid fa-xmark' style={{ color: "red", marginLeft: '10px' }}></i>
                         </h3>
                         <button onClick={() => setActiveLetter(null)}>Next</button>
                     </div>

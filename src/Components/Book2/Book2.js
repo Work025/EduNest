@@ -1,52 +1,42 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import lessons from './Book2.json';
 import testLessons from './Book2-test.json';
 import './Book2.css';
 
-const Book2 = () => {
-  const [selectedTitle, setSelectedTitle] = useState('None');
+const Book2 = ({ user }) => {
+  const [filter, setFilter] = useState('All');
   const [openLesson, setOpenLesson] = useState(null);
   const [activeLesson, setActiveLesson] = useState(null);
-
   const [questions, setQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
   const [showAnswer, setShowAnswer] = useState(false);
   const [score, setScore] = useState(0);
 
+  const storageKey = `book2-completed-${user.id}`;
+
   const [completedLessons, setCompletedLessons] = useState(() => {
-    const saved = localStorage.getItem('book2-completed');
+    const saved = localStorage.getItem(storageKey);
     return saved ? JSON.parse(saved) : {};
   });
 
+  useEffect(() => {
+    if (activeLesson && currentIndex !== null) {
+      localStorage.setItem(`${activeLesson}_index-${user.id}`, currentIndex.toString());
+    }
+  }, [activeLesson, currentIndex, user.id]);
+
   const currentQuestion = questions[currentIndex];
 
-  const resetTestState = () => {
-    setQuestions([]);
-    setCurrentIndex(0);
-    setSelectedOption(null);
-    setShowAnswer(false);
-    setScore(0);
-    setActiveLesson(null);
-    setSelectedTitle("None");
-    setOpenLesson(null);
-  };
-
-  const handleSelectChange = (e) => {
-    setSelectedTitle(e.target.value);
-    setOpenLesson(null);
-  };
-
-  const handleToggle = (title) => {
-    setOpenLesson(openLesson === title ? null : title);
-  };
+  const resetTestState = () => setActiveLesson(null);
 
   const handleStartTest = (title) => {
     if (completedLessons[title]) return;
     const test = testLessons[title] || [];
+    const savedIndex = localStorage.getItem(`${title}_index-${user.id}`);
     setQuestions(test);
     setActiveLesson(title);
-    setCurrentIndex(0);
+    setCurrentIndex(savedIndex ? Number(savedIndex) : 0);
     setSelectedOption(null);
     setShowAnswer(false);
     setScore(0);
@@ -75,57 +65,57 @@ const Book2 = () => {
         },
       };
       setCompletedLessons(updated);
-      localStorage.setItem('book2-completed', JSON.stringify(updated));
+      localStorage.setItem(storageKey, JSON.stringify(updated));
+      localStorage.removeItem(`${activeLesson}_index-${user.id}`);
       setActiveLesson("done");
     }
   };
 
-  const filteredLessons = selectedTitle === 'None'
-    ? []
-    : lessons.filter((lesson) => lesson.title === selectedTitle);
+  const filteredLessons = lessons.filter((lesson) => {
+    const completed = completedLessons[lesson.title];
+    if (filter === 'All') return true;
+    if (filter === 'Past') return !!completed;
+    if (filter === 'To-do') return !completed;
+    return false;
+  });
 
   return (
     <div className="book2">
       <div className='book2-text'>
-        <div className='book2-h1'>
-          <h1>Book-2</h1>
-        </div>
-        <div className='book2-title'>
-          <h2>Lessons</h2>
-          <select className='book2-select' onChange={handleSelectChange} value={selectedTitle}>
-            <option value="None">None</option>
-            {lessons.map((lesson, index) => {
-              const completed = completedLessons[lesson.title];
-              const scoreInfo = completed ? ` (${completed.score}/${completed.total})` : '';
-              return (
-                <option key={index} value={lesson.title}>
-                  {lesson.title}{scoreInfo}
-                </option>
-              );
-            })}
-          </select>
+        <h1>Book-2</h1>
+        <div className="filter-buttons">
+          {['All', 'Past', 'To-do', 'None'].map((f) => (
+            <button
+              key={f}
+              className={filter === f ? 'active' : ''}
+              onClick={() => setFilter(f)}
+            >
+              {f}
+            </button>
+          ))}
         </div>
       </div>
 
       <div className='book2-lsn'>
-        {!activeLesson && filteredLessons.map((lesson, index) => {
+        {!activeLesson && filteredLessons.map((lesson, idx) => {
           const completed = completedLessons[lesson.title];
+          const isOpen = openLesson === lesson.title;
+
           return (
-            <div key={index} className="lesson-card">
+            <div key={idx} className="lesson-card">
               <h3>{lesson.title} <i className={lesson.i}></i></h3>
-              <button onClick={() => handleToggle(lesson.title)}>{lesson.btn}</button>
-              {openLesson === lesson.title && (
-                <div className="lesson-details">
-                  <p>{lesson.text}</p>
-                  <button
-                    className="test-btn"
-                    onClick={() => handleStartTest(lesson.title)}
-                    disabled={!!completed}
-                  >
-                    {completed ? `${lesson.test} ✔️` : lesson.test}
-                  </button>
-                </div>
-              )}
+              <button onClick={() => setOpenLesson(isOpen ? null : lesson.title)}>{lesson.btn}</button>
+
+              <div className="lesson-details" style={{ visibility: isOpen ? 'visible' : 'hidden', height: isOpen ? 'auto' : 0, overflow: 'hidden' }}>
+                <p>{lesson.text}</p>
+                <button
+                  className="test-btn"
+                  onClick={() => handleStartTest(lesson.title)}
+                  disabled={!!completed}
+                >
+                  {completed ? `${lesson.test} ✔️` : lesson.test}
+                </button>
+              </div>
             </div>
           );
         })}
@@ -138,9 +128,7 @@ const Book2 = () => {
               <i className="fa-solid fa-xmark"></i>
             </button>
             <h4>{currentQuestion.question}</h4>
-            {currentQuestion.russian && (
-              <p style={{ fontStyle: 'italic' }}>{currentQuestion.russian}</p>
-            )}
+            {currentQuestion.russian && <p style={{ fontStyle: 'italic' }}>{currentQuestion.russian}</p>}
             <ul>
               {currentQuestion.options.map((opt, idx) => (
                 <li
@@ -185,7 +173,7 @@ const Book2 = () => {
             </button>
             <h3>
               <i style={{ color: "green" }} className='fa-solid fa-check'></i>
-              {completedLessons[selectedTitle]?.score} / {completedLessons[selectedTitle]?.total}
+              {completedLessons[activeLesson]?.score} / {completedLessons[activeLesson]?.total}
               <i style={{ color: "red", marginLeft: 10 }} className='fa-solid fa-xmark'></i>
             </h3>
             <button onClick={resetTestState}>Next Lesson</button>

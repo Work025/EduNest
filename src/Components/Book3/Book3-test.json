@@ -410,879 +410,1719 @@
   "E": [
     {
       "question": "eagerly",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Спокойно / Tinchlik bilan",
+        "С нетерпением / Sabrsizlik bilan",
+        "Сомнительно / Shubhali tarzda",
+        "Неожиданно / Kutilmaganda"
+      ],
+      "correctAnswer": "С нетерпением / Sabrsizlik bilan"
     },
     {
       "question": "educated",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Уставший / Charchagan",
+        "Потерянный / Yo‘qolgan",
+        "Образованный / Savodli",
+        "Злой / G‘azablangan"
+      ],
+      "correctAnswer": "Образованный / Savodli"
     },
     {
       "question": "education",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Образование / Ta’lim",
+        "Питание / Oziqlanish",
+        "Тренировка / Mashg‘ulot",
+        "Развлечение / Ko‘ngilxushlik"
+      ],
+      "correctAnswer": "Образование / Ta’lim"
     },
     {
       "question": "effect",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ошибка / Xato",
+        "Мнение / Fikr",
+        "Эффект / Ta’sir",
+        "Проблема / Muammo"
+      ],
+      "correctAnswer": "Эффект / Ta’sir"
     },
     {
       "question": "element",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Остров / Orol",
+        "Лес / O‘rmon",
+        "Элемент / Element",
+        "Уровень / Daraja"
+      ],
+      "correctAnswer": "Элемент / Element"
     },
     {
       "question": "eloquently",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Скучно / Zerikarli tarzda",
+        "Красноречиво / Yozma-ravon tarzda",
+        "Молча / Jimlikda",
+        "Быстро / Tezda"
+      ],
+      "correctAnswer": "Красноречиво / Yozma-ravon tarzda"
     },
     {
       "question": "emphhasis",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Акцент / Urg‘u",
+        "Жалоба / Shikoyat",
+        "Протест / Norozilik",
+        "Секрет / Sir"
+      ],
+      "correctAnswer": "Акцент / Urg‘u"
     },
     {
       "question": "escape",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Спросить / So‘ramoq",
+        "Разобрать / Ajratmoq",
+        "Сбежать / Qochmoq",
+        "Забыть / Unutmoq"
+      ],
+      "correctAnswer": "Сбежать / Qochmoq"
     },
     {
       "question": "event",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ошибка / Xato",
+        "Цель / Maqsad",
+        "Событие / Hodisa",
+        "Место / Joy"
+      ],
+      "correctAnswer": "Событие / Hodisa"
     },
     {
       "question": "evil",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Смех / Kulgu",
+        "Радость / Quvonch",
+        "Зло / Yovuzlik",
+        "Правда / Haqiqat"
+      ],
+      "correctAnswer": "Зло / Yovuzlik"
     }
   ],
   "F": [
     {
       "question": "fair",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Справедливый / Adolatli",
+        "Темный / Qorong‘i",
+        "Скучный / Zerikarli",
+        "Дикий / Yovvoyi"
+      ],
+      "correctAnswer": "Справедливый / Adolatli"
     },
     {
       "question": "faith",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Мечта / Orzu",
+        "Ложь / Yolg‘on",
+        "Грусть / G‘am",
+        "Вера / Ishonch"
+      ],
+      "correctAnswer": "Вера / Ishonch"
     },
     {
       "question": "fame",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Страх / Qo‘rquv",
+        "Слава / Shuhrat",
+        "Зависть / Hasad",
+        "Гнев / G‘azab"
+      ],
+      "correctAnswer": "Слава / Shuhrat"
     },
     {
       "question": "feast",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Пир / Bazm",
+        "Боль / Og‘riq",
+        "Тоска / Hasrat",
+        "Звонок / Qo‘ng‘iroq"
+      ],
+      "correctAnswer": "Пир / Bazm"
     },
     {
       "question": "feather",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "",
+        "Шерсть / Jun",
+        "Кость / Suyak",
+        "Перo / Pat Камень / Tosh"
+      ],
+      "correctAnswer": "Перo / Pat"
     },
     {
       "question": "feeling",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Факт / Fakt",
+        "Чувство / His",
+        "Сила / Kuch",
+        "Сон / Tush"
+      ],
+      "correctAnswer": "Чувство / His"
     },
     {
       "question": "fertile",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Плодородный / Serhosil",
+        "Пустой / Bo‘sh",
+        "Холодный / Sovuq",
+        "Сухой / Quruq"
+      ],
+      "correctAnswer": "Плодородный / Serhosil"
     },
     {
       "question": "film",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Фильм / Kino",
+        "Книга / Kitob",
+        "Игра / O‘yin",
+        "Музыка / Musiqa"
+      ],
+      "correctAnswer": "Фильм / Kino"
     },
     {
       "question": "fine",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Смешной / Kulgili",
+        "Грубый / Qo‘pol",
+        "Слабый / Zaif",
+        "Отлично / A’lo"
+      ],
+      "correctAnswer": "Отлично / A’lo"
     },
     {
       "question": "fix",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Чинить / Tuzatmoq",
+        "Ломать / Sindirmoq",
+        "Прятать / Yashirmoq",
+        "Мешать / Aralashtirmoq"
+      ],
+      "correctAnswer": "Чинить / Tuzatmoq"
     }
   ],
   "G": [
     {
       "question": "gap",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Крик / Baqiriq",
+        "Речь / Nutq",
+        "Пробел / Bo‘shliq",
+        "Ошибка / Xato"
+      ],
+      "correctAnswer": "Пробел / Bo‘shliq"
     },
     {
       "question": "garage",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Гараж / Avtoustaxona",
+        "Кладовая / Ombor",
+        "Комната / Xona",
+        "Балкон / Balkon"
+      ],
+      "correctAnswer": "Гараж / Avtoustaxona"
     },
     {
       "question": "generation",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Общество / Jamiyat",
+        "Поколение / Avlod",
+        "Род / Nasl",
+        "Друзья / Do‘stlar"
+      ],
+      "correctAnswer": "Поколение / Avlod"
     },
     {
       "question": "generous",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Злой / Yomon",
+        "Грубый / Qo‘pol",
+        "Жадный / Xasis",
+        "Щедрый / Saxiy"
+      ],
+      "correctAnswer": "Щедрый / Saxiy"
     },
     {
       "question": "genuine",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Подлинный / Haqiqiy",
+        "Поддельный / Soxta",
+        "Ложный / Yolg‘on",
+        "Редкий / Noyob"
+      ],
+      "correctAnswer": "Подлинный / Haqiqiy"
     },
     {
       "question": "geography",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "История / Tarix",
+        "География / Geografiya",
+        "Химия / Kimyo",
+        "Математика / Matematika"
+      ],
+      "correctAnswer": "География / Geografiya"
     },
     {
       "question": "gift",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Подарок / Sovg‘a",
+        "Секрет / Sir",
+        "Цветок / Guldasta",
+        "Письмо / Xat"
+      ],
+      "correctAnswer": "Подарок / Sovg‘a"
     },
     {
       "question": "gigantic",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Узкий / Tor",
+        "Маленький / Kichkina",
+        "Огромный / Ulkan",
+        "Старый / Eski"
+      ],
+      "correctAnswer": "Огромный / Ulkan"
     },
     {
       "question": "glance",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Слух / Eshitish",
+        "Крик / Baqiriq",
+        "Взгляд / Qarash",
+        "Шум / Shovqin"
+      ],
+      "correctAnswer": "Взгляд / Qarash"
     },
     {
       "question": "govern",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Рисовать / Chizmoq",
+        "Слушать / Tinglamoq",
+        "Управлять / Boshqarmoq",
+        "Забыть / Unutmoq"
+      ],
+      "correctAnswer": "Управлять / Boshqarmoq"
     }
   ],
   "H": [
     {
       "question": "habituel",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Обычный / Oddiy",
+        "Редкий / Kamdan-kam",
+        "Новый / Yangi",
+        "Странный / G‘alati"
+      ],
+      "correctAnswer": "Обычный / Oddiy"
     },
     {
       "question": "hairbreath",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Насквозь / Teshib o‘tgan",
+        "Скорость / Tezlik",
+        "Долгий / Uzoq",
+        "Чуть-чуть / Judayam oz"
+      ],
+      "correctAnswer": "Чуть-чуть / Judayam oz"
     },
     {
       "question": "handful",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Подарок / Sovg‘a",
+        "Небольшое количество / Bir necha dona",
+        "Ящик / Quti",
+        "Камень / Tosh"
+      ],
+      "correctAnswer": "Небольшое количество / Bir necha dona"
     },
     {
       "question": "hare",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Заяц / Quyon",
+        "Лиса / Tulki",
+        "Кошка / Mushuk",
+        "Медведь / Ayiq"
+      ],
+      "correctAnswer": "Заяц / Quyon"
     },
     {
       "question": "harm",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Польза / Foyda",
+        "Вред / Ziyon",
+        "Покой / Tinchlik",
+        "Свет / Yorug‘lik"
+      ],
+      "correctAnswer": "Вред / Ziyon"
     },
     {
       "question": "harp",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Арфа / Arfa",
+        "Труба / Truba",
+        "Флейта / Fleyta",
+        "Барабан / Baraban"
+      ],
+      "correctAnswer": "Арфа / Arfa"
     },
     {
       "question": "hastily",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Случайно / Tasodifan",
+        "Тщательно / Ehtiyotkorlik bilan",
+        "Спокойно / Tinchlik bilan",
+        "Поспешно / Shoshqaloqlik bilan"
+      ],
+      "correctAnswer": "Поспешно / Shoshqaloqlik bilan"
     },
     {
       "question": "heal",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ранить / Jarohatlamoq",
+        "Исцелять / Davolamoq",
+        "Пугать / Qo‘rqitmoq",
+        "Закрывать / Yopmoq"
+      ],
+      "correctAnswer": "Исцелять / Davolamoq"
     },
     {
       "question": "heathen",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ученый / Olim",
+        "Святой / Muqaddas",
+        "Язычник / Butparast",
+        "Бедняк / Qashshoq"
+      ],
+      "correctAnswer": "Язычник / Butparast"
     },
     {
       "question": "helmet",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Очки / Ko‘zoynak",
+        "Кепка / Kepka",
+        "Пояс / Belbog‘",
+        "Шлем / Dubulg‘a"
+      ],
+      "correctAnswer": "Шлем / Dubulg‘a"
     }
   ],
   "I": [
     {
       "question": "idiomatic",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Грубый / Qo‘pol",
+        "Идиоматический / Frazeologik",
+        "Буквальный / So‘zma-so‘z",
+        "Редкий / Noyob"
+      ],
+      "correctAnswer": "Идиоматический / Frazeologik"
     },
     {
       "question": "imagination",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Воображение / Tasavvur",
+        "Знание / Bilim",
+        "Память / Xotira",
+        "Мышление / Tafakkur"
+      ],
+      "correctAnswer": "Воображение / Tasavvur"
     },
     {
       "question": "imply",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Подразумевать / Nazarda tutmoq",
+        "Кричать / Baqirmoq",
+        "Доказывать / Isbotlamoq",
+        "Обвинять / Ayblamoq"
+      ],
+      "correctAnswer": "Подразумевать / Nazarda tutmoq"
     },
     {
       "question": "impress",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Прятать / Yashirmoq",
+        "Забывать / Unutmoq",
+        "Производить впечатление / Ta’sir qoldirmoq",
+        "Убегать / Qochmoq"
+      ],
+      "correctAnswer": "Производить впечатление / Ta’sir qoldirmoq"
     },
     {
       "question": "incline",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Сидеть / O‘tirish",
+        "Стоять / Turmoq",
+        "Бегать / Yugurmoq",
+        "Наклонять / Egmoq"
+      ],
+      "correctAnswer": "Наклонять / Egmoq"
     },
     {
       "question": "include",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Включать / O‘z ichiga olmoq",
+        "Исключать / Chiqarib tashlamoq",
+        "Скрывать / Yashirmoq",
+        "Сравнивать / Taqqoslamoq"
+      ],
+      "correctAnswer": "Включать / O‘z ichiga olmoq"
     },
     {
       "question": "indirect",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Прямой / To‘g‘ridan-to‘g‘ri",
+        "Косвенный / Bilvosita",
+        "Точный / Aniqlik",
+        "Явный / Ravshan"
+      ],
+      "correctAnswer": "Косвенный / Bilvosita"
     },
     {
       "question": "informal",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Неформальный / Noformal",
+        "Официальный / Rasmiy",
+        "Строгий / Qattiq",
+        "Секретный / Maxfiy"
+      ],
+      "correctAnswer": "Неформальный / Noformal"
     },
     {
       "question": "inhabit",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Охотиться / Ov qilmoq",
+        "Строить / Qurmoq",
+        "Уничтожать / Yo‘q qilmoq",
+        "Обитать / Yashaydi"
+      ],
+      "correctAnswer": "Обитать / Yashaydi"
     },
     {
       "question": "inner",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Внутренний / Ichki",
+        "Наружный / Tashqi",
+        "Дальний / Uzoqdagi",
+        "Новый / Yangi"
+      ],
+      "correctAnswer": "Внутренний / Ichki"
     }
   ],
   "J": [
     {
       "question": "jealous",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Счастливый / Baxtli",
+        "Завистливый / Hasadgo‘y",
+        "Сильный / Kuchli",
+        "Глупый / Ahmoq"
+      ],
+      "correctAnswer": "Завистливый / Hasadgo‘y"
     },
     {
       "question": "jelly",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Желе / Jele",
+        "Масло / Yog‘",
+        "Сахар / Shakar",
+        "Соль / Tuz"
+      ],
+      "correctAnswer": "Желе / Jele"
     },
     {
       "question": "jolly",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Грубый / Qo‘pol",
+        "Скучный / Zerikarli",
+        "Тихий / Tinch",
+        "Весёлый / Quvnoq"
+      ],
+      "correctAnswer": "Весёлый / Quvnoq"
     },
     {
       "question": "justify",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Осуждать / Qoralamoq",
+        "Оправдывать / Oqlamoq",
+        "Угрожать / Tahdid qilmoq",
+        "Игнорировать / E’tibor bermaslik"
+      ],
+      "correctAnswer": "Оправдывать / Oqlamoq"
     }
   ],
   "K": [
     {
       "question": "kneel",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Стоять на коленях / Tizzada turmoq",
+        "Лежать / Yotmoq",
+        "Сидеть / O‘tirish",
+        "Прыгать / Sakramoq"
+      ],
+      "correctAnswer": "Стоять на коленях / Tizzada turmoq"
     },
     {
       "question": "knighthood",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Рыцарство / Ritsarlik unvoni",
+        "Профессия / Kasb",
+        "Путешествие / Sayohat",
+        "Государство / Davlat"
+      ],
+      "correctAnswer": "Рыцарство / Ritsarlik unvoni"
     }
   ],
   "L": [
     {
       "question": "labourer",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Медсестра / Hamshira",
+        "Учёный / Olim",
+        "Водитель / Haydovchi",
+        "Рабочий / Ishchi"
+      ],
+      "correctAnswer": "Рабочий / Ishchi"
     },
     {
       "question": "ladder",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Лестница / Narvon",
+        "Стул / Stul",
+        "Палка / Tayoq",
+        "Платформа / Platforma"
+      ],
+      "correctAnswer": "Лестница / Narvon"
     },
     {
       "question": "lame",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Весёлый / Quvnoq",
+        "Хромой / Lul",
+        "Слепой / Ko‘r",
+        "Сильный / Kuchli"
+      ],
+      "correctAnswer": "Хромой / Lul"
     },
     {
       "question": "lark",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Жаворонок / Qarg‘a",
+        "Утка / O‘rdak",
+        "Сокол / Lo‘q",
+        "Аист / Laylak"
+      ],
+      "correctAnswer": "Жаворонок / Qarg‘a"
     },
     {
       "question": "law",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Правило / Qoidalar",
+        "Война / Urush",
+        "Закон / Qonun",
+        "Документ / Hujjat"
+      ],
+      "correctAnswer": "Закон / Qonun"
     },
     {
       "question": "lawyer",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Адвокат / Yurist",
+        "Полицейский / Politsiyachi",
+        "Судья / Sudya",
+        "Учитель / O‘qituvchi"
+      ],
+      "correctAnswer": "Адвокат / Yurist"
     },
     {
       "question": "lazy",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Активный / Faol",
+        "Ленивый / Dangasa",
+        "Быстрый / Tez",
+        "Умный / Aqliy"
+      ],
+      "correctAnswer": "Ленивый / Dangasa"
     },
     {
       "question": "leader",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Работник / Ishchi",
+        "Лидер / Yetakchi",
+        "Солдат / Askar",
+        "Слушатель / Tinglovchi"
+      ],
+      "correctAnswer": "Лидер / Yetakchi"
     },
     {
       "question": "leather",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Хлопок / Paxta",
+        "Шерсть / Jun",
+        "Кожа / Teridan",
+        "Резина / Rezina"
+      ],
+      "correctAnswer": "Кожа / Teridan"
     },
     {
       "question": "lecture",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Лекция / Ma’ruza",
+        "Экскурсия / Ekskursiya",
+        "Вечеринка / Kechki bazm",
+        "Тренировка / Mashg‘ulot"
+      ],
+      "correctAnswer": "Лекция / Ma’ruza"
     }
   ],
   "M": [
     {
       "question": "magnificent",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Великолепный / Ajoyib",
+        "Скучный / Zerikarli",
+        "Плохой / Yomon",
+        "Средний / O‘rtacha"
+      ],
+      "correctAnswer": "Великолепный / Ajoyib"
     },
     {
       "question": "maiden",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Жена / Ayol",
+        "Дева / Qiz bola",
+        "Мать / Ona",
+        "Учитель / O‘qituvchi"
+      ],
+      "correctAnswer": "Дева / Qiz bola"
     },
     {
       "question": "main",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Сложный / Murakkab",
+        "Последний / Oxirgi",
+        "Секретный / Maxfiy",
+        "Главный / Asosiy"
+      ],
+      "correctAnswer": "Главный / Asosiy"
     },
     {
       "question": "majesty",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Величество / Ulug‘lik",
+        "Обычие / Odatiy hol",
+        "Тень / So‘ya",
+        "Страх / Qo‘rquv"
+      ],
+      "correctAnswer": "Величество / Ulug‘lik"
     },
     {
       "question": "major",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Художник / Rassom",
+        "Повар / Oshpaz",
+        "Майор / Mayor",
+        "Писатель / Yozuvchi"
+      ],
+      "correctAnswer": "Майор / Mayor"
     },
     {
       "question": "majority",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Выбор / Tanlov",
+        "Меншинство / Kamchilik",
+        "Большинство / Ko‘pchilik",
+        "Ответ / Javob"
+      ],
+      "correctAnswer": "Большинство / Ko‘pchilik"
     },
     {
       "question": "map",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Карта / Xarita",
+        "Бумага / Qog‘oz",
+        "Мел / Bo‘r",
+        "Книга / Kitob"
+      ],
+      "correctAnswer": "Карта / Xarita"
     },
     {
       "question": "martyr",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Герой / Qahramon",
+        "Мученик / Shahid",
+        "Солдат / Askar",
+        "Учёный / Olim"
+      ],
+      "correctAnswer": "Мученик / Shahid"
     },
     {
       "question": "master",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Мастер / Usta",
+        "Ученик / O‘quvchi",
+        "Рабочий / Ishchi",
+        "Водитель / Haydovchi"
+      ],
+      "correctAnswer": "Мастер / Usta"
     },
     {
       "question": "mathematics",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "География / Geografiya",
+        "История / Tarix",
+        "Физика / Fizika",
+        "Математика / Matematika"
+      ],
+      "correctAnswer": "Математика / Matematika"
     }
   ],
   "N": [
     {
       "question": "napkin",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Полотенце / Sochiq",
+        "Чашка / Piyola",
+        "Скатерть / Yopqich",
+        "Тарелка / Likop"
+      ],
+      "correctAnswer": "Полотенце / Sochiq"
     },
     {
       "question": "narrow",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Широкий / Keng",
+        "Узкий / Tor",
+        "Глубокий / Chuqur",
+        "Короткий / Qisqa"
+      ],
+      "correctAnswer": "Узкий / Tor"
     },
     {
       "question": "native",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Временный / Vaqtinchalik",
+        "Иностранный / Chet ellik",
+        "Дальний / Uzoq",
+        "Местный / Mahalliy"
+      ],
+      "correctAnswer": "Местный / Mahalliy"
     },
     {
       "question": "nature",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Культура / Madaniyat",
+        "Религия / Dinniy",
+        "Политика / Siyosat",
+        "Природа / Tabiat"
+      ],
+      "correctAnswer": "Природа / Tabiat"
     },
     {
       "question": "navy",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Морской флот / Harbiy dengiz floti",
+        "Армия / Armiya",
+        "Полиция / Politsiya",
+        "Авиалинии / Havo kuchlari"
+      ],
+      "correctAnswer": "Морской флот / Harbiy dengiz floti"
     },
     {
       "question": "neat",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Опасный / Havfli",
+        "Медленный / Sekin",
+        "Аккуратный / Ozoda",
+        "Шумный / Shovqinli"
+      ],
+      "correctAnswer": "Аккуратный / Ozoda"
     },
     {
       "question": "necessity",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Роскошь / Hashamat",
+        "Необходимость / Zarurat",
+        "Развлечение / Ko‘ngilxushlik",
+        "Привычка / Odat"
+      ],
+      "correctAnswer": "Необходимость / Zarurat"
     },
     {
       "question": "needle",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Игла / Ignа",
+        "Нитка / Ip",
+        "Нож / Pichoq",
+        "Кнопка / Tugma"
+      ],
+      "correctAnswer": "Игла / Igna"
     },
     {
       "question": "neighbourhood",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Государство / Davlat",
+        "Окрестность / Qo‘shnichilik",
+        "Деревня / Qishloq",
+        "Район / Tuman"
+      ],
+      "correctAnswer": "Окрестность / Qo‘shnichilik"
     },
     {
       "question": "nest",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Гнездо / In",
+        "Пещера / G‘or",
+        "Башня / Minora",
+        "Плот / Sal"
+      ],
+      "correctAnswer": "Гнездо / In"
     }
   ],
   "O": [
     {
       "question": "oak",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Дуб / Eman",
+        "Клён / Zarang",
+        "Берёза / Qayin",
+        "Сосна / Qarag‘ay"
+      ],
+      "correctAnswer": "Дуб / Eman"
     },
     {
       "question": "objection",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Согласие / Rozilik",
+        "Возражение / Qarshilik",
+        "Предложение / Taklif",
+        "Ответ / Javob"
+      ],
+      "correctAnswer": "Возражение / Qarshilik"
     },
     {
       "question": "obligation",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Удовольствие / Zavq",
+        "Обязанность / Majburiyat",
+        "Привычка / Odat",
+        "Надежда / Umid"
+      ],
+      "correctAnswer": "Обязанность / Majburiyat"
     },
     {
       "question": "observation",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Вывод / Xulosa",
+        "Сообщение / Xabar",
+        "Проблема / Muammo",
+        "Наблюдение / Kuzatuv"
+      ],
+      "correctAnswer": "Наблюдение / Kuzatuv"
     },
     {
       "question": "observe",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Решать / Hal qilmoq",
+        "Игнорировать / E'tiborsiz qoldirmoq",
+        "Оценивать / Baholamoq",
+        "Следить / Kuzatmoq"
+      ],
+      "correctAnswer": "Следить / Kuzatmoq"
     },
     {
       "question": "obstacle",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Препятствие / To‘siq",
+        "Скорость / Tezlik",
+        "Поддержка / Qo‘llab-quvvatlash",
+        "Начало / Boshlanish"
+      ],
+      "correctAnswer": "Препятствие / To‘siq"
     },
     {
       "question": "occupation",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Отдых / Dam olish",
+        "Профессия / Kasb",
+        "Праздник / Bayram",
+        "Игрушка / O‘yinchoq"
+      ],
+      "correctAnswer": "Профессия / Kasb"
     },
     {
       "question": "odd",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Чётный / Juft",
+        "Нормальный / Oddiy",
+        "Нечётный / Toq",
+        "Стандартный / Andoza"
+      ],
+      "correctAnswer": "Нечётный / Toq"
     },
     {
       "question": "offer",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Предложение / Taklif",
+        "Запрет / Taqiqlash",
+        "Приказ / Buyruq",
+        "Просьба / So‘rov"
+      ],
+      "correctAnswer": "Предложение / Taklif"
     },
     {
       "question": "omit",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Начать / Boshlamoq",
+        "Добавить / Qo‘shmoq",
+        "Упустить / Tushirib yubormoq",
+        "Разделить / Bo‘lmoq"
+      ],
+      "correctAnswer": "Упустить / Tushirib yubormoq"
     }
   ],
   "P": [
     {
       "question": "palace",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Дом / Uy",
+        "Замок / Qasr",
+        "Дворец / Saroy",
+        "Школа / Maktab"
+      ],
+      "correctAnswer": "Дворец / Saroy"
     },
     {
       "question": "pale",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Бледный / Oqargan",
+        "Красивый / Chiroyli",
+        "Сильный / Kuchli",
+        "Болезненный / Kasallik"
+      ],
+      "correctAnswer": "Бледный / Oqargan"
     },
     {
       "question": "parson",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Учитель / O‘qituvchi",
+        "Священник / Ruhoniy",
+        "Военный / Harbiy",
+        "Работник / Ishchi"
+      ],
+      "correctAnswer": "Священник / Ruhoniy"
     },
     {
       "question": "partnership",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Управление / Boshqaruv",
+        "Соперничество / Raqobat",
+        "Разделение / Bo‘linish",
+        "Сотрудничество / Hamkorlik"
+      ],
+      "correctAnswer": "Сотрудничество / Hamkorlik"
     },
     {
       "question": "passage",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Комната / Xona",
+        "Проход / Yo‘lak",
+        "Мост / Ko‘prik",
+        "Остановка / To‘xtash joyi"
+      ],
+      "correctAnswer": "Проход / Yo‘lak"
     },
     {
       "question": "pause",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Пауза / Tanaffus",
+        "Начало / Boshlanish",
+        "Скорость / Tezlik",
+        "Речь / Nutq"
+      ],
+      "correctAnswer": "Пауза / Tanaffus"
     },
     {
       "question": "pea",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Картофель / Kartoshka",
+        "Фасоль / Loviya",
+        "Горох / No‘xat",
+        "Огурец / Bodring"
+      ],
+      "correctAnswer": "Горох / No‘xat"
     },
     {
       "question": "peak",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Вершина / Cho‘qqi",
+        "Корень / Ildiz",
+        "Пещера / G‘or",
+        "Куст / Buta"
+      ],
+      "correctAnswer": "Вершина / Cho‘qqi"
     },
     {
       "question": "peculiar",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Типичный / Tipik",
+        "Простой / Oddiy",
+        "Обычный / Oddiy",
+        "Особенный / G‘ayrioddiy"
+      ],
+      "correctAnswer": "Особенный / G‘ayrioddiy"
     },
     {
       "question": "permanent",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Временный / Vaqtinchalik",
+        "Постоянный / Doimiy",
+        "Редкий / Kam",
+        "Частый / Tez-tez"
+      ],
+      "correctAnswer": "Постоянный / Doimiy"
     }
   ],
   "Q": [
     {
       "question": "quarrel",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "История / Hikoya",
+        "Шутка / Hazil",
+        "Танец / Raqs",
+        "Ссора / Janjal"
+      ],
+      "correctAnswer": "Ссора / Janjal"
     },
     {
       "question": "queer",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Обычный / Oddiy",
+        "Странный / G‘alati",
+        "Смешной / Qiziq",
+        "Грустный / Xafa"
+      ],
+      "correctAnswer": "Странный / G‘alati"
     }
   ],
   "R": [
     {
       "question": "rage",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Смех / Kulgi",
+        "Ярость / G‘azab",
+        "Мечта / Orzu",
+        "Тоска / Hasrat"
+      ],
+      "correctAnswer": "Ярость / G‘azab"
     },
     {
       "question": "rank",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Громкость / Ovoz",
+        "Вес / Og‘irlik",
+        "Форма / Shakl",
+        "Ранг / Daraja"
+      ],
+      "correctAnswer": "Ранг / Daraja"
     },
     {
       "question": "rare",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Обычный / Oddiy",
+        "Редкий / Kam uchraydigan",
+        "Быстрый / Tez",
+        "Глупый / Ahmoqona"
+      ],
+      "correctAnswer": "Редкий / Kam uchraydigan"
     },
     {
       "question": "rebel",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Учёный / Olim",
+        "Повстанец / Qo‘zg‘olonchi",
+        "Поэт / Shoir",
+        "Ребёнок / Bola"
+      ],
+      "correctAnswer": "Повстанец / Qo‘zg‘olonchi"
     },
     {
       "question": "reduce",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Уменьшать / Kamaytirmoq",
+        "Добавлять / Qo‘shmoq",
+        "Изменять / O‘zgartirmoq",
+        "Показывать / Ko‘rsatmoq"
+      ],
+      "correctAnswer": "Уменьшать / Kamaytirmoq"
     },
     {
       "question": "regular",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Случайный / Tasodifiy",
+        "Регулярный / Doimiy",
+        "Редкий / Kam",
+        "Особенный / Maxsus"
+      ],
+      "correctAnswer": "Регулярный / Doimiy"
     },
     {
       "question": "reign",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Правление / Hukmronlik",
+        "Победа / G‘alaba",
+        "Закон / Qonun",
+        "Песня / Qo‘shiq"
+      ],
+      "correctAnswer": "Правление / Hukmronlik"
     },
     {
       "question": "relative",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Друг / Do‘st",
+        "Сосед / Qo‘shni",
+        "Родственник / Qarindosh",
+        "Коллега / Hamkasb"
+      ],
+      "correctAnswer": "Родственник / Qarindosh"
     },
     {
       "question": "remove",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Удалять / Olib tashlamoq",
+        "Добавлять / Qo‘shmoq",
+        "Чистить / Tozalamoq",
+        "Носить / Kiyib yurmoq"
+      ],
+      "correctAnswer": "Удалять / Olib tashlamoq"
     },
     {
       "question": "request",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ответ / Javob",
+        "Просьба / So‘rov",
+        "Указание / Ko‘rsatma",
+        "Приказ / Buyruq"
+      ],
+      "correctAnswer": "Просьба / So‘rov"
     }
   ],
   "S": [
     {
       "question": "sacrifice",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Праздник / Bayram",
+        "Жертва / Qurbonlik",
+        "Решение / Qaror",
+        "Награда / Mukofot"
+      ],
+      "correctAnswer": "Жертва / Qurbonlik"
     },
     {
       "question": "saint",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Святой / Avliyo",
+        "Военный / Harbiy",
+        "Писатель / Yozuvchi",
+        "Рыбак / Baliqchi"
+      ],
+      "correctAnswer": "Святой / Avliyo"
     },
     {
       "question": "sauce",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Мясо / Go‘sht",
+        "Хлеб / Non",
+        "Соль / Tuz",
+        "Соус / Sous"
+      ],
+      "correctAnswer": "Соус / Sous"
     },
     {
       "question": "scarcely",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Скоро / Tezda",
+        "Едва / Zo‘rg‘a",
+        "Навсегда / Abadiy",
+        "Часто / Tez-tez"
+      ],
+      "correctAnswer": "Едва / Zo‘rg‘a"
     },
     {
       "question": "scatter",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Собирать / Yig‘moq",
+        "Разбрасывать / Sochmoq",
+        "Укрывать / Berkitmoq",
+        "Прятать / Yashirmoq"
+      ],
+      "correctAnswer": "Разбрасывать / Sochmoq"
     },
     {
       "question": "scholarship",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Стипендия / Stipendiya",
+        "Учёба / Ta’lim",
+        "Экзамен / Imtihon",
+        "Учебник / Darslik"
+      ],
+      "correctAnswer": "Стипендия / Stipendiya"
     },
     {
       "question": "screw",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ключ / Kalit",
+        "Гвоздь / Mix",
+        "Винт / Vint",
+        "Камень / Tosh"
+      ],
+      "correctAnswer": "Винт / Vint"
     },
     {
       "question": "scrub",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Смотреть / Qaramoq",
+        "Тереть / Ishqalamoq",
+        "Кричать / Baqirmoq",
+        "Писать / Yozmoq"
+      ],
+      "correctAnswer": "Тереть / Ishqalamoq"
     },
     {
       "question": "search",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Искать / Qidirmoq",
+        "Забывать / Unutmoq",
+        "Слушать / Eshitmoq",
+        "Рисовать / Chizmoq"
+      ],
+      "correctAnswer": "Искать / Qidirmoq"
     },
     {
       "question": "seize",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Плавать / Suzmoq",
+        "Бежать / Qochmoq",
+        "Думать / O‘ylamoq",
+        "Схватить / Ushlab olmoq"
+      ],
+      "correctAnswer": "Схватить / Ushlab olmoq"
     }
   ],
   "T": [
     {
       "question": "tax",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Налог / Soliq",
+        "Подарок / Sovg‘a",
+        "Зарплата / Ish haqi",
+        "Сдача / Qaytim"
+      ],
+      "correctAnswer": "Налог / Soliq"
     },
     {
       "question": "telegraph",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Телеграф / Telegraf",
+        "Кинотеатр / Kinoteatr",
+        "Телевизор / Televizor",
+        "Радио / Radio"
+      ],
+      "correctAnswer": "Телеграф / Telegraf"
     },
     {
       "question": "tent",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Палатка / Chodir",
+        "Дом / Uy",
+        "Мост / Ko‘prik",
+        "Печь / Pech"
+      ],
+      "correctAnswer": "Палатка / Chodir"
     },
     {
       "question": "term",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Срок / Muddat",
+        "Условие / Shart",
+        "Цена / Narx",
+        "Тест / Test"
+      ],
+      "correctAnswer": "Срок / Muddat"
     },
     {
       "question": "thatched",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Крытый соломой / Somonli tomli",
+        "Пустой / Bo‘sh",
+        "Старый / Eski",
+        "Разбитый / Sindirilgan"
+      ],
+      "correctAnswer": "Крытый соломой / Somonli tomli"
     },
     {
       "question": "theory",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Теория / Nazariya",
+        "Практика / Amaliyot",
+        "Мнение / Fikr",
+        "Урок / Dars"
+      ],
+      "correctAnswer": "Теория / Nazariya"
     },
     {
       "question": "thistle",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Чертополох / Qichitqi o‘t",
+        "Цветок / Gul",
+        "Сахар / Shakar",
+        "Вода / Suv"
+      ],
+      "correctAnswer": "Чертополох / Qichitqi o‘t"
     },
     {
       "question": "thread",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Нить / Ip",
+        "Игла / Iyna",
+        "Верёвка / Arqon",
+        "Мыло / Sovun"
+      ],
+      "correctAnswer": "Нить / Ip"
     },
     {
       "question": "threaten",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Угрожать / Tahdid qilmoq",
+        "Предлагать / Taklif qilmoq",
+        "Шептать / Pichirlab aytmoq",
+        "Улыбаться / Tabassum qilmoq"
+      ],
+      "correctAnswer": "Угрожать / Tahdid qilmoq"
     },
     {
       "question": "thrifty",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Экономный / Tejamkor",
+        "Богатый / Boy",
+        "Жадный / Xasis",
+        "Скупой / Juda tejjamkor"
+      ],
+      "correctAnswer": "Экономный / Tejamkor"
     }
   ],
   "U": [
     {
       "question": "ugly",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Уродливый / Xunuk",
+        "Красивый / Chiroyli",
+        "Старый / Eski",
+        "Тёмный / Qorong‘i"
+      ],
+      "correctAnswer": "Уродливый / Xunuk"
     },
     {
       "question": "undergraduate",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Аспирант / Magistr",
+        "Студент / Bakalavr talabasi",
+        "Преподаватель / O‘qituvchi",
+        "Учёный / Olim"
+      ],
+      "correctAnswer": "Студент / Bakalavr talabasi"
     },
     {
       "question": "underneath",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "За / Orqasida",
+        "Перед / Oldida",
+        "Над / Ustida",
+        "Под / Tagida"
+      ],
+      "correctAnswer": "Под / Tagida"
     },
     {
       "question": "undoubtedly",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Иногда / Ba’zan",
+        "Возможно / Ehtimol",
+        "Несомненно / Shubhasiz",
+        "Едва / Zo‘rg‘a"
+      ],
+      "correctAnswer": "Несомненно / Shubhasiz"
     },
     {
       "question": "uneasy",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Беспокойный / Bezovta",
+        "Сонный / Uyquchan",
+        "Весёлый / Quvnoq",
+        "Довольный / Mamnun"
+      ],
+      "correctAnswer": "Беспокойный / Bezovta"
     },
     {
       "question": "ungrateful",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Честный / Halol",
+        "Неблагодарный / Minnatsiz",
+        "Грубый / Qo‘pol",
+        "Невежливый / Odobsiz"
+      ],
+      "correctAnswer": "Неблагодарный / Minnatsiz"
     },
     {
       "question": "unite",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Объединяться / Birlashmoq",
+        "Разделяться / Bo‘linmoq",
+        "Зависеть / Bog‘liq bo‘lmoq",
+        "Терять / Yo‘qotmoq"
+      ],
+      "correctAnswer": "Объединяться / Birlashmoq"
     },
     {
       "question": "unknown",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Известный / Mashhur",
+        "Старый / Eski",
+        "Простой / Oddiy",
+        "Неизвестный / Noma’lum"
+      ],
+      "correctAnswer": "Неизвестный / Noma’lum"
     },
     {
       "question": "unlike",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Похожий / O‘xshagan",
+        "Не похожий / O‘xshamagan",
+        "Постоянный / Doimiy",
+        "Яркий / Yorqin"
+      ],
+      "correctAnswer": "Не похожий / O‘xshamagan"
     },
     {
       "question": "unspoken",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Невысказанный / Aytib o‘tilmagan",
+        "Открытый / Ochiq",
+        "Шумный / Shovqinli",
+        "Вежливый / Odobli"
+      ],
+      "correctAnswer": "Невысказанный / Aytib o‘tilmagan"
     }
   ],
   "V": [
     {
       "question": "vacation",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Учёба / O‘qish",
+        "Работа / Ish",
+        "Отпуск / Ta’til",
+        "Посылка / Posilka"
+      ],
+      "correctAnswer": "Отпуск / Ta’til"
     },
     {
       "question": "valuable",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Ценный / Qimmatli",
+        "Старый / Eski",
+        "Простой / Oddiy",
+        "Ненужный / Keraksiz"
+      ],
+      "correctAnswer": "Ценный / Qimmatli"
     },
     {
       "question": "variety",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Единство / Yagonalik",
+        "Разнообразие / Turli-tumanlik",
+        "Свобода / Ozodlik",
+        "Порядок / Tizim"
+      ],
+      "correctAnswer": "Разнообразие / Turli-tumanlik"
     },
     {
       "question": "various",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Разные / Turli",
+        "Строгие / Qattiq",
+        "Громкие / Shovqinli",
+        "Старые / Eski"
+      ],
+      "correctAnswer": "Разные / Turli"
     },
     {
       "question": "vein",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Мозг / Miya",
+        "Вена / Tomir",
+        "Сердце / Yurak",
+        "Желудок / Oshqozon"
+      ],
+      "correctAnswer": "Вена / Tomir"
     },
     {
       "question": "verse",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Песня / Qo‘shiq",
+        "Книга / Kitob",
+        "Газета / Gazeta",
+        "Стих / She’r"
+      ],
+      "correctAnswer": "Стих / She’r"
     },
     {
       "question": "view",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Вид / Manzara",
+        "Сон / Tush",
+        "Мир / Tinchlik",
+        "Речь / Nutq"
+      ],
+      "correctAnswer": "Вид / Manzara"
     },
     {
       "question": "villain",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Солдат / Askar",
+        "Злодей / Yovuz odam",
+        "Герой / Qahramon",
+        "Писатель / Yozuvchi"
+      ],
+      "correctAnswer": "Злодей / Yovuz odam"
     },
     {
       "question": "vision",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Слух / Eshitish",
+        "Мышление / Fikrlash",
+        "Чтение / O‘qish",
+        "Зрение / Ko‘rish qobiliyati"
+      ],
+      "correctAnswer": "Зрение / Ko‘rish qobiliyati"
     },
     {
       "question": "volume",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Температура / Harorat",
+        "Вес / Og‘irlik",
+        "Объём / Hajm",
+        "Скорость / Tezlik"
+      ],
+      "correctAnswer": "Объём / Hajm"
     }
   ],
   "W": [
     {
       "question": "wagon",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Машина / Mashina",
+        "Корабль / Kema",
+        "Поезд / Poyezd",
+        "Повозка / Arava"
+      ],
+      "correctAnswer": "Повозка / Arava"
     },
     {
       "question": "war",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Война / Urush",
+        "Игра / O‘yin",
+        "Работа / Ish",
+        "Мир / Tinchlik"
+      ],
+      "correctAnswer": "Война / Urush"
     },
     {
       "question": "weave",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Копать / Qazimoq",
+        "Бить / Urmoq",
+        "Ткать / To‘qimoq",
+        "Плавать / Suzmoq"
+      ],
+      "correctAnswer": "Ткать / To‘qimoq"
     },
     {
       "question": "whisky",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Виски / Viski",
+        "Чай / Choy",
+        "Сок / Sharbat",
+        "Кофе / Qahva"
+      ],
+      "correctAnswer": "Виски / Viski"
     },
     {
       "question": "whisper",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Петь / Qo‘shiq aytmoq",
+        "Шептать / Pichirlab gapirmoq",
+        "Кричать / Baqirmoq",
+        "Молчать / Jim turmoq"
+      ],
+      "correctAnswer": "Шептать / Pichirlab gapirmoq"
     },
     {
       "question": "wholehearted",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Раздражённый / G‘azablangan",
+        "Глупый / Ahmoq",
+        "Ленивый / Dangasa",
+        "Искренний / Chin dildan"
+      ],
+      "correctAnswer": "Искренний / Chin dildan"
     },
     {
       "question": "widespread",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Редкий / Kam uchraydigan",
+        "Широко распространённый / Keng tarqalgan",
+        "Ограниченный / Cheklangan",
+        "Забытый / Unutilgan"
+      ],
+      "correctAnswer": "Широко распространённый / Keng tarqalgan"
     },
     {
       "question": "wing",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Нога / Oyoq",
+        "Крыло / Qanot",
+        "Глаз / Ko‘z",
+        "Ухо / Quloq"
+      ],
+      "correctAnswer": "Крыло / Qanot"
     },
     {
       "question": "wipe",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Вытирать / Artmoq",
+        "Наливать / Quyish",
+        "Сжигать / Yoqmoq",
+        "Мешать / Aralashtirmoq"
+      ],
+      "correctAnswer": "Вытирать / Artmoq"
     },
     {
       "question": "witty",
-      "opinions": [],
-      "correctAnswer": ""
+      "options": [
+        "Тупой / Ahmoqona",
+        "Остроумный / Aql-zakovati kuchli",
+        "Медленный / Sekin",
+        "Скучный / Zerikarli"
+      ],
+      "correctAnswer": "Остроумный / Aql-zakovati kuchli"
     }
   ]
 }

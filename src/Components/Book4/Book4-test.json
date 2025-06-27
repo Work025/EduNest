@@ -1,0 +1,512 @@
+{
+    "A": [
+        {
+            "question": "ability",
+            "options": [
+                "Шанс / Imkon",
+                "Разрешение / Ruxsat",
+                "Навык / Ko'nikma",
+                "Время / Vaqt"
+            ],
+            "correctAnswer": "Навык / Ko'nikma"
+        },
+        {
+            "question": "achieve",
+            "options": [
+                "Достигать / Erishmoq",
+                "Отдавать / Berib yubormoq",
+                "Обманывать / Aldamoq",
+                "Забывать / Unutmoq"
+            ],
+            "correctAnswer": "Достигать / Erishmoq"
+        },
+        {
+            "question": "active",
+            "options": [
+                "Активный / Faol",
+                "Спящий / Uxlayotgan",
+                "Медленный / Sekin",
+                "Обычный / Oddiy"
+            ],
+            "correctAnswer": "Активный / Faol"
+        },
+        {
+            "question": "advice",
+            "options": [
+                "Совет / Maslahat",
+                "История / Hikoya",
+                "Запрос / So‘rov",
+                "Шанс / Imkon"
+            ],
+            "correctAnswer": "Совет / Maslahat"
+        },
+        {
+            "question": "agree",
+            "options": [
+                "Соглашаться / Rozi bo‘lmoq",
+                "Спорить / Talashmoq",
+                "Убегать / Qochmoq",
+                "Игнорировать / E’tibor bermaslik"
+            ],
+            "correctAnswer": "Соглашаться / Rozi bo‘lmoq"
+        },
+        {
+            "question": "alarm",
+            "options": [
+                "Тревога / Signal",
+                "Спокойствие / Tinchlik",
+                "Кровать / Yotoq",
+                "Телефон / Telefon"
+            ],
+            "correctAnswer": "Тревога / Signal"
+        },
+        {
+            "question": "amazing",
+            "options": [
+                "Удивительный / Ajoyib",
+                "Скучный / Zerikarli",
+                "Жестокий / Qattiqqo‘l",
+                "Бедный / Qashshoq"
+            ],
+            "correctAnswer": "Удивительный / Ajoyib"
+        },
+        {
+            "question": "amount",
+            "options": [
+                "Количество / Miqdor",
+                "Скорость / Tezlik",
+                "Состояние / Holat",
+                "Цена / Narx"
+            ],
+            "correctAnswer": "Количество / Miqdor"
+        },
+        {
+            "question": "ancient",
+            "options": [
+                "Древний / Qadimgi",
+                "Современный / Zamonaviy",
+                "Быстрый / Tez",
+                "Новый / Yangi"
+            ],
+            "correctAnswer": "Древний / Qadimgi"
+        },
+        {
+            "question": "angry",
+            "options": [
+                "Злой / G‘azablangan",
+                "Грустный / G‘amgin",
+                "Весёлый / Quvnoq",
+                "Сонный / Uxlovchi"
+            ],
+            "correctAnswer": "Злой / G‘azablangan"
+        }
+    ],
+    "B": [
+        {
+            "question": "balance",
+            "options": [
+                "Одежда / Kiyim",
+                "Мозг / Miya",
+                "Баланс / Muvozanat",
+                "Ущерб / Ziyon"
+            ],
+            "correctAnswer": "Баланс / Muvozanat"
+        },
+        {
+            "question": "bargain",
+            "options": [
+                "Шанс / Imkon",
+                "Сделка / Kelishuv",
+                "Отдых / Dam olish",
+                "Игрушка / O‘yinchoq"
+            ],
+            "correctAnswer": "Сделка / Kelishuv"
+        },
+        {
+            "question": "barrier",
+            "options": [
+                "Машина / Mashina",
+                "Препятствие / To‘siq",
+                "Дверь / Eshik",
+                "Переход / O‘tish"
+            ],
+            "correctAnswer": "Препятствие / To‘siq"
+        },
+        {
+            "question": "behave",
+            "options": [
+                "Рисовать / Chizmoq",
+                "Скрывать / Yashirmoq",
+                "Вести себя / O‘zini tutmoq",
+                "Орать / Baqirmoq"
+            ],
+            "correctAnswer": "Вести себя / O‘zini tutmoq"
+        },
+        {
+            "question": "benefit",
+            "options": [
+                "Польза / Foyda",
+                "Скорость / Tezlik",
+                "Опасность / Xavf",
+                "Работа / Ish"
+            ],
+            "correctAnswer": "Польза / Foyda"
+        },
+        {
+            "question": "betray",
+            "options": [
+                "Любить / Sevmoq",
+                "Развивать / Rivojlantirmoq",
+                "Предавать / Xiyonat qilmoq",
+                "Проверять / Tekshirmoq"
+            ],
+            "correctAnswer": "Предавать / Xiyonat qilmoq"
+        },
+        {
+            "question": "blame",
+            "options": [
+                "Обвинять / Ayblamoq",
+                "Плакать / Yig‘lamoq",
+                "Хвалить / Maqtamoq",
+                "Извиняться / Kechirim so‘ramoq"
+            ],
+            "correctAnswer": "Обвинять / Ayblamoq"
+        },
+        {
+            "question": "bless",
+            "options": [
+                "Смотреть / Qaramoq",
+                "Забывать / Unutmoq",
+                "Благословлять / Duo qilmoq",
+                "Бежать / Yugurmoq"
+            ],
+            "correctAnswer": "Благословлять / Duo qilmoq"
+        },
+        {
+            "question": "boast",
+            "options": [
+                "Молиться / Iltijo qilmoq",
+                "Хвастаться / Maqtanmoq",
+                "Мечтать / Orzu qilmoq",
+                "Слушать / Eshitmoq"
+            ],
+            "correctAnswer": "Хвастаться / Maqtanmoq"
+        },
+        {
+            "question": "bravery",
+            "options": [
+                "Скорость / Tezlik",
+                "Чистота / Tozalik",
+                "Ложь / Yolg‘on",
+                "Храбрость / Jasorat"
+            ],
+            "correctAnswer": "Храбрость / Jasorat"
+        }
+    ],
+    "C": [
+        {
+            "question": "capital",
+            "options": [
+                "Город / Shahar",
+                "Столица / Poytaxt",
+                "Банк / Bank",
+                "Компания / Kompaniya"
+            ],
+            "correctAnswer": "Столица / Poytaxt"
+        },
+        {
+            "question": "careful",
+            "options": [
+                "Громкий / Shovqinli",
+                "Быстрый / Tez",
+                "Тяжёлый / Og‘ir",
+                "Внимательный / Ehtiyotkor"
+            ],
+            "correctAnswer": "Внимательный / Ehtiyotkor"
+        },
+        {
+            "question": "celebrate",
+            "options": [
+                "Работать / Ishlamoq",
+                "Забывать / Unutmoq",
+                "Праздновать / Nishonlamoq",
+                "Бежать / Yugurmoq"
+            ],
+            "correctAnswer": "Праздновать / Nishonlamoq"
+        },
+        {
+            "question": "challenge",
+            "options": [
+                "Игра / O‘yin",
+                "Ответ / Javob",
+                "Вызов / Qiyinchilik",
+                "Подарок / Sovg‘a"
+            ],
+            "correctAnswer": "Вызов / Qiyinchilik"
+        },
+        {
+            "question": "choice",
+            "options": [
+                "Цена / Narx",
+                "Память / Xotira",
+                "Выбор / Tanlov",
+                "Время / Vaqt"
+            ],
+            "correctAnswer": "Выбор / Tanlov"
+        },
+        {
+            "question": "clever",
+            "options": [
+                "Громкий / Shovqinli",
+                "Медленный / Sekin",
+                "Смешной / Kulgili",
+                "Умный / Aqliy"
+            ],
+            "correctAnswer": "Умный / Aqliy"
+        },
+        {
+            "question": "comfort",
+            "options": [
+                "Удобство / Quvlaylik",
+                "Тепло / Issiqlik",
+                "Боль / Og‘riq",
+                "Свет / Yorug‘lik"
+            ],
+            "correctAnswer": "Удобство / Quvlaylik"
+        },
+        {
+            "question": "compare",
+            "options": [
+                "Измерять / O‘lchamoq",
+                "Сравнивать / Taqqoslamoq",
+                "Рисовать / Chizmoq",
+                "Описывать / Tasvirlamoq"
+            ],
+            "correctAnswer": "Сравнивать / Taqqoslamoq"
+        },
+        {
+            "question": "create",
+            "options": [
+                "Создавать / Yaratmoq",
+                "Прыгать / Sakramoq",
+                "Бежать / Yugurmoq",
+                "Звать / Chaqirmoq"
+            ],
+            "correctAnswer": "Создавать / Yaratmoq"
+        },
+        {
+            "question": "culture",
+            "options": [
+                "Культура / Madaniyat",
+                "Кухня / Oshxona",
+                "Транспорт / Transport",
+                "Одежда / Kiyim"
+            ],
+            "correctAnswer": "Культура / Madaniyat"
+        }
+    ],
+    "D": [
+        {
+            "question": "danger",
+            "options": [
+                "Надежда / Umid",
+                "Помощь / Yordam",
+                "Подарок / Sovg‘a",
+                "Опасность / Xavf"
+            ],
+            "correctAnswer": "Опасность / Xavf"
+        },
+        {
+            "question": "decide",
+            "options": [
+                "Слушать / Eshitmoq",
+                "Решать / Qaror qilmoq",
+                "Бежать / Yugurmoq",
+                "Сравнивать / Taqqoslamoq"
+            ],
+            "correctAnswer": "Решать / Qaror qilmoq"
+        },
+        {
+            "question": "deep",
+            "options": [
+                "Светлый / Yorug‘",
+                "Тонкий / Yupqa",
+                "Глубокий / Chuqur",
+                "Медленный / Sekin"
+            ],
+            "correctAnswer": "Глубокий / Chuqur"
+        },
+        {
+            "question": "describe",
+            "options": [
+                "Описывать / Tasvirlamoq",
+                "Считать / Hisoblamoq",
+                "Рисовать / Chizmoq",
+                "Сравнивать / Taqqoslamoq"
+            ],
+            "correctAnswer": "Описывать / Tasvirlamoq"
+        },
+        {
+            "question": "develop",
+            "options": [
+                "Тратить / Sarflamoq",
+                "Прыгать / Sakramoq",
+                "Играть / O‘ynamoq",
+                "Развивать / Rivojlantirmoq"
+            ],
+            "correctAnswer": "Развивать / Rivojlantirmoq"
+        },
+        {
+            "question": "difference",
+            "options": [
+                "Разница / Farq",
+                "Ответ / Javob",
+                "Причина / Sabab",
+                "Решение / Qaror"
+            ],
+            "correctAnswer": "Разница / Farq"
+        },
+        {
+            "question": "direction",
+            "options": [
+                "Скорость / Tezlik",
+                "Направление / Yo‘nalish",
+                "Поворот / Burilish",
+                "Место / Joy"
+            ],
+            "correctAnswer": "Направление / Yo‘nalish"
+        },
+        {
+            "question": "discuss",
+            "options": [
+                "Обсуждать / Muhokama qilmoq",
+                "Игнорировать / E’tibor bermaslik",
+                "Писать / Yozmoq",
+                "Слушать / Eshitmoq"
+            ],
+            "correctAnswer": "Обсуждать / Muhokama qilmoq"
+        },
+        {
+            "question": "dream",
+            "options": [
+                "Цель / Maqsad",
+                "Реальность / Haqiqat",
+                "Мечта / Orzu",
+                "Работа / Ish"
+            ],
+            "correctAnswer": "Мечта / Orzu"
+        },
+        {
+            "question": "drive",
+            "options": [
+                "Водить / Haydamoq",
+                "Ходить / Yurgan",
+                "Плавать / Suzmoq",
+                "Летать / Uchmoq"
+            ],
+            "correctAnswer": "Водить / Haydamoq"
+        }
+    ],
+    "E": [
+        {
+            "question": "earn",
+            "options": [
+                "Бежать / Yugurmoq",
+                "Зарабатывать / Pul topmoq",
+                "Звонить / Qo‘ng‘iroq qilmoq",
+                "Слушать / Eshitmoq"
+            ],
+            "correctAnswer": "Зарабатывать / Pul topmoq"
+        },
+        {
+            "question": "easy",
+            "options": [
+                "Тяжёлый / Og‘ir",
+                "Лёгкий / Oson",
+                "Шумный / Shovqinli",
+                "Сложный / Murakkab"
+            ],
+            "correctAnswer": "Лёгкий / Oson"
+        },
+        {
+            "question": "education \" /Nest \" ",
+            "options": [
+                "Экзамен / Imtihon",
+                "Образование / Ta’lim",
+                "Одежда / Kiyim",
+                "Работа / Ish"
+            ],
+            "correctAnswer": "Образование / Ta’lim"
+        },
+        {
+            "question": "effort",
+            "options": [
+                "Путешествие / Sayohat",
+                "Покой / Tinchlik",
+                "Подарок / Sovg‘a",
+                "Усилие / Harakat"
+            ],
+            "correctAnswer": "Усилие / Harakat"
+        },
+        {
+            "question": "electric",
+            "options": [
+                "Природный / Tabiiy",
+                "Электрический / Elektrik",
+                "Механический / Mexanik",
+                "Тёплый / Issiq"
+            ],
+            "correctAnswer": "Электрический / Elektrik"
+        },
+        {
+            "question": "emotion",
+            "options": [
+                "Правда / Haqiqat",
+                "Эмоция / Hissiyot",
+                "Цель / Maqsad",
+                "Действие / Harakat"
+            ],
+            "correctAnswer": "Эмоция / Hissiyot"
+        },
+        {
+            "question": "employ",
+            "options": [
+                "Нанимать / Ishga olmoq",
+                "Проверять / Tekshirmoq",
+                "Писать / Yozmoq",
+                "Слушать / Eshitmoq"
+            ],
+            "correctAnswer": "Нанимать / Ishga olmoq"
+        },
+        {
+            "question": "energy",
+            "options": [
+                "Покой / Tinchlik",
+                "Энергия / Energiya",
+                "Память / Xotira",
+                "Голод / Ochlik"
+            ],
+            "correctAnswer": "Энергия / Energiya"
+        },
+        {
+            "question": "enjoy",
+            "options": [
+                "Плакать / Yig‘lamoq",
+                "Наслаждаться / Rohatlanmoq",
+                "Пугать / Qo‘rqitmoq",
+                "Забывать / Unutmoq"
+            ],
+            "correctAnswer": "Наслаждаться / Rohatlanmoq"
+        },
+        {
+            "question": "environment",
+            "options": [
+                "Окружающая среда / Atrof-muhit",
+                "Правительство / Hukumat",
+                "Закон / Qonun",
+                "Здание / Bino"
+            ],
+            "correctAnswer": "Окружающая среда / Atrof-muhit"
+        }
+    ]
+}

@@ -5,6 +5,7 @@
   list-style-type: none;
   text-decoration: none;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  outline: none;
 }
 
 .login {
@@ -44,7 +45,7 @@
   }
 }
 
-.login-box-input{
+.login-box-input {
   width: 100%;
   height: 40px;
   display: flex;
@@ -54,7 +55,7 @@
   z-index: 1;
 }
 
-.login-box-input input{
+.login-box-input input {
   width: 100%;
   height: 100%;
   border-radius: 10px;
@@ -64,14 +65,14 @@
   font-size: 17px;
 }
 
-.login-box-input i{
+.login-box-input i {
   position: absolute;
   z-index: 2;
   right: 17px;
   color: #0084f0;
 }
 
-.login-box button{
+.login-box button {
   width: 100%;
   height: 40px;
   background-color: #0084f0;
@@ -80,3 +81,52 @@
   font-size: 17px;
   border-radius: 10px;
 }
+
+@media (max-width: 900px) {
+  .login {
+    padding: 0 70px;
+  }
+
+  .login-box {
+    width: 350px;
+    height: 220px;
+  }
+
+  .login-box h1 {
+    font-size: 28px;
+  }
+
+  .login-box-input input {
+    font-size: 16px;
+  }
+
+  .login-box button {
+    font-size: 16px;
+  }
+}
+
+@media(max-width: 480px) {
+  .login {
+    padding: 0;
+    background-position: left center;
+  }
+
+  .login-box {
+    width: 100%;
+    height: 200px;
+    padding: 20px;
+  }
+
+  .login-box h1 {
+    font-size: 24px;
+  }
+
+  .login-box-input input {
+    font-size: 16px;
+  }
+
+  .login-box button {
+    font-size: 16px;
+  }
+}
+

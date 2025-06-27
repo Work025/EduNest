@@ -16,6 +16,27 @@ const Home = ({ user }) => {
   const [crop, setCrop] = useState({ x: 0, y: 0 });
   const [zoom, setZoom] = useState(1);
   const [croppedAreaPixels, setCroppedAreaPixels] = useState(null);
+  const [language, setLanguage] = useState("uz");
+
+  const infoTexts = {
+    uz: {
+      p: `Edu/Nest — bu o‘quvchilar uchun mo‘ljallangan onlayn ta’lim platformasi. Bu yerda siz ingliz tilini testlar orqali o‘rganishingiz, bilimlaringizni sinab ko‘rishingiz va yutuqlaringizni kuzatib borishingiz mumkin.`,
+      mark: `Test / Dars / O‘quvchilar / Natijalar / Til ko‘nikmalari`,
+      h1: `Edu/Nest haqida`
+    },
+    ru: {
+      p: `Edu/Nest — это онлайн-платформа, предназначенная для учеников. Здесь вы можете изучать английский язык с помощью тестов, проверять свои знания и отслеживать свои достижения.`,
+      mark: `Тест / Урок / Ученики / Результаты / Языковые навыки`,
+      h1: `О платформе Edu/Nest`
+    },
+    en: {
+      p: `Edu/Nest is an online educational platform designed for students. Here you can learn English through tests, assess your knowledge, and track your achievements.`,
+      mark: `Test / Lesson / Students / Results / Language Skills`,
+      h1: `About Edu/Nest`
+    }
+  };
+
+
 
   const onCropComplete = (_, croppedAreaPixels) => {
     setCroppedAreaPixels(croppedAreaPixels);
@@ -24,7 +45,9 @@ const Home = ({ user }) => {
   const handleCropConfirm = async () => {
     const croppedImage = await getCroppedImg(preview, croppedAreaPixels);
     setImage(croppedImage);
-    localStorage.setItem("userImage", croppedImage);
+    if (user?.id) {
+      localStorage.setItem(`user_${user.id}_image`, croppedImage);
+    }
     setShowModal(false);
   };
 
@@ -32,6 +55,13 @@ const Home = ({ user }) => {
     setEduData(eduData);
     setUserData(user);  // 🔁 login bo'lgan user
     setLoading(false);
+  }, [user]);
+
+  useEffect(() => {
+    if (user?.id) {
+      const storedImage = localStorage.getItem(`user_${user.id}_image`);
+      if (storedImage) setImage(storedImage);
+    }
   }, [user]);
 
   useEffect(() => {
@@ -90,7 +120,6 @@ const Home = ({ user }) => {
               ref={fileInputRef}
               onChange={handleImageChange}
             />
-            <div className="pro-about-img-tell"><p>!</p></div>
           </div>
           <div className="pro-about-text">
             {!loading && userData ? (
@@ -107,7 +136,6 @@ const Home = ({ user }) => {
           </div>
         </div>
       </div>
-
       {!loading && edu.length > 0 && (
         <div className="edu-section">
           {edu.map((item, idx) => (

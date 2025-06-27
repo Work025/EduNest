@@ -2,12 +2,13 @@
     width: 100%;
     height: auto;
     display: flex;
-    padding: 0 100px 15px 100px;
     flex-direction: column;
-    justify-content: space-between;
+    padding: 0 100px 15px 100px;
     background-color: #f9fafc;
-    transition: all 1s;
     box-shadow: 0 0 10px #ddd;
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 10;
 }
 
 .header-text {
@@ -143,5 +144,35 @@
         white-space: nowrap;
         background-color: #0084ff;
         border-radius: 5px;
+    }
+}
+
+@media(max-width:320px) {
+    .header {
+        padding: 5px;
+    }
+
+    .header.fixed {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        animation: slideDown 0.3s ease;
+
+        div h1 {
+            display: none;
+        }
+    }
+
+    /* Optional: Slide down animation */
+    @keyframes slideDown {
+        from {
+            transform: translateY(-100%);
+        }
+
+        to {
+            transform: translateY(0);
+        }
     }
 }
