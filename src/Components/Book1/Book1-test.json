@@ -12,15 +12,15 @@
         {
             "question": "Lesson-1 (2) Ayol / женщина",
             "options": [
-                "Men",
-                "Women",
+                "Man",
+                "Woman",
                 "Boy",
                 "Girl"
             ],
-            "correctAnswer": "Women"
+            "correctAnswer": "Woman"
         },
         {
-            "question": "Lesson-1 (3) Tog' / ",
+            "question": "Lesson-1 (3) Tog' / гора",
             "options": [
                 "Clock",
                 "Question",
@@ -51,7 +51,7 @@
     ],
     "Lesson-2": [
         {
-            "question": "Lesson-2 (1)Where / где",
+            "question": "Lesson-2 (1) Where / где",
             "options": [
                 "Where",
                 "When",
@@ -61,43 +61,43 @@
             "correctAnswer": "Where"
         },
         {
-            "question": "Lesson-2 (2) Siyoxdon / чернила",
+            "question": "Lesson-2 (2) Siyoxdon / чернильница",
             "options": [
-                "pen",
-                "inkpot",
-                "under"
+                "Pen",
+                "Inkpot",
+                "Under"
             ],
-            "correctAnswer": "inkpot"
+            "correctAnswer": "Inkpot"
         },
         {
             "question": "Lesson-2 (3) Unli / гласный",
             "options": [
-                "bed",
-                "apple",
-                "under",
-                "vowel"
+                "Bed",
+                "Apple",
+                "Under",
+                "Vowel"
             ],
-            "correctAnswer": "vowel"
+            "correctAnswer": "Vowel"
         },
         {
             "question": "Lesson-2 (4) Devor / стена",
             "options": [
-                "door",
-                "window",
-                "wall",
-                "table"
+                "Door",
+                "Window",
+                "Wall",
+                "Table"
             ],
-            "correctAnswer": "wall"
+            "correctAnswer": "Wall"
         },
         {
             "question": "Lesson-2 (5) Sichqon / мышь",
             "options": [
-                "good",
-                "mouse",
-                "plate",
-                "umbrella"
+                "Good",
+                "Mouse",
+                "Plate",
+                "Umbrella"
             ],
-            "correctAnswer": "mouse"
+            "correctAnswer": "Mouse"
         }
     ],
     "Lesson-3": [
@@ -112,8 +112,7 @@
             "correctAnswer": "singular"
         },
         {
-            "question": "Lesson-3 (2) Buyer / здесь",
-            "russian": "лошадь",
+            "question": "Lesson-3 (2) Bu yer / здесь",
             "options": [
                 "there",
                 "them",
@@ -129,7 +128,8 @@
                 "near",
                 "flower",
                 "moon"
-            ]
+            ],
+            "correctAnswer": "flower"
         },
         {
             "question": "Lesson-3 (4) Yopiq / закрытый",
@@ -142,7 +142,7 @@
             "correctAnswer": "close"
         },
         {
-            "question": "Lesson-3 (5) Afnsant / афинсан",
+            "question": "Lesson-3 (5) Ofitsiant / официант",
             "options": [
                 "waiter",
                 "earth",
@@ -157,7 +157,7 @@
             "question": "Lesson-4 (1) Kim / кто",
             "options": [
                 "who",
-                "When",
+                "when",
                 "why",
                 "where"
             ],
@@ -1916,7 +1916,7 @@
             "question": "Lesson-28 (2) To‘g‘ri / правда",
             "options": [
                 "right",
-                "true", 
+                "true",
                 "correct",
                 "sure"
             ],
