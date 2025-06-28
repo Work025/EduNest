@@ -47,7 +47,7 @@ function App() {
       setCurrentUser(foundUser);
       setLoginStatus("Login successful");
     } else {
-      setLoginStatus("Password no found");
+      setLoginStatus("Password not found");
     }
   };
 
@@ -123,7 +123,7 @@ function App() {
               <Route
                 path="/admin"
                 element={
-                  loggedIn && currentUser?.id === "0" ? <Admin /> : <h1>Access Denied 🚫</h1>
+                  loggedIn && currentUser?.id === "0" ? <Admin /> : <h1 style={{ color: 'red' }}>🚫 You do not have access to this page.</h1>
                 }
               />
             </Routes>
