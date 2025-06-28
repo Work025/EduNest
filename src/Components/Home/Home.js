@@ -129,6 +129,12 @@ const Home = ({ user }) => {
                 <h2>Class number <span>/</span> {userData.class}</h2><hr />
                 <h2>Time <span>/</span> {userData.time}</h2><hr />
                 <h2>Group <span>/</span> {userData.group}</h2>
+                {userData?.email && (
+                  <>
+                    <hr />
+                    <h2>Email <span>/</span> {userData.email}</h2>
+                  </>
+                )}
               </>
             ) : (
               <h2>Loading...</h2>

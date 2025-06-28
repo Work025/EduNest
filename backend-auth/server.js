@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use('/api/auth', require('./routes/auth')); // <--- MUHIM
+app.use('/api/tests', require('./routes/test'));
 
 const PORT = process.env.PORT || 5000;
 

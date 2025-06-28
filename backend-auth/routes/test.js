@@ -1,38 +1,45 @@
 const express = require('express');
 const router = express.Router();
-const TestResult = require('../models/TestResult');
-const { protect, isAdmin } = require('../middleware/authMiddleware');
+const Test = require('../models/Test');
+const verifyToken = require('../middleware/auth'); // JWT tekshiruvi
+const isAdmin = require('../middleware/isAdmin');
 
-// Save test result
-router.post('/test-result', protect, async (req, res) => {
+// 🔐 GET /api/tests/all  → faqat admin ko‘radi
+router.get('/all', verifyToken, isAdmin, async (req, res) => {
   try {
-    const result = await TestResult.create({
-      user: req.user.id,
-      score: req.body.score
+    const allTests = await Test.find().populate('userId', 'email'); // user emailini olib kelish
+    res.json(allTests);
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+
+// 🔐 Saqlash: POST /api/tests
+router.post('/', verifyToken, async (req, res) => {
+  try {
+    const { score, questions } = req.body;
+
+    const test = new Test({
+      userId: req.user.id,  // JWT orqali user aniqlanadi
+      score,
+      questions
     });
-    res.status(201).json(result);
+
+    await test.save();
+    res.status(201).json(test);
   } catch (err) {
-    res.status(500).json({ message: 'Xatolik test saqlashda' });
+    res.status(500).json({ message: err.message });
   }
 });
 
-// Get my results
-router.get('/test-result', protect, async (req, res) => {
+// 🔐 Faqat login bo‘lgan user testlarini ko‘rish: GET /api/tests
+router.get('/', verifyToken, async (req, res) => {
   try {
-    const results = await TestResult.find({ user: req.user.id });
-    res.json(results);
+    const tests = await Test.find({ userId: req.user.id }).sort({ createdAt: -1 });
+    res.json(tests);
   } catch (err) {
-    res.status(500).json({ message: 'Xatolik' });
-  }
-});
-
-// Admin: get all results
-router.get('/admin/results', protect, isAdmin, async (req, res) => {
-  try {
-    const results = await TestResult.find().populate('user', 'username');
-    res.json(results);
-  } catch (err) {
-    res.status(500).json({ message: 'Xatolik' });
+    res.status(500).json({ message: err.message });
   }
 });
 

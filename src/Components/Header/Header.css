@@ -20,6 +20,7 @@
 }
 
 .header-text h1 {
+    width: 50%;
     font-size: 32px;
     color: #0084ff;
 
@@ -32,11 +33,9 @@
     width: 100%;
     height: 50px;
     display: flex;
-    align-items: self-end;
+    align-items: center;
     justify-content: flex-start;
     gap: 10px;
-    padding: 0 0 5px 0;
-    border-radius: 0 0 0 5px;
 }
 
 .header-ul li a {
@@ -90,24 +89,46 @@
     text-decoration: underline;
 }
 
+.header-user-info {
+    width: 50%;
+    height: auto;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.user-email {
+    color: #0084f0;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+}
+
+.logout-btn {
+    background-color: #0084ff;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
 @media (max-width: 901px) {
     .header {
         padding: 10px 30px;
-        transition: all 1s;
-    }
-
-    .header-ul li a:hover {
-        text-decoration: underline;
-    }
-
-    .header-ul li a:focus {
-        text-decoration: none;
-    }
-}
-
-@media (max-width: 600px) {
-    .header {
-        padding: 10px;
         transition: all 1s;
     }
 
@@ -145,6 +166,35 @@
         background-color: #0084ff;
         border-radius: 5px;
     }
+
+    .header-ul li a:hover {
+        text-decoration: underline;
+    }
+
+    .header-ul li a:focus {
+        text-decoration: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .header {
+        padding: 10px;
+        transition: all 1s;
+    }
+
+    .header-text {
+        flex-direction: column;
+    }
+
+    .header-text h1,
+    .header-user-info {
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        margin: 0;
+    }
 }
 
 @media(max-width:320px) {
@@ -152,27 +202,8 @@
         padding: 5px;
     }
 
-    .header.fixed {
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        animation: slideDown 0.3s ease;
-
-        div h1 {
-            display: none;
-        }
-    }
-
-    /* Optional: Slide down animation */
-    @keyframes slideDown {
-        from {
-            transform: translateY(-100%);
-        }
-
-        to {
-            transform: translateY(0);
-        }
+    .header-user-info {
+        margin: 0;
+        display: flex;
     }
 }
