@@ -1,4 +1,3 @@
-// src/Components/GoogleLoginButton.jsx
 import React from 'react';
 import { GoogleOAuthProvider, GoogleLogin } from '@react-oauth/google';
 import { jwtDecode } from 'jwt-decode';
@@ -9,8 +8,7 @@ const GoogleLoginButton = ({ setLoggedIn, setCurrentUser }) => {
       const { credential } = response;
       const decoded = jwtDecode(credential); // foydalanuvchini yechib olish
 
-      // ADMIN EMAIL 👇
-      const adminEmail = "admin@example.com"; // ← bu yerga o‘z Gmail'ingizni yozing
+      const adminEmail = "worknotivo@gmail.com"; // ← o‘zingizning Gmail'ingizni yozing
 
       const user = {
         id: decoded.email === adminEmail ? "0" : "google", // Admin bo‘lsa id: 0
