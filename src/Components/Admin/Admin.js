@@ -108,7 +108,7 @@ const Admin = () => {
           <table>
             <thead>
               <tr>
-                <th>Dars</th>
+                <th>Dars</th>       
                 <th>Holat</th>
                 <th>Natija</th>
               </tr>
