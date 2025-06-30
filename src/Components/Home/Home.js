@@ -135,10 +135,10 @@ const Home = ({ user }) => {
       {showModal && (
         <div style={{
           position: "fixed", top: 0, left: 0, right: 0, bottom: 0,
-          background: "rgba(0,0,0,0.7)", display: "flex",
+          background: "rgba(0,0,0,0.7)", display: "flex", flexDirection: "column",
           justifyContent: "center", alignItems: "center", zIndex: 9999
         }}>
-          <div style={{ position: "relative", width: 300, height: 300 }}>
+          <div style={{ position: "relative", width: 300, height: 300, background: "#ddd" }}>
             <Cropper
               image={preview}
               crop={crop}
@@ -151,7 +151,7 @@ const Home = ({ user }) => {
               onCropComplete={onCropComplete}
             />
           </div>
-          <div style={{ marginTop: 20, textAlign: "center" }}>
+          <div className="home-add-img" style={{ marginTop: 20, textAlign: "center" }}>
             <input
               type="range"
               min={1}
@@ -161,8 +161,8 @@ const Home = ({ user }) => {
               onChange={(e) => setZoom(e.target.value)}
             />
             <br />
-            <button onClick={handleCropConfirm} style={{ marginRight: 10 }}>Tasdiqlash</button>
-            <button onClick={() => setShowModal(false)}>Bekor qilish</button>
+            <button onClick={handleCropConfirm}>Confirmation <i class='fa-solid fa-check'></i></button>
+            <button onClick={() => setShowModal(false)}>Cancellation <i class='fa-solid fa-xmark'></i></button>
           </div>
         </div>
       )}
