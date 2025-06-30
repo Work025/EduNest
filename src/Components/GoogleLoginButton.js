@@ -8,7 +8,7 @@ const GoogleLoginButton = ({ setLoggedIn, setCurrentUser }) => {
       const { credential } = response;
       const decoded = jwtDecode(credential); // foydalanuvchini yechib olish
 
-      const adminEmail = "worknotivo@gmail.com"; // ← o‘zingizning Gmail'ingizni yozing
+      const adminEmail = "worknotivo@gmail.com"; 
 
       const user = {
         id: decoded.email === adminEmail ? "0" : "google", // Admin bo‘lsa id: 0
