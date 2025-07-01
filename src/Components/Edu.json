@@ -413,5 +413,11 @@
         "time": "4:00",
         "class": "21",
         "teacher": "Shakhnoza"
+    },
+    {
+        "id":"42",
+        "password":"45852114",
+        "name":"Kamron",
+        "sorename":"Narzulayev"
     }
 ]
