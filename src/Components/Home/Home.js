@@ -4,6 +4,8 @@ import defaultImg from "./pro-img.webp";
 import eduData from "../Edu.json";
 import Cropper from 'react-easy-crop';
 import getCroppedImg from './CropImg';
+import axios from "axios";
+
 
 const Home = ({ user }) => {
   const [image, setImage] = useState(defaultImg);
@@ -20,15 +22,35 @@ const Home = ({ user }) => {
   const onCropComplete = (_, croppedAreaPixels) => {
     setCroppedAreaPixels(croppedAreaPixels);
   };
-
   const handleCropConfirm = async () => {
     const croppedImage = await getCroppedImg(preview, croppedAreaPixels);
-    setImage(croppedImage);
-    if (user?.id) {
-      localStorage.setItem(`user_${user.id}_image`, croppedImage);
+
+    // ✅ Blob ni yaratamiz
+    const response = await fetch(croppedImage);
+    const blob = await response.blob();
+
+    // 📦 formData ga joylaymiz
+    const formData = new FormData();
+    formData.append("avatar", blob, "avatar.jpg");
+
+    try {
+      // 🌐 Backendga yuboramiz
+      const res = await axios.put(`https://edunest-k770.onrender.com/api/users/avatar/${user._id}`, {
+        avatar: uploadedUrl,
+      });
+
+      const uploadedUrl = res.data.imageUrl;
+
+      setImage(uploadedUrl); // Rasmni ko‘rsatamiz
+      if (user?.id) {
+        localStorage.setItem(`user_${user.id}_image`, uploadedUrl);
+      }
+      setShowModal(false);
+    } catch (error) {
+      console.error("❌ Yuklashda xatolik:", error);
     }
-    setShowModal(false);
   };
+
 
   useEffect(() => {
     setEduData(eduData);
@@ -91,7 +113,7 @@ const Home = ({ user }) => {
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseLeave}
           >
-            <img src={image} alt="Profile" />
+            <img src={userData?.avatar || defaultImg} alt="Profile" />
             <input
               type="file"
               accept="image/*"
