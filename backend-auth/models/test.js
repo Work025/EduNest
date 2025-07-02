@@ -3,6 +3,8 @@ const router = express.Router();
 const Test = require('../models/Test');
 const verifyToken = require('../middleware/auth'); // JWT tekshiruvi
 const isAdmin = require('../middleware/isAdmin');
+const Test = require('../models/Test');
+
 
 // 🔐 GET /api/tests/all  → faqat admin ko‘radi
 router.get('/all', verifyToken, isAdmin, async (req, res) => {
@@ -21,7 +23,7 @@ router.post('/', verifyToken, async (req, res) => {
     const { score, questions } = req.body;
 
     const test = new Test({
-      userId: req.user.id,  // JWT orqali user aniqlanadi
+      userId: req.user.id, 
       score,
       questions
     });
@@ -33,7 +35,6 @@ router.post('/', verifyToken, async (req, res) => {
   }
 });
 
-// 🔐 Faqat login bo‘lgan user testlarini ko‘rish: GET /api/tests
 router.get('/', verifyToken, async (req, res) => {
   try {
     const tests = await Test.find({ userId: req.user.id }).sort({ createdAt: -1 });
