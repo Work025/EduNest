@@ -2,6 +2,7 @@
   "name": "edunest",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://edu-nest-flax.vercel.app/",
   "homepage": ".",
   "dependencies": {
     "@react-oauth/google": "^0.12.2",

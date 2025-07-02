@@ -13,7 +13,7 @@ function Footer() {
                     <div>tel: +998 (94) 688 08 84</div>
                 </div>
                 <div className='footer-link'>
-                    <a href="https://t.me/+SZqUE_lp8u01YjVi" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/+fLWogkeRa1M4YzNi" target="_blank" rel="noopener noreferrer">
                         <i style={{ color: "blue", fontSize: "24px", marginRight: "10px" }} className="fa-brands fa-telegram"></i>
                     </a>
                     <a href="https://youtube.com/@YourChannel" target="_blank" rel="noopener noreferrer">
