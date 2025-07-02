@@ -2,14 +2,23 @@ const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors');
+const path = require('path');
 
 dotenv.config();
 
 const app = express();
-app.use(cors());
+
+// CORS sozlamasi — MUHIM
+app.use(cors({
+  origin: process.env.CORS_ORIGIN,
+  credentials: true,
+}));
+
 app.use(express.json());
 
+// Routes
 app.use('/api/tests', require('./routes/test'));
+app.use('/api/upload', require('./routes/upload')); // 🔥 Avatar yuklash marshruti
 
 const PORT = process.env.PORT || 5000;
 
