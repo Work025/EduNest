@@ -415,9 +415,33 @@
         "teacher": "Shakhnoza"
     },
     {
-        "id":"42",
-        "password":"45852114",
-        "name":"Kamron",
-        "sorename":"Narzulayev"
+        "id": "42",
+        "password": "5047856",
+        "name": "Rustam",
+        "sorename": "Maulenov",
+        "group": "1",
+        "time": "8:30",
+        "class": "21",
+        "teacher": "Shakhnoza"
+    },
+    {
+        "id": "43",
+        "password": "7048654",
+        "name": "Baxtiyor",
+        "sorename": "Sizikov",
+        "group": "1",
+        "time": "8:30",
+        "class": "21",
+        "teacher": "Shakhnoza"
+    },
+    {
+        "id": "44",
+        "password": "40503077",
+        "name": "Kamila",
+        "sorename": "Golivjonova",
+        "group": "1",
+        "time": "8:30",
+        "class": "21",
+        "teacher": "Shakhnoza"
     }
 ]
