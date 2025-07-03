@@ -5,6 +5,8 @@ import eduData from "../Edu.json";
 import Cropper from 'react-easy-crop';
 import getCroppedImg from './CropImg';
 import axios from "axios";
+import socket from '../../socket'; // to‘g‘ri yo‘lga qarab yozing
+
 
 
 const Home = ({ user }) => {
@@ -69,6 +71,25 @@ const Home = ({ user }) => {
     const storedImage = localStorage.getItem("userImage");
     if (storedImage) setImage(storedImage);
   }, []);
+
+  useEffect(() => {
+  const handleAvatarUpdate = ({ userId, avatarUrl }) => {
+    if (user?.id === userId) {
+      setImage(avatarUrl);
+      setUserData((prev) => ({
+        ...prev,
+        avatar: avatarUrl
+      }));
+    }
+  };
+
+  socket.on("avatar_updated", handleAvatarUpdate);
+
+  return () => {
+    socket.off("avatar_updated", handleAvatarUpdate);
+  };
+}, [user]);
+
 
   const handleImageClick = () => {
     fileInputRef.current.click();

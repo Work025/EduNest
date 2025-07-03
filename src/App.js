@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
+import LiveChat from './Components/LiveChat/LiveChat';
 import Book1 from './Components/Book1/Book1';
 import Book2 from './Components/Book2/Book2';
 import Book3 from './Components/Book3/Book3';
@@ -115,6 +116,7 @@ function App() {
           <div className="content">
             <Routes>
               <Route path="/" element={<Home user={currentUser} />} />
+              <LiveChat user={currentUser} /> 
               <Route path="/game" element={<Game />} />
               <Route path="/book1" element={<Book1 user={currentUser} />} />
               <Route path="/book2" element={<Book2 user={currentUser} />} />
