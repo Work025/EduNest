@@ -1,15 +1,42 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./Group.css";
 import data from "../Edu.json";
+import socket from "../../socket";
 
 function Group() {
     const [selectedGroup, setSelectedGroup] = useState("1");
+    const [groupData, setGroupData] = useState([]);
 
-    const filteredData = data.filter(t => t.group === selectedGroup);
+    // Boshlanishda: data ni avatarlar bilan yuklaymiz
+    useEffect(() => {
+        const enriched = data.map((user) => ({
+            ...user,
+            avatar: localStorage.getItem(`user_${user.id}_image`) || null
+        }));
+        setGroupData(enriched);
+    }, []);
 
-    const getUserImage = (userId) => {
-        return localStorage.getItem(`user_${userId}_image`);
-    };
+    // Avatar o‘zgarsa - socket orqali yangilaymiz
+    useEffect(() => {
+        const handleAvatarUpdate = ({ userId, avatarUrl }) => {
+            setGroupData(prev =>
+                prev.map(user =>
+                    user.id === userId
+                        ? { ...user, avatar: avatarUrl }
+                        : user
+                )
+            );
+            localStorage.setItem(`user_${userId}_image`, avatarUrl); // localStorage ni ham yangilaymiz
+        };
+
+        socket.on("avatar_updated", handleAvatarUpdate);
+
+        return () => {
+            socket.off("avatar_updated", handleAvatarUpdate);
+        };
+    }, []);
+
+    const filteredData = groupData.filter(t => t.group === selectedGroup);
 
     return (
         <div className="group">
@@ -20,7 +47,10 @@ function Group() {
                     </div>
                     <div className="group-name-btn">
                         {[1, 2, 3, 4, 5].map(num => (
-                            <button key={num} onClick={() => setSelectedGroup(num.toString())}>
+                            <button
+                                key={num}
+                                onClick={() => setSelectedGroup(num.toString())}
+                            >
                                 G<span>roup</span>-{num}
                             </button>
                         ))}
@@ -28,13 +58,15 @@ function Group() {
                 </div>
 
                 <div className="group-content">
-                    <div className="group-text"><h1>Group-{selectedGroup}</h1></div>
+                    <div className="group-text">
+                        <h1>Group-{selectedGroup}</h1>
+                    </div>
                     {filteredData.length > 0 ? (
                         filteredData.map(t => (
                             <div key={t.id} className="group-user">
-                                {getUserImage(t.id) ? (
+                                {t.avatar ? (
                                     <img
-                                        src={getUserImage(t.id)}
+                                        src={t.avatar}
                                         alt="User"
                                         style={{
                                             width: "50px",
@@ -61,9 +93,9 @@ function Group() {
                                     </div>
                                 )}
                                 <h3>{t.id}) {t.sorename}</h3>|
-                                <p><strong>Class: </strong> {t.class}</p>|
-                                <p><strong>Time: </strong> {t.time}</p>|
-                                <p><strong>Teacher: </strong> {t.teacher}</p>
+                                <p><strong>Class:</strong> {t.class}</p>|
+                                <p><strong>Time:</strong> {t.time}</p>|
+                                <p><strong>Teacher:</strong> {t.teacher}</p>
                             </div>
                         ))
                     ) : (
