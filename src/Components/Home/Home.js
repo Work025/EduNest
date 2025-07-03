@@ -27,26 +27,28 @@ const Home = ({ user }) => {
   const handleCropConfirm = async () => {
     const croppedImage = await getCroppedImg(preview, croppedAreaPixels);
 
-    // ✅ Blob ni yaratamiz
     const response = await fetch(croppedImage);
     const blob = await response.blob();
 
-    // 📦 formData ga joylaymiz
     const formData = new FormData();
     formData.append("avatar", blob, "avatar.jpg");
 
     try {
-      // 🌐 Backendga yuboramiz
-      const res = await axios.put(`https://edunest-k770.onrender.com/api/users/avatar/${user._id}`, {
-        avatar: uploadedUrl,
-      });
+      const uploadRes = await axios.put(
+        `https://edunest-k770.onrender.com/api/users/avatar/${user._id}`,
+        {
+          avatar: croppedImage  // ❗ blob emas, base64 yuborilyapti
+        }
+      );
 
-      const uploadedUrl = res.data.imageUrl;
+      const uploadedUrl = uploadRes.data.imageUrl; // ❗ avval res, keyin uploadedUrl
 
-      setImage(uploadedUrl); // Rasmni ko‘rsatamiz
+      setImage(uploadedUrl);
+      setUserData((prev) => ({ ...prev, avatar: uploadedUrl }));
       if (user?.id) {
         localStorage.setItem(`user_${user.id}_image`, uploadedUrl);
       }
+
       setShowModal(false);
     } catch (error) {
       console.error("❌ Yuklashda xatolik:", error);
@@ -73,22 +75,22 @@ const Home = ({ user }) => {
   }, []);
 
   useEffect(() => {
-  const handleAvatarUpdate = ({ userId, avatarUrl }) => {
-    if (user?.id === userId) {
-      setImage(avatarUrl);
-      setUserData((prev) => ({
-        ...prev,
-        avatar: avatarUrl
-      }));
-    }
-  };
+    const handleAvatarUpdate = ({ userId, avatarUrl }) => {
+      if (user?.id === userId) {
+        setImage(avatarUrl);
+        setUserData((prev) => ({
+          ...prev,
+          avatar: avatarUrl
+        }));
+      }
+    };
 
-  socket.on("avatar_updated", handleAvatarUpdate);
+    socket.on("avatar_updated", handleAvatarUpdate);
 
-  return () => {
-    socket.off("avatar_updated", handleAvatarUpdate);
-  };
-}, [user]);
+    return () => {
+      socket.off("avatar_updated", handleAvatarUpdate);
+    };
+  }, [user]);
 
 
   const handleImageClick = () => {

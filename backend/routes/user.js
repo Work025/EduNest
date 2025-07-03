@@ -1,15 +1,14 @@
-const express = require('express');
-const router = express.Router();
-const User = require('../models/User');
-
-// Barcha userlarni olish
-router.get('/', async (req, res) => {
-  try {
-    const users = await User.find();
-    res.json(users);
-  } catch (err) {
-    res.status(500).json({ message: err.message });
-  }
+// routes/user.js
+router.put('/avatar/:id', async (req, res) => {
+  const { avatar } = req.body;
+  const user = await User.findByIdAndUpdate(
+    req.params.id,
+    { avatar },
+    { new: true }
+  );
+  req.app.get('io').emit('avatar_updated', {
+    userId: req.params.id,
+    avatarUrl: avatar
+  });
+  res.json({ message: "Avatar updated", imageUrl: avatar });
 });
-
-module.exports = router;
